@@ -2,7 +2,7 @@
 description: 'The fairhive’s token serves 2 main functions : Utility and Governance.'
 ---
 
-# Token Details
+# Details
 
 | Spec.                          |                 Value                |
 | ------------------------------ | :----------------------------------: |
@@ -14,16 +14,14 @@ description: 'The fairhive’s token serves 2 main functions : Utility and Gover
 | **Max supply**                 |           `200,000,000.00`           |
 | **Capped**                     |                `true`                |
 | **Pre-minted**                 |                `true`                |
-| **Builder’s vesting schedule** |        `Progressive / 3 years`       |
-
-***
+| **Builder’s vesting schedule** |        `Progressive / 5 years`       |
 
 **POLN** (pronounced _pollen_) tokens are **pre-minted**.
 
-**Maximum supply** will generate **scarcity**.
+{% hint style="info" %}
+**Capped supply** will generate **scarcity**.
+{% endhint %}
 
 The **maximum supply of the token has also a positive impact** on the number of **ongoing missions** and the **token price** : the number of ongoing missions is bound with the number of circulating tokens which is bound with the token price.
 
 So, the token price determines the number of ongoing missions supported by the protocol : **the higher the price, the higher the number of potential ongoing missions**!
-
-And it also works the other way around…
