@@ -7,18 +7,6 @@ coverY: 135
 
 # Introduction
 
-{% hint style="info" %}
-latest version : **v2.0.3**
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">**DISCLAIMER**</mark>
-
-This **document contains multiple outdated sections** (purpose, token design, roadmap, etc).
-
-You should consider this white paper as a _**legacy project**_ barely focused on IT recruitment pains...
-{% endhint %}
-
 {% hint style="warning" %}
 _Processing fairhive.io migration..._
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TL; DR;](tl-dr.md)
+* [TL; DR;](README.md)
 * [Introduction](intro.md)
 * [DeFI context](defi-context.md)
 * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
