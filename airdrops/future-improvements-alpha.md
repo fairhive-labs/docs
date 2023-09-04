@@ -6,4 +6,4 @@ description: >-
 
 # Future Improvements (\~ Alpha 😇)
 
-Regarding the next **AirDrop**, /_activate_ **Response** should condition an on-chain transaction, **saving user data in the blockchain** and **distributing free $POLN** **tokens** 💰
+Regarding the next **AirDrop**, /_activate_ **Response** may trigger an on-chain transaction, **saving user data in the blockchain** and **distributing free $POLN** **tokens** 💰 to users and sponsors.

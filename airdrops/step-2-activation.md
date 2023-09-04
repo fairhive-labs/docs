@@ -14,5 +14,3 @@ Finally, the user has to:
 * paste the unique hash on activation form (_if it’s not already filled_) and last but not least, submit the form.
 
 After multiple controls, preregistration flow is completed and a confirmation email is sent to the user 👍
-
-\
