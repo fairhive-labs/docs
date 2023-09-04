@@ -1,6 +1,6 @@
 # Table of contents
 
-* [fairhive](README.md)
+* [⚠ disclaimer](README.md)
 * [TL; DR;](tl-dr.md)
 * [DeFI context](defi-context.md)
 * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
