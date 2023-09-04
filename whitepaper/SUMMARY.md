@@ -1,7 +1,7 @@
 # Table of contents
 
-* [⚠ disclaimer](README.md)
 * [TL; DR;](tl-dr.md)
+* [Introduction](intro.md)
 * [DeFI context](defi-context.md)
 * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
 * [Paradigm shift](paradigm-shift.md)
