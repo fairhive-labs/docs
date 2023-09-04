@@ -1,20 +1,24 @@
 ---
-description: Decentralized Economy for Recruitment and Trusted Projects
+description: >-
+  In this article, we’re willing to detail how pre-registration workflow is
+  implemented from off-chain perspective.
 cover: >-
-  https://images.unsplash.com/reserve/yra1GBrGTB65qtZpFaly_day%202.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwb2xsZW58ZW58MHx8fHwxNjg5MTE1NjQxfDA&ixlib=rb-4.0.3&q=85
-coverY: 135
+  https://images.unsplash.com/photo-1659896975336-4ff776bedb86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx2YWxpZGF0ZXxlbnwwfHx8fDE2ODkxMTUwMDV8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
-# whitepaper
+# waitlist / pre-registration workflow
 
 {% hint style="info" %}
-latest version : **v2.0.1**
+latest version: **v2.0**
 {% endhint %}
 
-{% hint style="danger" %}
-<mark style="color:red;">**DISCLAIMER**</mark>
+**Transparency** is very important to us and **we believe people should not trust open projects obfuscating their source code** in private repositories…
 
-This **document contains multiple outdated sections.**
+For what it’s worth, **poln is a new web3 project** and **all** **sources are published in public repositories!**
 
-You should consider this white paper as a _**legacy project**_ barely focused on IT recruitment pains...
-{% endhint %}
+They can be forked and implementation can be duplicated or modified.
+
+> BTW, this is what we expect 😅&#x20;
+>
+> We do believe newcomers and beginners will appreciate this “fair” approach.
