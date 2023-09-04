@@ -1,15 +1,14 @@
 # Table of contents
 
 * [whitepaper](README.md)
-  * [Table of contents](SUMMARY.md)
-  * [Architecture Overview / Web3 Design](architecture-overview-web3-design.md)
+  * [TL; DR;](tl-dr.md)
   * [DeFI context](defi-context.md)
+  * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
+  * [Architecture Overview / Web3 Design](architecture-overview-web3-design.md)
   * [Governance](governance.md)
   * [Objectives](objectives.md)
   * [Paradigm shift](paradigm-shift.md)
   * [Roadmap](roadmap.md)
-  * [TL; DR;](tl-dr.md)
-  * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
   * [Future Architecture / ASBC](future-architecture-asbc/README.md)
     * [DevOps CI/CD](future-architecture-asbc/devops-ci-cd.md)
     * [FHVM and topology](future-architecture-asbc/fhvm-and-topology.md)
