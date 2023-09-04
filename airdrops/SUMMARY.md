@@ -1,7 +1,7 @@
 # Table of contents
 
-* [waitlist / pre-registration workflow](README.md)
-  * [step #1 — Registration](step-1-registration.md)
-  * [step #2 — Activation](step-2-activation.md)
-  * [sequence diagram](sequence-diagram.md)
+* [Waitlist](README.md)
+  * [Step #1 — Registration](step-1-registration.md)
+  * [Step #2 — Activation](step-2-activation.md)
+  * [Sequence Diagram](sequence-diagram.md)
   * [Future Improvements (\~ Alpha 😇)](future-improvements-alpha.md)

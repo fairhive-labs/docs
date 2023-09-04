@@ -4,7 +4,7 @@ description: >-
   used to generate a unique token (JWT).
 ---
 
-# step #1 — Registration
+# Step #1 - Registration
 
 **Token** will be **used to generate a secured link** which will be **sent by email**. It will be **used to authenticate the user** in activation part.
 

@@ -2,7 +2,7 @@
 description: This schema illustrates the entire workflow.
 ---
 
-# sequence diagram
+# Sequence Diagram
 
 > For clarity, you should watch the following schema in new tab :yum:
 

@@ -4,7 +4,7 @@ description: >-
   extracted claims.
 ---
 
-# step #2 — Activation
+# Step #2 - Activation
 
 Finally, the user has to:
 
