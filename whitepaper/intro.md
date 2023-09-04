@@ -12,3 +12,5 @@ _Processing fairhive.io migration..._
 
 Assets are moving to **poln.org**
 {% endhint %}
+
+I think we can now drop this page...
