@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TL; DR;](README.md)
-* [Introduction](intro.md)
+* [Why PoLN ?](why-poln.md)
 * [DeFI context](defi-context.md)
 * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
 * [Paradigm shift](paradigm-shift.md)
