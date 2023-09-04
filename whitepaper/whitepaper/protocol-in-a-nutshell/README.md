@@ -1,2 +1,0 @@
-# Protocol in a nutshell
-
