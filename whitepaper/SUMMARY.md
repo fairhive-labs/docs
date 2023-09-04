@@ -1,7 +1,7 @@
 # Table of contents
 
-* [whitepaper](README.md)
-  * [TL; DR;](tl-dr.md)
+* [disclaimer](README.md)
+* [TL; DR;](tl-dr.md)
   * [DeFI context](defi-context.md)
   * [When classic recruitment sputters out](when-classic-recruitment-sputters-out.md)
   * [Architecture Overview / Web3 Design](architecture-overview-web3-design.md)
