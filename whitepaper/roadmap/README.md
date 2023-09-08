@@ -63,7 +63,7 @@ description: >-
 
 * Extend Staking
 * Support More Stablecoins
-* Lending, POLN holder can lend to Stakers (Agents/Mentors)
+* Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
 * Support multiple Agents/Mentors inside a single Fellowship
 * Training
 * Helpdesk
