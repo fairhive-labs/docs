@@ -2,7 +2,7 @@
 description: Actually, Ethereum protocol is perfectly designed for fairhive’s use cases.
 ---
 
-# Architecture Overview / Web3 Design
+# Architecture Overview
 
 It ‘s an **amazing solution** if you want to **decentralize backend services**.
 
@@ -22,4 +22,4 @@ They will also access the smart contract services.
 
 Frontend and Rest-API images will be built and deployed thanks to devops features of G**ithub** and **CircleCI.**
 
-Some Rest-API services will be deployed as **serverless services on Heroku**.
+Rest-API services will be deployed **on Heroku** and **AWS.**
