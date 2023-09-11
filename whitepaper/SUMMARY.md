@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is PoLN ? - TL; DR;](README.md)
-* [Sustain DeFI with work-based economy and promote wealth sharing](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/README.md)
+* [Why PoLN ?](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/README.md)
   * [DeFI context](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/defi-context.md)
 * [A paradigm shift](a-paradigm-shift/README.md)
   * [When traditional work and classic recruitment sputters out](a-paradigm-shift/when-classic-recruitment-sputters-out.md)
