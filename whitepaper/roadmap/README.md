@@ -1,7 +1,7 @@
 ---
 description: >-
   The roadmap will be regularly updated and shared with the community through
-  social media (medium.com, telegram, etc).
+  social medias.
 ---
 
 # Roadmap

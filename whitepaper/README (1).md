@@ -1,11 +1,10 @@
 ---
 description: >-
-  Built by the fairhive-labs team, decentralized application (D-App) fairhive
-  improves confidence in the Client/Talent relationship and raises mission
-  delivery to success and excellence.
+  Built by the fairhive-labs team, PoLN is a new decentralized work-based
+  economy promoting wealth creation and wealth sharing.
 ---
 
-# TL; DR;
+# What is PoLN ?
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*Pg9HeFjkHbFzp3sC" alt="" height="370" width="700"><figcaption></figcaption></figure>
 
