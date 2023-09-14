@@ -5,7 +5,9 @@ description: Build a new work-based economy and promote wealth sharing.
 # Why PoLN ?
 
 {% hint style="success" %}
-In a virtuous economy, if work were to act as the operating system of capitalism, then transitioning from traditional finance to decentralized finance could enhance wealth sharing, allowing individuals to have skin in the game and potentially boost overall confidence in the system.
+In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.&#x20;
+
+Catalyzing the integration of work into decentralized finance might drive more equitable wealth distribution, allowing individuals to genuinely have skin in the game, which in turn could elevate trust and assurance in the evolving system.
 {% endhint %}
 
 ## PoLN will be a decentralized system built upon 10 ambitious objectives:
