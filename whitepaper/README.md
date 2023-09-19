@@ -10,7 +10,7 @@ In a more virtuous economy compared to the traditional model, if we hypothesize 
 Catalyzing the integration of work into decentralized finance might drive more equitable wealth distribution, allowing individuals to genuinely have skin in the game, which in turn could elevate trust and assurance in the evolving system.
 {% endhint %}
 
-## PoLN will be a decentralized system built upon 10 ambitious objectives:
+## PoLN will be a decentralized system built upon 10 ambitious objectives
 
 1. **Forge a Supportive Community**: Establish and nurture a blockchain-powered community where members actively assist and uplift each other, promoting mutual growth and sharing of resources and opportunities within the decentralized ecosystem.
 2. **Foster Inclusivity and Accessibility**: Harness the decentralized nature of cryptocurrencies to ensure everyone, regardless of their socio-economic status, has access to the benefits of the economy, breaking barriers traditionally set by centralized financial systems.

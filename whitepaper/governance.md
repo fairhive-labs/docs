@@ -4,7 +4,7 @@ description: >-
   can quickly become difficult… and altogether impossible
 ---
 
-# Governance
+# 🚧 (WIP) Governance
 
 **Fairhive-labs** should be, at first, the only entity to **lead the strategy and the development for an initial period of 2 years**.
 

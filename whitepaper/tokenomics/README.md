@@ -1,2 +1,2 @@
-# Tokenomics
+# 🚧 (WIP) Token Design
 
