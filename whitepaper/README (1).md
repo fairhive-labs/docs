@@ -94,7 +94,11 @@ With this new framework, PoLN, through its dynamic fellowships and committed ini
 
 ## Discovering PoLN through its core objectives
 
-<figure><img src=".gitbook/assets/PoLN - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
+<div data-full-width="true">
+
+<figure><img src=".gitbook/assets/PoLN - value prop (1).jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
+
+</div>
 
 ### **Forge a Supportive Community**
 
