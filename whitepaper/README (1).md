@@ -17,8 +17,6 @@ In essence, PoLN provides a cohesive blueprint for the future, effectively syner
 It's not just a protocol; it's a movement towards a more equitable and efficient economic model.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/PoLN - value prop.jpg" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 The challenges posed by the traditional economy, mounting wealth inequality, overlooked expectations of newer generations, and conventional work structures demand a system overhaul.
 {% endhint %}
@@ -95,6 +93,8 @@ With this new framework, PoLN, through its dynamic fellowships and committed ini
 {% endhint %}
 
 ## Discovering PoLN through its core objectives
+
+<figure><img src=".gitbook/assets/PoLN - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
 
 ### **Forge a Supportive Community**
 
