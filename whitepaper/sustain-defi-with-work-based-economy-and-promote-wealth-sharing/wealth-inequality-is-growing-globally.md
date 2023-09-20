@@ -2,6 +2,23 @@
 description: >-
   Inequitable value distribution and lack of fair compensation in traditional
   economy accentuates wealth inequalities.
+cover: >-
+  ../.gitbook/assets/_whyvrafvr_a_rich_old_man_sit_down_on_money_wealth_pyramid_on_t_2f07a6dd-0c5a-4e27-8074-09034ae6eae7.png
+coverY: 160.24533333333332
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Wealth inequality is growing globally
