@@ -3,6 +3,23 @@ description: >-
   The rigid structures and slow adaptability of traditional economies contrast
   with the dynamic, value-driven, and globally-oriented expectations of newer
   generations.
+cover: >-
+  ../.gitbook/assets/_whyvrafvr_crowd_walking_in_futuristic_city_looking_at_the_sky__ceafce02-0a85-4981-bfb4-01353c8872c7.png
+coverY: -141.9172857850421
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # New generations have different expectations

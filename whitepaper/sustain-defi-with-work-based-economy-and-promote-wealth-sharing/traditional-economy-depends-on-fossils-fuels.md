@@ -2,6 +2,23 @@
 description: >-
   The heavy reliance of the global economy on fossil fuels exacerbates
   environmental degradation and accelerates climate change.
+cover: >-
+  ../.gitbook/assets/_whyvrafvr_realistic_extraction_of_petroleum_focus_on_pumps_oil_35f32604-e4d0-4b75-a7f7-b178994e3951.png
+coverY: 43
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Traditional economy depends on fossils fuels

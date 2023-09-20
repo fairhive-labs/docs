@@ -3,6 +3,23 @@ description: >-
   Small businesses are adapting to the future of work, which is shifting from
   traditional work models to a blend of freelancing and self-employment, thereby
   transforming recruitment practices.
+cover: >-
+  ../.gitbook/assets/_whyvrafvr_show_self-employed_individuals_or_small_businesses_u_797f9446-22e3-46e9-bf0c-9d968ef015f5.png
+coverY: -7
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Future of work is a paradigm shift underpinned by self-employment

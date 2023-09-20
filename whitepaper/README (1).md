@@ -3,6 +3,22 @@ description: >-
   Designed by fairhive-labs, PoLN protocol serves as the foundation for a new
   decentralized work-based economy, synergizing wealth creation and collective
   sharing.
+cover: .gitbook/assets/_whyvrafvr_people_e5bc9363-120e-4214-b702-c116c835a818.png
+coverY: -127
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # What is PoLN ?

@@ -1,5 +1,22 @@
 ---
 description: Build a new work-based economy and promote wealth sharing.
+cover: >-
+  .gitbook/assets/_whyvrafvr_people_chain_block_universes_deep_purple_dark_blue_c_b77d2de2-a8e3-4a3b-819e-5e1cc0297782.png
+coverY: 155
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Why PoLN ?
