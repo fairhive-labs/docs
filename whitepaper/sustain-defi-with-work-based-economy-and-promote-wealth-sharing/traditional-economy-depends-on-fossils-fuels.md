@@ -3,8 +3,8 @@ description: >-
   The heavy reliance of the global economy on fossil fuels exacerbates
   environmental degradation and accelerates climate change.
 cover: >-
-  ../.gitbook/assets/_whyvrafvr_shinning_gold_bricks_covered_with_black_oil_and_real_1af359a4-3a8f-47a7-9fd2-2a122f66a640.png
-coverY: 71
+  ../.gitbook/assets/_whyvrafvr_realistic_extraction_of_petroleum_focus_on_pumps_oil_35f32604-e4d0-4b75-a7f7-b178994e3951.png
+coverY: 42
 layout:
   cover:
     visible: true
