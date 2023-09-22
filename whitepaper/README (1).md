@@ -86,7 +86,7 @@ Mentors also play a crucial role in performing technical assessments to ensure t
 
 ### **Fellowship**
 
-<figure><img src=".gitbook/assets/_whyvrafvr_digital_blockchain_connecting_people_universes_deep__073cead2-29be-4f78-ad2d-785adc62788c.png" alt="" width="563"><figcaption><p>The team collaborates, building together for the project's vision.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/_whyvrafvr_cubes_435c163c-876e-48c6-af3d-9d3e2d3549b4.png" alt="" width="563"><figcaption><p>The PoLN community is composed of a multitude of distinct fellowships.</p></figcaption></figure>
 
 Drawing inspiration from the concept of a close-knit group like in 'The Lord of the Rings', the fellowship in the PoLN context is a cohesive unit composed of agents, contractors, and mentors.
 
