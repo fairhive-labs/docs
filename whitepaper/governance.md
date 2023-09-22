@@ -2,6 +2,23 @@
 description: >-
   When numerous individuals influence the governance and strategy, initiating a
   project can rapidly become challenging, if not altogether unfeasible.
+cover: >-
+  .gitbook/assets/_whyvrafvr_space_people_voting_in_a_digital_decentralized_auton_166acc06-5655-43ca-8109-33ce9d693f7c.png
+coverY: -101.42133333333331
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Governance
@@ -15,6 +32,8 @@ This model would empower each member of the community, enabling them to actively
 It would foster innovation, as diverse perspectives and ideas from the community would be harnessed to drive PoLN forward.
 
 Furthermore, this decentralized approach would ensure transparency, accountability, and a fair distribution of value, aligning with PoLN’s core objectives of equitable wealth distribution and ethical transactions.
+
+<figure><img src=".gitbook/assets/_whyvrafvr_space_people_voting_in_a_digital_decentralized_auton_0fee2d24-5127-4958-b494-5c5bf2e117fd.png" alt="" width="563"><figcaption><p>people voting in metaverse</p></figcaption></figure>
 
 Initially, fairhive-labs should be the sole entity guiding the strategy and development for a duration of two years.
 
