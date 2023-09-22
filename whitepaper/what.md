@@ -123,6 +123,17 @@ Previously referred to as talents, contractors are vetted experts who perform th
 
 They possess the technical know-how and skills to execute projects and are a critical driving force behind the completion of the tasks at hand.
 
+{% hint style="success" %}
+#### **Advantages:**
+
+* [x] Diverse project opportunities
+* [x] Additional Fair compensation
+* [x] Mentorship and growth
+* [x] Community support
+* [x] Enhanced work experience
+* [x] Overcoming professional isolation
+{% endhint %}
+
 ### **Fellowship**
 
 <figure><img src=".gitbook/assets/_whyvrafvr_cubes_435c163c-876e-48c6-af3d-9d3e2d3549b4.png" alt="" width="563"><figcaption><p>The PoLN community is composed of a multitude of distinct fellowships.</p></figcaption></figure>
