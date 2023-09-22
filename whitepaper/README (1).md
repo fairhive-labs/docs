@@ -64,11 +64,11 @@ Moreover, they excel in building connections, ensuring that the right expertise 
 {% hint style="success" %}
 #### **Advantages:**
 
-* [x] Connection Facilitation
-* [x] Network Expansion
-* [ ] Increased Opportunities
-* [ ] Community Engagement
-* [ ] Reputation Enhancement
+* [x] Connection facilitation
+* [x] Network expansion
+* [ ] Increased opportunities
+* [ ] Community engagement
+* [ ] Reputation enhancement
 {% endhint %}
 
 ### **Initiator**
@@ -80,6 +80,17 @@ Formerly known as clients in the traditional paradigm, initiators are project ow
 They bring forth tasks or projects and finance them, engaging with the PoLN protocol to find the right expertise to fulfill their objectives.
 
 Their financial commitment to the protocol not only ensures the execution of their projects but also supports the equitable distribution of rewards among the fellowship.
+
+{% hint style="success" %}
+#### **Advantages:**
+
+* [ ] Global expertise network
+* [ ] Win-win reward mechanism
+* [ ] Crypto-payments
+* [ ] Control, trust and reliability&#x20;
+* [ ] Successful project delivery
+* [ ] Collective knowledge
+{% endhint %}
 
 ### **Mentor**
 
