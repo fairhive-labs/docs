@@ -87,7 +87,7 @@ Their financial commitment to the protocol not only ensures the execution of the
 * [x] Global expertise network
 * [x] Win-win reward mechanism
 * [x] Crypto-payments
-* [x] Control, trust and reliability&#x20;
+* [x] Control, trust and reliability
 * [x] Successful project delivery
 * [x] Collective knowledge
 {% endhint %}
@@ -96,20 +96,30 @@ Their financial commitment to the protocol not only ensures the execution of the
 
 <figure><img src=".gitbook/assets/PoLN - mentors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Mentors are professionals with vast experience in their respective fields.&#x20;
+Mentors are professionals with vast experience in their respective fields.
 
-They support contractors by providing advice, sharing knowledge, and overseeing the quality of the contractor's work.&#x20;
+They support contractors by providing advice, sharing knowledge, and overseeing the quality of the contractor's work.
 
 Mentors also play a crucial role in performing technical assessments to ensure that:
 
-* &#x20;project standards are met and exceeded,
+* project standards are met and exceeded,
 * the community continues to grow in its proficiency.
+
+{% hint style="success" %}
+#### **Advantages:**
+
+* [x] Knowledge sharing
+* [x] Continuous professional development
+* [x] Reputation building
+* [x] Financial rewards
+* [x] Community contribution
+{% endhint %}
 
 ### **Contractor**
 
 <figure><img src=".gitbook/assets/PoLN - contractors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Previously referred to as talents, contractors are vetted experts who perform the tasks set by the initiators.&#x20;
+Previously referred to as talents, contractors are vetted experts who perform the tasks set by the initiators.
 
 They possess the technical know-how and skills to execute projects and are a critical driving force behind the completion of the tasks at hand.
 
@@ -119,7 +129,7 @@ They possess the technical know-how and skills to execute projects and are a cri
 
 Drawing inspiration from the concept of a close-knit group like in 'The Lord of the Rings', the fellowship in the PoLN context is a cohesive unit composed of agents, contractors, and mentors.
 
-This unit collaborates, each member playing a unique role, to ensure the successful execution of projects introduced by the initiators.&#x20;
+This unit collaborates, each member playing a unique role, to ensure the successful execution of projects introduced by the initiators.
 
 Together, they embody the collective strength and synergy of the PoLN protocol: they bring diverse skills and experiences, fostering collaboration and amplifying results.
 
