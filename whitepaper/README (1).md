@@ -47,7 +47,7 @@ Traditionally, the professional landscape has been primarily linear, with a dire
 
 Moving away from the straightforward employer-employee dynamic or the classic recruiter bridging client and talent, the PoLN approach introduces a quadrant-like model, vastly more expansive and multidimensional!&#x20;
 
-<figure><img src=".gitbook/assets/PoLN - actors_roles (3).jpg" alt=""><figcaption><p>Actors dispatched in a new quadrant-like model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PoLN - actors.jpg" alt=""><figcaption><p>Actors dispatched in a new quadrant-like model</p></figcaption></figure>
 
 This quadrant framework allows for an unparalleled degree of flexibility, collaboration, and adaptability. With these distinctions, the system becomes inherently more virtuous, ensuring every participant has a clear, meaningful role and is accorded the respect and value they deserve. It promotes inclusivity, ensuring no talent is overlooked, and efficiency, by aligning the right skills and expertise with the appropriate projects.
 
@@ -112,7 +112,7 @@ With this new framework, PoLN, through its dynamic fellowships and committed ini
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/PoLN - value prop (2).jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PoLN - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
 
 </div>
 
