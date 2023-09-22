@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Why PoLN ?](README.md)
+* [Why PoLN ?](why.md)
   * [Traditional economy depends on fossils fuels](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/traditional-economy-depends-on-fossils-fuels.md)
   * [Wealth inequality is growing globally](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/wealth-inequality-is-growing-globally.md)
   * [New generations have different expectations](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/new-generations-have-different-expectations.md)
   * [Future of work is a paradigm shift underpinned by self-employment](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/future-of-work-is-a-paradigm-shift-underpinned-by-self-employment.md)
-* [What is PoLN ?](<README (1).md>)
+* [What is PoLN ?](<what.md>)
 * [🚧 (WIP) PoLN protocol in a nutshell](protocol-in-a-nutshell/README.md)
   * [Principles](protocol-in-a-nutshell/main-principles.md)
   * [Actors and protocol usage](protocol-in-a-nutshell/roles-and-plans.md)
