@@ -1,5 +1,5 @@
 ---
-description: Actually, Ethereum protocol is perfectly designed for fairhive’s use cases.
+description: Actually, Ethereum protocol is perfectly designed for PoLN’s use cases.
 ---
 
 # 🚧 (WIP) Architecture Overview
@@ -16,7 +16,7 @@ They will also access the smart contract services.
 
 **Frontend** will leverage [**metamask**](https://metamask.io/download/) and coinbase wallet plugins into an **Angular** application (_webapp_) using [**ethers.js**](https://docs.ethers.io/) open library.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*370PTuGSwp8JzjygYRsXdw.jpeg" alt="" height="332" width="700"><figcaption><p>fairhive’s web3 design</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*370PTuGSwp8JzjygYRsXdw.jpeg" alt="" height="332" width="700"><figcaption><p>PoLN’s web3 design</p></figcaption></figure>
 
 **All code sources will be open** and hosted on fairhive-lab’s G**ithub.**
 

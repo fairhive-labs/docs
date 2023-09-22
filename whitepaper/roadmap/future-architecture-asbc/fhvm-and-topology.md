@@ -6,9 +6,9 @@ description: >-
 
 # FHVM and topology
 
-The fairhive virtual machine (**FHVM**) will be the key component of this topology.
+The PoLN virtual machine (**polnvm**) will be the key component of this topology.
 
-It will **host and protect the fairhive’s blockchain** and **process application specific transactions**.
+It will **host and protect the PoLN's blockchain** and **process application specific transactions**.
 
 But some data or services do not necessarily need to be stored or implemented on a decentralized network.
 

@@ -1,13 +1,13 @@
 ---
-description: 'The fairhive’s token serves 2 main functions : Utility and Governance.'
+description: 'The PoLN’s token serves 2 main functions : Utility and Governance.'
 ---
 
 # Details
 
 | Spec.                          |                 Value                |
 | ------------------------------ | :----------------------------------: |
-| **Name**                       |          `fairhive’s token`          |
-| **Symbol**                     |                `POLN`                |
+| **Name**                       |          `PoLN’s token`          |
+| **Symbol**                     |                `$POLN`                |
 | **Type**                       |                `ERC20`               |
 | **Decimals**                   |                 `18`                 |
 | **Subunits**                   | `nPOLN (1 nPOLN = 0.000000001 POLN)` |
