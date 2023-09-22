@@ -66,9 +66,9 @@ Moreover, they excel in building connections, ensuring that the right expertise 
 
 * [x] Connection facilitation
 * [x] Network expansion
-* [ ] Increased opportunities
-* [ ] Community engagement
-* [ ] Reputation enhancement
+* [x] Increased opportunities
+* [x] Community engagement
+* [x] Reputation enhancement
 {% endhint %}
 
 ### **Initiator**
@@ -84,12 +84,12 @@ Their financial commitment to the protocol not only ensures the execution of the
 {% hint style="success" %}
 #### **Advantages:**
 
-* [ ] Global expertise network
-* [ ] Win-win reward mechanism
-* [ ] Crypto-payments
-* [ ] Control, trust and reliability&#x20;
-* [ ] Successful project delivery
-* [ ] Collective knowledge
+* [x] Global expertise network
+* [x] Win-win reward mechanism
+* [x] Crypto-payments
+* [x] Control, trust and reliability&#x20;
+* [x] Successful project delivery
+* [x] Collective knowledge
 {% endhint %}
 
 ### **Mentor**
