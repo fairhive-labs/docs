@@ -47,25 +47,13 @@ Traditionally, the professional landscape has been primarily linear, with a dire
 
 Moving away from the straightforward employer-employee dynamic or the classic recruiter bridging client and talent, the PoLN approach introduces a quadrant-like model, vastly more expansive and multidimensional!&#x20;
 
-<figure><img src=".gitbook/assets/PoLN - actors.jpg" alt=""><figcaption><p>Actors dispatched in a new quadrant-like model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PoLN - actors (1).jpg" alt=""><figcaption><p>Actors dispatched in a new quadrant-like model</p></figcaption></figure>
 
 This quadrant framework allows for an unparalleled degree of flexibility, collaboration, and adaptability. With these distinctions, the system becomes inherently more virtuous, ensuring every participant has a clear, meaningful role and is accorded the respect and value they deserve. It promotes inclusivity, ensuring no talent is overlooked, and efficiency, by aligning the right skills and expertise with the appropriate projects.
 
-### **Initiators**
+### **Agent**
 
-Formerly known as clients in the traditional paradigm, initiators are project owners or entities seeking specific services or solutions.&#x20;
-
-They bring forth tasks or projects and finance them, engaging with the PoLN protocol to find the right expertise to fulfill their objectives.
-
-Their financial commitment to the protocol not only ensures the execution of their projects but also supports the equitable distribution of rewards among the fellowship.
-
-### **Contractors**
-
-Previously referred to as talents, contractors are vetted experts who perform the tasks set by the initiators.&#x20;
-
-They possess the technical know-how and skills to execute projects and are a critical driving force behind the completion of the tasks at hand.
-
-### **Agents**
+<figure><img src=".gitbook/assets/PoLN - agents (4).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Agents act as facilitators in the PoLN ecosystem.&#x20;
 
@@ -73,7 +61,19 @@ They have expertise in recruitment, business, and sales, and play a pivotal role
 
 Moreover, they excel in building connections, ensuring that the right expertise is matched with the appropriate project.
 
-### **Mentors**
+### **Initiator**
+
+<figure><img src=".gitbook/assets/PoLN - intiators.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Formerly known as clients in the traditional paradigm, initiators are project owners or entities seeking specific services or solutions.&#x20;
+
+They bring forth tasks or projects and finance them, engaging with the PoLN protocol to find the right expertise to fulfill their objectives.
+
+Their financial commitment to the protocol not only ensures the execution of their projects but also supports the equitable distribution of rewards among the fellowship.
+
+### **Mentor**
+
+<figure><img src=".gitbook/assets/PoLN - mentors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Mentors are professionals with vast experience in their respective fields.&#x20;
 
@@ -83,6 +83,14 @@ Mentors also play a crucial role in performing technical assessments to ensure t
 
 * &#x20;project standards are met and exceeded,
 * the community continues to grow in its proficiency.
+
+### **Contractor**
+
+<figure><img src=".gitbook/assets/PoLN - contractors.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Previously referred to as talents, contractors are vetted experts who perform the tasks set by the initiators.&#x20;
+
+They possess the technical know-how and skills to execute projects and are a critical driving force behind the completion of the tasks at hand.
 
 ### **Fellowship**
 
