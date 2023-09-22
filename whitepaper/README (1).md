@@ -96,6 +96,8 @@ Together, they embody the collective strength and synergy of the PoLN protocol: 
 
 ### **Escrow services**
 
+<figure><img src=".gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption><p>A digital escrow based on smart contracts and blockchain is a secure, automated third-party service that holds and regulates the release of assets or funds until predefined contractual conditions are met.</p></figcaption></figure>
+
 Within the PoLN framework, escrow services act as trusted intermediaries that hold funds.&#x20;
 
 They secure not only the payments from initiators meant for task completion and protocol fees but also the staked funds from fellowship members. By requiring fellowship members to stake, the system ensures they are fully invested in the success of the project, truly having "skin in the game." The staking serves as a commitment to the quality and timely delivery of their work.&#x20;
