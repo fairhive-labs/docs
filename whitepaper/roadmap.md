@@ -71,7 +71,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 **Tasks:**
 
 * [ ] Airdrops
-* [ ] Public Sale
+* [ ] Private Sale #3
 * [ ] Deploy PoLN protocol V1 and deploy on **MAIN**
 * [ ] Develop community & partnerships
 
@@ -83,6 +83,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 **Tasks :**
 
+* [ ] Public Sale: start progressive vesting of remaining tokens 
 * [ ] Support multiple Agents/Mentors inside a single Fellowship
 * [ ] Support More Stablecoins
 * [ ] Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
