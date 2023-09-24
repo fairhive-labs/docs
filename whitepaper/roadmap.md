@@ -82,40 +82,54 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 </details>
 
-***
-
-_<mark style="color:red;background-color:orange;">**work in progress...**</mark>_
-
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="26ab">⚫</span> Davidoff</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Davidoff</summary>
 
 **Tasks :**
 
+* [ ] Governance/ Propose & Vote
 * [ ] Public Sale / start progressive vesting, gradually releasing the remaining tokens
-* [ ] Implement PoLN protocol V1 and deploy on **TESTNET**
+* [ ] Implement PoLN protocol V2 and deploy on **TESTNET**
+  * [ ] Lending & Borrowing, $POLN holder can lend to Stakers
   * [ ] Support multiple Agents/Mentors inside a single Fellowship
-  * [ ] Support More Stablecoins
-* [ ] Lending & Borrowing, $POLN holder can lend to Stakers
+  * [ ] Support more stablecoins
 * [ ] Develop community & partnerships
 
 </details>
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="26ab">⚫</span> El Rey del Mundo</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> El Rey del Mundo</summary>
 
 **Tasks :**
 
-* [ ] Decentralized dispute mediation
-* [ ] Start main DAO functions
-  * [ ] Training
-  * [ ] Helpdesk
-  * [ ] Mediation assistance
-  * [ ] KYC assistance
-  * [ ] Support (dev)
-* [ ] Implement community propositions
-* [ ] Hackathon, etc
+* [ ] Deploy PoLN protocol V2 and deploy on **MAINNET**
+* [ ] Implement PoLN protocol V3 and deploy on **TESTNET**
+  * [ ] NFT-Enhanced Fellowships & Multi-Level Marketing
+  * [ ] Governance / Dispute Resolution
+  * [ ] Decentralized dispute mediation
+  * [ ] Main DAO functions
+    * [ ] Training
+    * [ ] Helpdesk
+    * [ ] Mediation assistance
+    * [ ] KYC assistance
+    * [ ] Support (dev)
+* [ ] Plan & Implement community propositions
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Fonseca</summary>
+
+**Tasks :**
+
+* [ ] Deploy PoLN protocol V3 and deploy on **MAINNET**
+* [ ] Plan & Implement community propositions
+* [ ] Prepare PoLN ASBC project
+  * [ ] PoC
+  * [ ] Hackathon, etc
 
 </details>
 
