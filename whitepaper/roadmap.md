@@ -12,13 +12,13 @@ description: >-
 
 **Tasks:**
 
-[x] Whitepaper
-[x] Landing page
-[ ] Pitch deck
-[x] Mint the $POLN token
-[ ] Waitlist / Whitelist
-[ ] Develop community & partnerships
-[ ] Pre-Seed / Private Sale #1
+* [x] Whitepaper
+* [x] Landing page
+* [ ] Pitch deck
+* [x] Mint the $POLN token
+* [ ] Waitlist / Whitelist
+* [ ] Develop community & partnerships
+* [ ] Pre-Seed / Private Sale #1
 
 </details>
 
