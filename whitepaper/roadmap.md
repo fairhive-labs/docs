@@ -16,7 +16,7 @@ description: >-
 * [x] Landing page
 * [ ] Pitch deck
 * [x] Mint the $POLN token
-* [ ] Waitlist / Whitelist
+* [x] Waitlist (off-chained pre-registration) 
 * [ ] Develop community & partnerships
 * [ ] Pre-Seed / Private Sale #1
 
@@ -28,14 +28,12 @@ description: >-
 
 **Tasks:**
 
-* Airdrop #1
-* Giveaway
-* Private Sale #2
-* Job Board (help Talents and Agents to find missions) — MVP
-* Talents Finder (help Agents and Clients to find Talents) — MVP
-* Token Holder Only, restrict access to POLN holder
-* Develop community & partnerships
-* **TESTNET** deployment
+* [ ] Airdrop #1: upgrade Waitlist (on-chained pre-registration) 
+* [ ] Giveaways
+* [ ] Private Sale #2
+* [ ] MVP - Implement PoLN protocol and deploy on **TESTNET** 
+* [ ] Restrict access to $POLN holder
+* [ ] Develop community & partnerships
 
 </details>
 
