@@ -4,11 +4,11 @@ description: >-
   media.
 ---
 
-# Roadmap
+# 🚧 Roadmap
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> <strong>Arturo_Fuente</strong></summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong></summary>
 
 **Tasks:**
 
@@ -16,7 +16,7 @@ description: >-
 * [x] Landing page
 * [ ] Pitch deck
 * [x] Mint the $POLN token
-* [x] Waitlist (off-chained pre-registration) 
+* [x] Waitlist (off-chained pre-registration)
 * [ ] Develop community & partnerships
 * [ ] Pre-Seed / Private Sale #1
 
@@ -24,14 +24,14 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Bolivar</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Bolivar</summary>
 
 **Tasks:**
 
-* [ ] Airdrop #1 / Waitlist upgrades (on-chained pre-registration) 
+* [ ] Airdrop #1 / Waitlist upgrades (on-chained pre-registration)
 * [ ] Giveaways
 * [ ] Private Sale #2
-* [ ] MVP - Implement PoLN protocol and deploy on **TESTNET** 
+* [ ] MVP - Implement PoLN protocol and deploy on **TESTNET**
 * [ ] Access restricted to $POLN holder
 * [ ] Develop community & partnerships
 
@@ -39,7 +39,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Cohiba</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Cohiba</summary>
 
 **Tasks:**
 
@@ -55,7 +55,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Davidoff</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Davidoff</summary>
 
 **Tasks :**
 
@@ -72,7 +72,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> El Rey del Mundo</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> El Rey del Mundo</summary>
 
 **Tasks :**
 
@@ -88,7 +88,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Fonseca</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Fonseca</summary>
 
 **Tasks :**
 
@@ -104,5 +104,7 @@ description: >-
 </details>
 
 {% hint style="info" %}
-This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast. It doesn’t account for potential additional developments or implementations, such as a blockchain explorer or specific wallets, that may be required.
+This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast.&#x20;
+
+It doesn’t account for potential additional developments or implementations, such as a blockchain explorer or specific wallets, that may be required.
 {% endhint %}
