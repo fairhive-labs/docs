@@ -2,9 +2,27 @@
 description: >-
   The community will receive regular updates on the roadmap through social
   media.
+cover: .gitbook/assets/roadmap.png
+coverY: 32
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Roadmap
+
+
 
 <details>
 
