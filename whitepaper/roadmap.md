@@ -30,6 +30,10 @@ Additionally, it serves as a communication tool, keeping the community informed 
 Regular updates ensure that stakeholders are apprised of any adjustments or developments, reinforcing the community-driven and adaptive nature of PoLN.
 {% endhint %}
 
+While we aim to maintain transparency, only select details regarding the different phases will be shared herein, to maintain a balance between providing insight and not overwhelming with excessive information. 
+
+This approach ensures that the community and other stakeholders have a clear, yet concise understanding of PoLN's planned trajectory.
+
 <details>
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong></summary>
