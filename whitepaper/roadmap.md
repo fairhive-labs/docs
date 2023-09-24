@@ -4,7 +4,7 @@ description: >-
   media.
 ---
 
-# 🚧 Roadmap
+# Roadmap
 
 <details>
 
@@ -30,9 +30,8 @@ description: >-
 
 * [ ] Airdrop #1 / Waitlist upgrades (on-chained pre-registration)
 * [ ] Giveaways
-* [ ] Private Sale #2 & #3
-* [ ] MVP - Implement PoLN protocol and deploy on **TESTNET**
-* [ ] Access restricted to $POLN holder
+* [ ] Private Sale #2
+* [ ] Implement PoLN protocol V1 and deploy on **TESTNET**
 * [ ] Develop community & partnerships
 
 </details>
@@ -45,11 +44,8 @@ description: >-
 
 * [ ] Airdrops
 * [ ] Public Sale
-* [ ] Support Mission & Escrow, extend Bolivar\_1
-* [ ] Support Stablecoins payment
-* [ ] Support Basic Staking for Agents/Mentors
+* [ ] Deploy PoLN protocol V1 and deploy on **MAIN**
 * [ ] Develop community & partnerships
-* **MAINNET** deployment
 
 </details>
 
@@ -59,10 +55,9 @@ description: >-
 
 **Tasks :**
 
-* [ ] Extend Staking
+* [ ] Support multiple Agents/Mentors inside a single Fellowship
 * [ ] Support More Stablecoins
 * [ ] Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
-* [ ] Support multiple Agents/Mentors inside a single Fellowship
 * [ ] Training
 * [ ] Helpdesk
 * [ ] Develop community & partnerships
@@ -85,25 +80,8 @@ description: >-
 
 </details>
 
-<details>
-
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Fonseca</summary>
-
-**Tasks :**
-
-* [ ] Application Specific Blockchain (ASBC)
-* [ ] DAO
-* [ ] Secured Non-Custodial Wallet
-* [ ] Testnet
-* [ ] Bridges
-* [ ] New tokenomic: incentive PoS Validators, etc.
-* [ ] Hackathon, etc.
-* …
-
-</details>
-
 {% hint style="info" %}
-This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast.&#x20;
+This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast.
 
 It doesn’t account for potential additional developments or implementations, such as a blockchain explorer or specific wallets, that may be required.
 {% endhint %}
