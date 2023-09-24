@@ -1,10 +1,10 @@
 ---
 description: >-
-  The roadmap will be regularly updated and shared with the community through
-  social medias.
+  The community will receive regular updates on the roadmap through social
+  media.
 ---
 
-# 🚧 (WIP) Roadmap
+# 🚧 Roadmap
 
 <details>
 
@@ -24,7 +24,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> <strong>Bolivar</strong></summary>
+<summary><strong>Bolivar</strong></summary>
 
 **Tasks:**
 
