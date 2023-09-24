@@ -8,23 +8,23 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo_Fuente</strong></summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> <strong>Arturo_Fuente</strong></summary>
 
 **Tasks:**
 
-* Pitch deck
-* Whitepaper
-* Landing page
-* Mint the token
-* Waitlist / Whitelist
-* Develop community & partnerships
-* Pre-Seed / Private Sale #1
+[x] Whitepaper
+[x] Landing page
+[ ] Pitch deck
+[x] Mint the $POLN token
+[ ] Waitlist / Whitelist
+[ ] Develop community & partnerships
+[ ] Pre-Seed / Private Sale #1
 
 </details>
 
 <details>
 
-<summary><strong>Bolivar</strong></summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Bolivar</summary>
 
 **Tasks:**
 
@@ -41,7 +41,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Cohiba</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Cohiba</summary>
 
 **Tasks:**
 
@@ -57,7 +57,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Davidoff</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Davidoff</summary>
 
 **Tasks :**
 
@@ -74,7 +74,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> El Rey del Mundo</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> El Rey del Mundo</summary>
 
 **Tasks :**
 
@@ -90,7 +90,7 @@ description: >-
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Fonseca</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> Fonseca</summary>
 
 **Tasks :**
 
@@ -106,5 +106,5 @@ description: >-
 </details>
 
 {% hint style="info" %}
-A non-complete Work Breakdown Structure (WBS) cannot be provided in this document and of course, this planning is just a forecast which does not reflect hypothetical additional implementations of required development (blockchain explorer, specific wallets…).
+This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast. It doesn’t account for potential additional developments or implementations, such as a blockchain explorer or specific wallets, that may be required.
 {% endhint %}
