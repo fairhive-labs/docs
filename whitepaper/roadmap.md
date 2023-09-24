@@ -28,11 +28,11 @@ description: >-
 
 **Tasks:**
 
-* [ ] Airdrop #1: upgrade Waitlist (on-chained pre-registration) 
+* [ ] Airdrop #1 / Waitlist upgrades (on-chained pre-registration) 
 * [ ] Giveaways
 * [ ] Private Sale #2
 * [ ] MVP - Implement PoLN protocol and deploy on **TESTNET** 
-* [ ] Restrict access to $POLN holder
+* [ ] Access restricted to $POLN holder
 * [ ] Develop community & partnerships
 
 </details>
