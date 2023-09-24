@@ -30,7 +30,7 @@ description: >-
 
 * [ ] Airdrop #1 / Waitlist upgrades (on-chained pre-registration)
 * [ ] Giveaways
-* [ ] Private Sale #2
+* [ ] Private Sale #2 & #3
 * [ ] MVP - Implement PoLN protocol and deploy on **TESTNET**
 * [ ] Access restricted to $POLN holder
 * [ ] Develop community & partnerships
@@ -43,12 +43,12 @@ description: >-
 
 **Tasks:**
 
-* Airdrops
-* Public Sale
-* Support Mission & Escrow, extend Bolivar\_1
-* Support Stablecoins payment
-* Support Basic Staking for Agents/Mentors
-* Develop community & partnerships
+* [ ] Airdrops
+* [ ] Public Sale
+* [ ] Support Mission & Escrow, extend Bolivar\_1
+* [ ] Support Stablecoins payment
+* [ ] Support Basic Staking for Agents/Mentors
+* [ ] Develop community & partnerships
 * **MAINNET** deployment
 
 </details>
@@ -59,14 +59,14 @@ description: >-
 
 **Tasks :**
 
-* Extend Staking
-* Support More Stablecoins
-* Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
-* Support multiple Agents/Mentors inside a single Fellowship
-* Training
-* Helpdesk
-* Develop community & partnerships
-* Dispute Mediation
+* [ ] Extend Staking
+* [ ] Support More Stablecoins
+* [ ] Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
+* [ ] Support multiple Agents/Mentors inside a single Fellowship
+* [ ] Training
+* [ ] Helpdesk
+* [ ] Develop community & partnerships
+* [ ] Decentralized dispute mediation
 
 </details>
 
@@ -76,13 +76,12 @@ description: >-
 
 **Tasks :**
 
-* Decentralized Development
-* DAO
-* Additional Plans
-* Additional features
-* Update protocol fees
-* Hackathon, etc
-* …
+* [ ] Decentralized Development
+* [ ] DAO
+* [ ] Additional Plans
+* [ ] Additional features
+* [ ] Update protocol fees
+* [ ] Hackathon, etc
 
 </details>
 
@@ -92,13 +91,13 @@ description: >-
 
 **Tasks :**
 
-* Application Specific Blockchain (ASBC)
-* DAO
-* Secured Non-Custodial Wallet
-* Testnet
-* Bridges
-* New tokenomic: incentive PoS validators, etc.
-* Hackathon, etc.
+* [ ] Application Specific Blockchain (ASBC)
+* [ ] DAO
+* [ ] Secured Non-Custodial Wallet
+* [ ] Testnet
+* [ ] Bridges
+* [ ] New tokenomic: incentive PoS Validators, etc.
+* [ ] Hackathon, etc.
 * …
 
 </details>
