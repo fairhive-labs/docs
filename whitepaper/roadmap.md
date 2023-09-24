@@ -22,17 +22,19 @@ layout:
 
 # Roadmap
 
-The roadmap provides clarity on the evolution of PoLN, showcasing the integration of blockchain technology, development of community governance, and the implementation of features designed to empower labor and promote equitable wealth distribution. 
+The roadmap provides clarity on the evolution of PoLN, showcasing the integration of blockchain technology, development of community governance, and the implementation of features designed to empower labor and promote equitable wealth distribution.
 
-Additionally, it serves as a communication tool, keeping the community informed and engaged, fostering transparency, and setting expectations for the project's progression. 
+Additionally, it serves as a communication tool, keeping the community informed and engaged, fostering transparency, and setting expectations for the project's progression.
 
 {% hint style="success" %}
 Regular updates ensure that stakeholders are apprised of any adjustments or developments, reinforcing the community-driven and adaptive nature of PoLN.
 {% endhint %}
 
-While we aim to maintain transparency, only select details regarding the different phases will be shared herein, to maintain a balance between providing insight and not overwhelming with excessive information. 
+While we aim to maintain transparency, only select details regarding the different phases will be shared herein, to maintain a balance between providing insight and not overwhelming with excessive information.
 
 This approach ensures that the community and other stakeholders have a clear, yet concise understanding of PoLN's planned trajectory.
+
+
 
 <details>
 
@@ -77,13 +79,17 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 </details>
 
+***
+
+_<mark style="color:red;background-color:orange;">**work in progress...**</mark>_
+
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Davidoff</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="26ab">⚫</span> Davidoff</summary>
 
 **Tasks :**
 
-* [ ] Public Sale: start progressive vesting of remaining tokens 
+* [ ] Public Sale: start progressive vesting of remaining tokens
 * [ ] Support multiple Agents/Mentors inside a single Fellowship
 * [ ] Support More Stablecoins
 * [ ] Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
@@ -96,7 +102,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> El Rey del Mundo</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="26ab">⚫</span> El Rey del Mundo</summary>
 
 **Tasks :**
 
