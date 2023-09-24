@@ -72,9 +72,12 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 **Tasks:**
 
-* [ ] Airdrops
 * [ ] Private Sale #3
-* [ ] Deploy PoLN protocol V1 and deploy on **MAIN**
+* [ ] Open community-driven protocol development and maintenance
+* [ ] Deploy PoLN protocol V1 and deploy on **MAINNET**
+* [ ] Airdrops
+  - [ ] Encourage participation
+  - [ ] Foster community engagement
 * [ ] Develop community & partnerships
 
 </details>
@@ -89,14 +92,12 @@ _<mark style="color:red;background-color:orange;">**work in progress...**</mark>
 
 **Tasks :**
 
-* [ ] Public Sale: start progressive vesting of remaining tokens
-* [ ] Support multiple Agents/Mentors inside a single Fellowship
-* [ ] Support More Stablecoins
-* [ ] Lending & Borrowing, POLN holder can lend to Stakers (Agents/Mentors)
-* [ ] Training
-* [ ] Helpdesk
+* [ ] Public Sale / start progressive vesting, gradually releasing the remaining tokens
+* [ ] Implement PoLN protocol V1 and deploy on **TESTNET**
+  * [ ] Support multiple Agents/Mentors inside a single Fellowship
+  * [ ] Support More Stablecoins
+* [ ] Lending & Borrowing, $POLN holder can lend to Stakers
 * [ ] Develop community & partnerships
-* [ ] Decentralized dispute mediation
 
 </details>
 
@@ -106,11 +107,14 @@ _<mark style="color:red;background-color:orange;">**work in progress...**</mark>
 
 **Tasks :**
 
-* [ ] Decentralized Development
-* [ ] DAO
-* [ ] Additional Plans
-* [ ] Additional features
-* [ ] Update protocol fees
+* [ ] Decentralized dispute mediation
+* [ ] Start main DAO functions
+  * [ ] Training
+  * [ ] Helpdesk
+  * [ ] Mediation assistance
+  * [ ] KYC assistance
+  * [ ] Support (dev)
+* [ ] Implement community propositions
 * [ ] Hackathon, etc
 
 </details>
