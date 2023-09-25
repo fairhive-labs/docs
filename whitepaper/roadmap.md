@@ -38,7 +38,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong> - 3 months</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong> - 6 months</summary>
 
 **Tasks:**
 
@@ -54,7 +54,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Bolivar</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Bolivar - 6 months</summary>
 
 **Tasks:**
 
@@ -68,7 +68,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Cohiba</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Cohiba - 6 months</summary>
 
 **Tasks:**
 
@@ -84,7 +84,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Davidoff</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Davidoff - 6 months</summary>
 
 **Tasks :**
 
@@ -100,7 +100,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> El Rey del Mundo</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> El Rey del Mundo - 6 months</summary>
 
 **Tasks :**
 
@@ -121,7 +121,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Fonseca</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span> Fonseca - 12 months</summary>
 
 **Tasks :**
 
