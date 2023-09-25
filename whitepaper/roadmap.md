@@ -38,7 +38,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong></summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong> - 3 months</summary>
 
 **Tasks:**
 
@@ -74,7 +74,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 * [ ] Private Sale #3
 * [ ] Open community-driven protocol development and maintenance
-* [ ] Deploy PoLN protocol V1 and deploy on **MAINNET**
+* [ ] Deploy PoLN protocol V1 on **MAINNET**
 * [ ] Airdrops
   - [ ] Encourage participation
   - [ ] Foster community engagement
@@ -104,7 +104,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 **Tasks :**
 
-* [ ] Deploy PoLN protocol V2 and deploy on **MAINNET**
+* [ ] Deploy PoLN protocol V2 on **MAINNET**
 * [ ] Implement PoLN protocol V3 and deploy on **TESTNET**
   * [ ] NFT-Enhanced Fellowships & Multi-Level Marketing
   * [ ] Governance / Dispute Resolution
@@ -125,7 +125,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 **Tasks :**
 
-* [ ] Deploy PoLN protocol V3 and deploy on **MAINNET**
+* [ ] Deploy PoLN protocol V3 on **MAINNET**
 * [ ] Plan & Implement community propositions
 * [ ] Prepare PoLN ASBC project
   * [ ] PoC
