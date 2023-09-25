@@ -34,7 +34,13 @@ While we aim to maintain transparency, only select details regarding the differe
 
 This approach ensures that the community and other stakeholders have a clear, yet concise understanding of PoLN's planned trajectory.
 
+{% hint style="warning" %}
+Given the nature of this document, a comprehensive Work Breakdown Structure (WBS) cannot be provided, and it's important to note that this planning serves merely as a forecast.
 
+It does not account for potential additional developments or implementations that may be required, such as a blockchain explorer or specific wallets. 
+
+Additionally, the community’s contributions and insights will be invaluable in adapting and refining the ongoing planning and development process...
+{% endhint %}
 
 <details>
 
@@ -92,8 +98,8 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [ ] Public Sale / start progressive vesting, gradually releasing the remaining tokens
 * [ ] Implement PoLN protocol V2 and deploy on **TESTNET**
   * [ ] Lending & Borrowing, $POLN holder can lend to Stakers
-  * [ ] Support multiple Agents/Mentors inside a single Fellowship
-  * [ ] Support more stablecoins
+  * [ ] Support multiple agents/mentors inside a single Fellowship
+  * [ ] Additional cryptocurrencies for contractor payment
 * [ ] Develop community & partnerships
 
 </details>
@@ -133,8 +139,4 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 </details>
 
-{% hint style="info" %}
-This document cannot provide a comprehensive Work Breakdown Structure (WBS), and it's important to note that the planning outlined is a forecast.
 
-It doesn’t account for potential additional developments or implementations, such as a blockchain explorer or specific wallets, that may be required.
-{% endhint %}
