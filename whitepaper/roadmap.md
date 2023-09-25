@@ -34,14 +34,6 @@ While we aim to maintain transparency, only select details regarding the differe
 
 This approach ensures that the community and other stakeholders have a clear, yet concise understanding of PoLN's planned trajectory.
 
-{% hint style="warning" %}
-Given the nature of this document, a comprehensive Work Breakdown Structure (WBS) cannot be provided, and it's important to note that this planning serves merely as a forecast.
-
-It does not account for potential additional developments or implementations that may be required, such as a blockchain explorer or specific wallets. 
-
-Additionally, the community’s contributions and insights will be invaluable in adapting and refining the ongoing planning and development process...
-{% endhint %}
-
 <details>
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo Fuente</strong> - 6 months</summary>
@@ -139,4 +131,10 @@ Additionally, the community’s contributions and insights will be invaluable in
 
 </details>
 
+{% hint style="warning" %}
+Given the nature of this document, a comprehensive Work Breakdown Structure (WBS) cannot be provided, and it's important to note that this planning serves merely as a forecast.
 
+It does not account for potential additional developments or implementations that may be required, such as a blockchain explorer or specific wallets. 
+
+Additionally, the community’s contributions and insights will be invaluable in adapting and refining the ongoing planning and development process...
+{% endhint %}
