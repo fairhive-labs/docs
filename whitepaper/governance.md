@@ -33,7 +33,7 @@ It would foster innovation, as diverse perspectives and ideas from the community
 
 Furthermore, this decentralized approach would ensure transparency, accountability, and a fair distribution of value, aligning with PoLN’s core objectives of equitable wealth distribution and ethical transactions.
 
-<figure><img src=".gitbook/assets/_whyvrafvr_space_people_voting_in_a_digital_decentralized_auton_0fee2d24-5127-4958-b494-5c5bf2e117fd.png" alt="" width="563"><figcaption><p>people voting in metaverse</p></figcaption></figure>
+<figure><img src=".gitbook/assets/dao.png" alt=""><figcaption><p>PoLN's value merged in a DAO</p></figcaption></figure>
 
 Initially, fairhive-labs should be the sole entity guiding the strategy and development for a duration of two years.
 
