@@ -2,6 +2,22 @@
 description: >-
   PoLN operates on a foundation of meticulously designed tokenomics, central to
   its ecosystem's functionality and value proposition.
+cover: ../.gitbook/assets/tokenomics.png
+coverY: -40.544
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚧 (WIP) Tokenomics
