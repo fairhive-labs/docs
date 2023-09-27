@@ -18,9 +18,9 @@ layout:
     visible: true
 ---
 
-# Specifications
+# Token attributes
 
-| Spec.                          |                 Value                |
+| Property                       |                 Value                |
 | ------------------------------ | :----------------------------------: |
 | **Name**                       |            `PoLN’s token`            |
 | **Symbol**                     |                `$POLN`               |
@@ -30,6 +30,6 @@ layout:
 | **Max supply**                 |           `200,000,000.00`           |
 | **Capped**                     |                `true`                |
 | **Pre-minted**                 |                `true`                |
-| **Builder’s vesting schedule** |        `Progressive / 5 years`       |
+| **Builder’s vesting schedule** |        `Progressive / 3 years`       |
 
 **POLN** (pronounced _pollen_) tokens are **pre-minted**.

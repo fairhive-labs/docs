@@ -13,11 +13,13 @@ Within this innovative environment, $POLN tokens embody more than just a currenc
 
 <figure><img src="../../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>illustration of $POLN main utility and demand</p></figcaption></figure>
 
-## Staking
+## Staking & Rewards
 
 A pivotal aspect of PoLN’s structure is the mandatory staking of $POLN tokens by fellowships, not for governance influence but as a representation of their tangible commitment and ‘skin in the game’.&#x20;
 
 This unique feature enhances trust and confidence within the community, particularly among initiators, and underscores the fellowships' dedication to the projects they support, subsequently heightening the system’s overall trust and reliability.
+
+Initiators are rewarded, and fellowships accrue fees upon the successful culmination of projects, fostering a symbiotic relationship between the diverse entities within the ecosystem.
 
 ## Scarcity
 
@@ -27,15 +29,7 @@ The tokens are judiciously distributed amongst various stakeholders – initiato
 
 _<mark style="color:red;">The</mark> <mark style="color:red;"></mark><mark style="color:red;">**maximum supply of the token has also a positive impact**</mark> <mark style="color:red;"></mark><mark style="color:red;">on the number of</mark> <mark style="color:red;"></mark><mark style="color:red;">**ongoing missions**</mark> <mark style="color:red;"></mark><mark style="color:red;">and the</mark> <mark style="color:red;"></mark><mark style="color:red;">**token price**</mark> <mark style="color:red;"></mark><mark style="color:red;">: the number of ongoing missions is bound with the number of circulating tokens which is bound with the token price. So, the token price determines the number of ongoing missions supported by the protocol :</mark> <mark style="color:red;"></mark><mark style="color:red;">**the higher the price, the higher the number of potential ongoing missions**</mark><mark style="color:red;">!</mark>_
 
-## Rewards
-
-Initiators are rewarded, and fellowships accrue fees upon the successful culmination of projects, fostering a symbiotic relationship between the diverse entities within the ecosystem.
-
-## Utility
-
-The utility of the $POLN tokens is multifaceted, spanning governance, fee facilitation, rewards distribution, and unique staking opportunities, thereby driving community interaction and engagement.&#x20;
-
-### Model
+### Supply management
 
 Strategies to uphold the token's value include potential token burning or minting and fostering liquidity through partnerships, thereby adjusting to the varying demands of the ecosystem. Specified conditions, such as achieving milestones or successful project deliveries, could trigger these mechanisms, aiming for a harmonious scarcity and aligning the interests of all stakeholders.
 
