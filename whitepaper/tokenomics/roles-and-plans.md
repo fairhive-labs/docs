@@ -2,7 +2,7 @@
 description: Multiple actors can consume the protocol.
 ---
 
-# Roles and Plans
+# 🚧 (WIP) Principles & conditions
 
 A **Client** is a project owner.
 
@@ -42,8 +42,7 @@ As soon as the mission is posted, Stakers (depending on the selected plan) and T
 * **candidate** to the mission (if the Client allows direct requests),
 * **be found** and **assigned** by the Client (if they accept direct requests),
 * **recommend** community **members** for a specific role and **collaboration**,
-* **build** a fellowship **proposition** with their **favorite** community **members** and submit it to Client’s approval.\
-
+* **build** a fellowship **proposition** with their **favorite** community **members** and submit it to Client’s approval.\\
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*mU-qMzNCW1G1fOgD" alt="" height="481" width="700"><figcaption></figcaption></figure>
 

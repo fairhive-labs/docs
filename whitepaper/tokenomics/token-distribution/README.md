@@ -2,9 +2,9 @@
 description: Token distribution may need few clarifications.
 ---
 
-# Distribution
+# 🚧 (WIP) Distribution
 
-<figure><img src="../../.gitbook/assets/chart_token_distribution.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chart_token_distribution.png" alt=""><figcaption></figcaption></figure>
 
 Regarding the **prime purpose of the protocol**, a large amount of tokens should be traded, in order to:
 
@@ -15,7 +15,7 @@ Depending on the amount of the stake and locktime duration, the **Stakers** (Age
 
 The **team** (builders) and the **community** (DAO) will get an **equivalent share** but the team’s **tokens will be progressively vested** during 5 years (20% vested each year)
 
-**Developing the **_**testnet**_ will be an important part of the delivery which will require a specific endowment (offer incentives for contributors).
+**Developing the \_testnet**\_ will be an important part of the delivery which will require a specific endowment (offer incentives for contributors).
 
 Last but not least, tokens will be distributed:
 

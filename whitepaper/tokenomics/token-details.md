@@ -1,13 +1,29 @@
 ---
-description: 'The PoLN’s token serves 2 main functions : Utility and Governance.'
+description: '$POLN performs two principal functions: utility and governance'
+cover: ../.gitbook/assets/token.png
+coverY: 133.21599999999998
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Details
+# Specifications
 
 | Spec.                          |                 Value                |
 | ------------------------------ | :----------------------------------: |
-| **Name**                       |          `PoLN’s token`          |
-| **Symbol**                     |                `$POLN`                |
+| **Name**                       |            `PoLN’s token`            |
+| **Symbol**                     |                `$POLN`               |
 | **Type**                       |                `ERC20`               |
 | **Decimals**                   |                 `18`                 |
 | **Subunits**                   | `nPOLN (1 nPOLN = 0.000000001 POLN)` |
@@ -17,11 +33,3 @@ description: 'The PoLN’s token serves 2 main functions : Utility and Governanc
 | **Builder’s vesting schedule** |        `Progressive / 5 years`       |
 
 **POLN** (pronounced _pollen_) tokens are **pre-minted**.
-
-{% hint style="info" %}
-**Capped supply** will generate **scarcity**.
-{% endhint %}
-
-The **maximum supply of the token has also a positive impact** on the number of **ongoing missions** and the **token price** : the number of ongoing missions is bound with the number of circulating tokens which is bound with the token price.
-
-So, the token price determines the number of ongoing missions supported by the protocol : **the higher the price, the higher the number of potential ongoing missions**!
