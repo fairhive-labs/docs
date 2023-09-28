@@ -2,7 +2,7 @@
 description: Multiple actors can consume the protocol.
 ---
 
-# 🚧 (WIP) Principles & conditions
+# Principles & Conditions
 
 A **Client** is a project owner.
 

@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Token attributes
+# 🚧 (WIP) Attributes and Issuance
 
 | Property                       |                 Value                |
 | ------------------------------ | :----------------------------------: |
