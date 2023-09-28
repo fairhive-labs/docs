@@ -3,6 +3,22 @@ description: >-
   PoLN is built on a foundation of intricate and well-thought-out tokenomics,
   serving as the backbone for its ecosystem's functionality and value
   proposition.
+cover: ../../.gitbook/assets/forge-tokens.png
+coverY: 299.2533333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚧 (WIP) Utility & demand
