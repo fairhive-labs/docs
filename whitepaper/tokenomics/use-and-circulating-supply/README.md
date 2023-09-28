@@ -47,7 +47,7 @@ _<mark style="color:red;">The</mark> <mark style="color:red;"></mark><mark style
 
 ### Supply management
 
-Strategies to uphold the token's value include potential token burning or minting and fostering liquidity through partnerships, thereby adjusting to the varying demands of the ecosystem. Specified conditions, such as achieving milestones or successful project deliveries, could trigger these mechanisms, aiming for a harmonious scarcity and aligning the interests of all stakeholders.
+Strategies to uphold the token's value include potential token burning and fostering liquidity through partnerships, thereby adjusting to the varying demands of the ecosystem. Specified conditions, such as achieving milestones or successful project deliveries, could trigger these mechanisms, aiming for a harmonious scarcity and aligning the interests of all stakeholders.
 
 {% hint style="success" %}
 All these elements, anchored by a commitment to progressive decentralization and polycentric governance, envision a future where the PoLN community is not merely a beneficiary but an active participant shaping the direction and growth of the platform.&#x20;
