@@ -7,7 +7,7 @@
   * [Future of work is a paradigm shift underpinned by self-employment](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/future-of-work-is-a-paradigm-shift-underpinned-by-self-employment.md)
 * [What is PoLN ?](what.md)
 * [Tokenomics](tokenomics/README.md)
-  * [🚧 (WIP) Attributes and Issuance](tokenomics/token-details.md)
+  * [Attributes and Issuance](tokenomics/token-details.md)
   * [🚧 (WIP) Demand & Utility](tokenomics/use-and-circulating-supply/README.md)
     * [Evaluation & Protocol fees dispatch](tokenomics/use-and-circulating-supply/evaluation-and-protocol-fees-dispatch.md)
     * [Principles & Conditions](tokenomics/use-and-circulating-supply/roles-and-plans.md)
