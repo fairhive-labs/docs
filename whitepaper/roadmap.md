@@ -89,7 +89,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [ ] Governance/ Propose & Vote
 * [ ] Public Sale / start progressive vesting, gradually releasing the remaining tokens
 * [ ] Implement PoLN protocol V2 and deploy on **TESTNET**
-  * [ ] Lending & Borrowing, $POLN holder can lend to Stakers
+  * [ ] Lending & Borrowing, Yield Farming
   * [ ] Support multiple agents/mentors inside a single Fellowship
   * [ ] Additional cryptocurrencies for contractor payment
 * [ ] Develop community & partnerships
