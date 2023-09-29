@@ -21,7 +21,7 @@ layout:
 
 # Why PoLN ?
 
-{% hint style="success" %}
+{% hint style="info" %}
 In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.&#x20;
 
 Catalyzing the integration of work into decentralized finance might drive more equitable wealth distribution, allowing individuals to genuinely have skin in the game, which in turn could elevate trust and assurance in the evolving system.

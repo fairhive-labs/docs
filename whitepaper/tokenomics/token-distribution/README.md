@@ -13,7 +13,7 @@ Regarding the **prime purpose of the protocol**, a large amount of tokens should
 
 Depending on the amount of the stake and locktime duration, the **Stakers** (Agents/Mentors) will get **rewards from the Earning pool**.
 
-The **team** (builders) and the **community** (DAO) will get an **equivalent share** but the team’s **tokens will be progressively vested** during 5 years (20% vested each year)
+The builders (team) and the DAO (community) will each receive a comparable share, with the team's tokens undergoing a gradual vesting process over 3 years.
 
 **Developing the \_testnet**\_ will be an important part of the delivery which will require a specific endowment (offer incentives for contributors).
 
