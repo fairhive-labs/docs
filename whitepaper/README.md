@@ -21,8 +21,21 @@ layout:
 
 # Why PoLN ?
 
+{% hint style="warning" %}
+**Document Versioning Disclaimer**
+
+
+
+This whitepaper is a living document and may be updated or revised periodically to reflect the latest developments, insights, or changes related to the PoLN protocol.&#x20;
+
+Each version of this document supersedes all prior versions. Readers are advised to ensure they are referencing the most recent version of this whitepaper and to stay informed of any updates or changes by visiting our official channels or website.
+
+**Version**: 0.5.1\
+**Date**: 09/30/2023
+{% endhint %}
+
 {% hint style="info" %}
-In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.&#x20;
+In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.
 
 Catalyzing the integration of work into decentralized finance might drive more equitable wealth distribution, allowing individuals to genuinely have skin in the game, which in turn could elevate trust and assurance in the evolving system.
 {% endhint %}
@@ -45,5 +58,5 @@ PoLN stands as a testament to progressive and equitable economic models, serving
 10. **Strengthen Trust and Reliability**: Utilize the immutable and transparent nature of blockchain to build a foundation of trust, ensuring all transactions are verifiable and authentic, thereby boosting overall confidence in the system.
 
 {% hint style="success" %}
-The ten core objectives laid out by PoLN are not merely reactive but are a proactive blueprint for forging a supportive community, promoting inclusivity, and driving innovation, turning challenges into opportunities for growth and development.&#x20;
+The ten core objectives laid out by PoLN are not merely reactive but are a proactive blueprint for forging a supportive community, promoting inclusivity, and driving innovation, turning challenges into opportunities for growth and development.
 {% endhint %}
