@@ -4,7 +4,7 @@ description: Token distribution may need few clarifications.
 
 # 🚧 (WIP) Distribution
 
-<figure><img src="../../../.gitbook/assets/chart_token_distribution.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
 
 Regarding the **prime purpose of the protocol**, a large amount of tokens should be traded, in order to:
 
