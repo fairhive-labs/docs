@@ -3,8 +3,8 @@ description: >-
   PoLN is constructed on a foundation of detailed and meticulously designed
   tokenomics, acting as the backbone for the ecosystem's functionality and value
   proposition.
-cover: ../.gitbook/assets/forge-tokens.png
-coverY: 299.2533333333333
+cover: ../.gitbook/assets/utility.png
+coverY: 46
 layout:
   cover:
     visible: true
@@ -27,13 +27,13 @@ layout:
 Within this innovative environment, $POLN tokens embody more than just a currency; they act as a benchmark or index, mirroring the intrinsic value of work and effort invested in the system by contractors, whose work essentially sets the reference for $POLN's value and volatility.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>How $POLN is utilized and its level of demand within the PoLN mechanism</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
 
 By integrating the interests and activities of investors, the builders' team, initiators, fellowships (including agents, contractors, and mentors), and the community, $POLN’s utility forms a cohesive and synergistic foundation for the sustained growth and evolution of the PoLN protocol.
 
 The $POLN token has multifaceted utility, serving as the pivotal component in driving interaction, engagement, and value within the ecosystem.
 
-### **Benchmark of Value**
+## **Benchmark of Value**
 
 Serving as a benchmark of value, $POLN embodies the intrinsic worth of the labor performed by contractors within the PoLN ecosystem. This is not merely a representational function; rather, it’s foundational, anchoring the protocol’s economic structure on the bedrocks of tangible and valuable contributions made by its participants.
 
@@ -47,7 +47,7 @@ Investors and community members can observe and assess the tangible outputs mirr
 
 This alignment serves as one of the fundamental bedrocks, ensuring that the protocol’s economic activities remain grounded in real value creation, fostering confidence, and encouraging long-term investment and engagement.
 
-### **Staking Mechanism**
+## **Staking Mechanism**
 
 Fellowships stake $POLN tokens as a commitment to projects, fostering confidence among initiators and investors. This staking represents a shared investment in the platform’s success, strengthening relationships between different actors.&#x20;
 
@@ -59,13 +59,13 @@ Given the inherent volatility of the market, locking tokens in an escrow for a p
 This approach not only shields the token holders but also contributes to the overall stability of the $POLN token within the marketplace.
 {% endhint %}
 
-### **Governance Participation**
+## **Governance Participation**
 
 $POLN empowers all stakeholders, including the builders' team and the community, to contribute to the decision-making process.&#x20;
 
 This inclusive approach encourages a sense of ownership and collective responsibility, fostering a balanced and well-rounded development of the protocol.
 
-### **Rewards & Incentive Alignment**
+## **Rewards & Incentive Alignment**
 
 $POLN is integral to the distribution of rewards and fees, aligning incentives among initiators and fellowships. This ensures mutual benefit from successful project completions and encourages continuous contributions from all actors.
 
@@ -83,7 +83,7 @@ This continuous interaction and aligned incentives contribute significantly to t
 The dynamic structure of rewards and fees not only nurtures a thriving environment for initiators and fellowships but also ensures a fair dispersion of wealth across all participants. As project successes accumulate, the value generated is shared, fostering a sense of communal prosperity and reinforcing PoLN’s commitment to equitable wealth dynamics, thereby enhancing the overall wealth and well-being of the entire community.
 {% endhint %}
 
-### **Scarcity & Value Preservation for Long-term Stability**
+## **Scarcity & Value Preservation for Long-term Stability**
 
 With a predetermined finite total supply of $POLN tokens, the protocol establishes scarcity as a foundational pillar, strategically contributing to value preservation and appealing to a broad spectrum of stakeholders and potential investors, thereby ensuring the long-term financial stability of the ecosystem.
 
@@ -101,19 +101,21 @@ This cyclical interplay forms a self-reinforcing loop, fostering an environment 
 By maintaining a balance in this triad, PoLN ensures a sustainable and thriving platform that adapts and evolves in tandem with the community’s needs and market dynamics.
 {% endhint %}
 
-### **Community Engagement & Collaborative Growth**
+## **Community Engagement & Collaborative Growth**
 
 The diverse utility of $POLN fosters active participation and collaboration among investors, the builders' team, and the community, driving innovation and ensuring the protocol adapts to the evolving needs of its stakeholders.
 
-### **Liquidity & Exchange**
+## **Liquidity & Exchange**
 
 Within the PoLN ecosystem, the liquidity and exchange of $POLN tokens are pivotal for wealth creation. The enhanced accessibility and value of $POLN on various exchanges contribute to an increase in transaction volumes, directly elevating the wealth of the community and individual stakeholders. This readily exchangeable nature of the token allows for efficient wealth redistribution, fostering a sense of shared prosperity and aligning with PoLN’s commitment to equitable wealth distribution.
 
 Furthermore, as the token’s liquidity and value ascend, the community sees a proportional rise in distributed rewards, reinforcing a cycle of value creation and equitable sharing. This dynamic ensures that the benefits generated within the PoLN ecosystem are widely shared, contributing to the balanced and sustained growth of the protocol.
 
-### **Long-term Alignment with Builders’ Team**
+## **Long-term Alignment with Builders’ Team**
 
 The progressive vesting of the builders’ team’s tokens demonstrates a sustained commitment to the protocol’s vision, reassuring investors and community members of the team’s dedication to PoLN’s success.
+
+***
 
 {% hint style="success" %}
 These varied utilities ensure that $POLN is not just a means of exchange within the platform but is integral to the functioning, growth, and value proposition of the PoLN protocol.

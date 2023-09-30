@@ -12,7 +12,7 @@
     * [Private Sales](tokenomics/token-distribution/private-sales.md)
     * [Public Sales](tokenomics/token-distribution/public-sales.md)
   * [Utility](tokenomics/use-and-circulating-supply.md)
-  * [🚧 (WIP) Demand](tokenomics/use-and-circulating-supply-1.md)
+  * [Demand](tokenomics/use-and-circulating-supply-1.md)
   * [🚧 (WIP) Value Captured](tokenomics/use-and-circulating-supply-2.md)
   * [🚧 (WIP) Operational Conditions](tokenomics/wip-operational-conditions/README.md)
     * [Principles & Conditions](tokenomics/wip-operational-conditions/roles-and-plans.md)

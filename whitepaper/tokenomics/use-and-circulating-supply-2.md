@@ -3,8 +3,8 @@ description: >-
   PoLN is constructed on a foundation of detailed and meticulously designed
   tokenomics, acting as the backbone for the ecosystem's functionality and value
   proposition.
-cover: ../.gitbook/assets/forge-tokens.png
-coverY: 299.2533333333333
+cover: ../.gitbook/assets/tokenomics.png
+coverY: 19
 layout:
   cover:
     visible: true
