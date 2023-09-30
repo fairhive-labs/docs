@@ -30,7 +30,7 @@ layout:
 | **Decimals**                   |                 `18`                 |
 | **Subunits**                   | `nPOLN (1 nPOLN = 0.000000001 POLN)` |
 | **Max supply**                 |           `200,000,000.00`           |
-| **Capped**                     |                `true`                |
+| **Fixed supply**               |                `true`                |
 | **Pre-minted**                 |                `true`                |
 | **Builder’s vesting schedule** |        `Progressive / 3 years`       |
 
