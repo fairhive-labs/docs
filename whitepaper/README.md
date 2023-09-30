@@ -48,7 +48,8 @@ PoLN stands as a testament to progressive and equitable economic models, serving
 The ten core objectives laid out by PoLN are not merely reactive but are a proactive blueprint for forging a supportive community, promoting inclusivity, and driving innovation, turning challenges into opportunities for growth and development.
 {% endhint %}
 
---- 
+***
+ 
 {% hint style="warning" %}
 **Document Versioning Disclaimer**
 
