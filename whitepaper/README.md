@@ -49,7 +49,7 @@ The ten core objectives laid out by PoLN are not merely reactive but are a proac
 {% endhint %}
 
 ***
- 
+
 {% hint style="warning" %}
 **Document Versioning Disclaimer**
 
@@ -59,6 +59,6 @@ This whitepaper is a living document and may be updated or revised periodically 
 
 Each version of this document supersedes all prior versions. Readers are advised to ensure they are referencing the most recent version of this whitepaper and to stay informed of any updates or changes by visiting our official channels or website.
 
-**Version**: 0.5.1\
+**Version**: 0.5.2
 **Date**: 09/30/2023
 {% endhint %}

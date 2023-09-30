@@ -54,6 +54,8 @@ The decentralized nature of PoLN can empower individuals, giving them more agenc
 
 Value is also captured through partnerships and collaborations that PoLN forms with other entities. These partnerships can lead to additional revenue streams, increased platform utility, and enhanced ecosystem growth.
 
+***
+
 {% hint style="success" %}
 The value capture of PoLN delineates how the protocol retains and enhances the inherent worth generated within its ecosystem, establishing a solid foundation for sustainable growth and long-term viability.
 {% endhint %}
