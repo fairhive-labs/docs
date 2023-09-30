@@ -21,19 +21,6 @@ layout:
 
 # Why PoLN ?
 
-{% hint style="warning" %}
-**Document Versioning Disclaimer**
-
-
-
-This whitepaper is a living document and may be updated or revised periodically to reflect the latest developments, insights, or changes related to the PoLN protocol.&#x20;
-
-Each version of this document supersedes all prior versions. Readers are advised to ensure they are referencing the most recent version of this whitepaper and to stay informed of any updates or changes by visiting our official channels or website.
-
-**Version**: 0.5.1\
-**Date**: 09/30/2023
-{% endhint %}
-
 {% hint style="info" %}
 In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.
 
@@ -59,4 +46,18 @@ PoLN stands as a testament to progressive and equitable economic models, serving
 
 {% hint style="success" %}
 The ten core objectives laid out by PoLN are not merely reactive but are a proactive blueprint for forging a supportive community, promoting inclusivity, and driving innovation, turning challenges into opportunities for growth and development.
+{% endhint %}
+
+--- 
+{% hint style="warning" %}
+**Document Versioning Disclaimer**
+
+
+
+This whitepaper is a living document and may be updated or revised periodically to reflect the latest developments, insights, or changes related to the PoLN protocol.
+
+Each version of this document supersedes all prior versions. Readers are advised to ensure they are referencing the most recent version of this whitepaper and to stay informed of any updates or changes by visiting our official channels or website.
+
+**Version**: 0.5.1\
+**Date**: 09/30/2023
 {% endhint %}
