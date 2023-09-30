@@ -1,10 +1,26 @@
 ---
 description: Token distribution may need few clarifications.
+cover: ../.gitbook/assets/attributes.png
+coverY: 222.02666666666667
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚧 (WIP) Distribution
 
-<figure><img src="../../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
 
 Regarding the **prime purpose of the protocol**, a large amount of tokens should be traded, in order to:
 
@@ -21,3 +37,7 @@ Last but not least, tokens will be distributed:
 
 * to **strategic partners** (advisors, media, etc),
 * for **marketing** purposes (airdrops, giveaways, games/lottery, etc).
+
+## Private Sales
+
+## Public Sales

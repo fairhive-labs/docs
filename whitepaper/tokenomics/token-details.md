@@ -1,7 +1,7 @@
 ---
-description: '$POLN performs two principal functions: utility and governance'
-cover: ../.gitbook/assets/token.png
-coverY: 133.21599999999998
+description: '$POLN performs two principal functions: utility and governance.'
+cover: ../.gitbook/assets/attributes.png
+coverY: -171
 layout:
   cover:
     visible: true
