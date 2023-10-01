@@ -2,8 +2,8 @@
 description: >-
   PoLN's tokenomics are intricately devised, embedding the essence of work and
   commitment as the foundation of the $POLN token's value and volatility.
-cover: ../.gitbook/assets/token.png
-coverY: 68
+cover: ../.gitbook/assets/forge-tokens.png
+coverY: 114
 layout:
   cover:
     visible: true

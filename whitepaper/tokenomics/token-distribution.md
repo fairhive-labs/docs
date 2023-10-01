@@ -1,7 +1,7 @@
 ---
 description: Token distribution may need few clarifications.
-cover: ../.gitbook/assets/distribution.png
-coverY: -16
+cover: ../.gitbook/assets/token.png
+coverY: 50
 layout:
   cover:
     visible: true
