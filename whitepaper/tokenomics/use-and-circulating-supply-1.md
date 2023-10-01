@@ -3,8 +3,8 @@ description: >-
   Demand for the $POLN token is shaped by the diverse needs and interactions of
   various stakeholders, each contributing to a dynamic and robust demand
   landscape.
-cover: ../.gitbook/assets/demand.png
-coverY: 73
+cover: ../.gitbook/assets/demand (1).png
+coverY: 23
 layout:
   cover:
     visible: true
