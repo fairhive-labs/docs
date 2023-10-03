@@ -43,7 +43,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [x] Whitepaper
 * [x] Landing page
 * [ ] Pitch deck
-* [x] Mint the $POLN token
+* [ ] Mint the $POLN token
 * [ ] Pre-Seed / Private Sale #1
 * [x] Waitlist (off-chained pre-registration)
 * [ ] Develop community & partnerships
