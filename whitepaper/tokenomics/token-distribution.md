@@ -38,6 +38,8 @@ Last but not least, tokens will be distributed:
 * to **strategic partners** (advisors, media, etc),
 * for **marketing** purposes (airdrops, giveaways, games/lottery, etc).
 
+## Initiators Rewards Halving
+
 ## Private Sales
 
 ## Public Sales

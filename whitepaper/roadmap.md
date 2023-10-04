@@ -74,8 +74,8 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [ ] Open community-driven protocol development and maintenance
 * [ ] Deploy PoLN protocol V1 on **MAINNET**
 * [ ] Airdrops
-  - [ ] Encourage participation
-  - [ ] Foster community engagement
+  * [ ] Encourage participation
+  * [ ] Foster community engagement
 * [ ] Develop community & partnerships
 
 </details>
@@ -131,10 +131,10 @@ This approach ensures that the community and other stakeholders have a clear, ye
 
 </details>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Given the nature of this document, a comprehensive Work Breakdown Structure (WBS) cannot be provided, and it's important to note that this planning serves merely as a forecast.
 
-It does not account for potential additional developments or implementations that may be required, such as a blockchain explorer or specific wallets. 
+It does not account for potential additional developments or implementations that may be required, such as a blockchain explorer or specific wallets.
 
 Additionally, the community’s contributions and insights will be invaluable in adapting and refining the ongoing planning and development process...
 {% endhint %}
