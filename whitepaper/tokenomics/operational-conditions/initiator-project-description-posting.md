@@ -11,8 +11,6 @@ This detail encompasses the scope, a brief introduction, any technical specifica
 
 This entire description serves as a Request for Proposals (RFP) or a call for bids.
 
-<figure><img src="../../.gitbook/assets/initiator_start.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ## Education and Guidelines
 
 By disseminating guidelines on platform best practices and potential pitfalls, initiators and fellowships can be better equipped. 
