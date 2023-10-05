@@ -23,7 +23,9 @@ layout:
 
 # ⛏ (preview) Operational Conditions
 
-The PoLN protocol operates within a set of phases, each carefully designed to ensure transparency, efficiency, and commitment from all parties involved. These operational phases lay the foundation for the protocol's functioning and streamline the project lifecycle. 
+The PoLN protocol operates within a set of phases, each carefully designed to ensure transparency, efficiency, and commitment from all parties involved. 
+
+These operational phases lay the foundation for the protocol's functioning and streamline the project lifecycle. 
 
 Here's a brief overview:
 
@@ -33,7 +35,11 @@ Here's a brief overview:
 4. **Project Execution & Evaluation:** At the heart of the protocol lies the actual execution of the project. This phase delves into the nuts and bolts of project management, with an emphasis on continuous monitoring and evaluation from both the initiator's and the fellowship's vantage points.
 5. **Reward & Fee Distribution:** The culmination of the project lifecycle, this phase breaks down the distribution of rewards and fees. It provides clarity on how dues are settled, whether in the case of successful project completion or potential failures.
 
-***
+{% hint style="success" %}
+In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are paramount. 
+
+By integrating these phases, PoLN solidifies its stature as a premier protocol, driving innovation while aligning closely with its core objectives to ensure robust operational standards.
+{% endhint %}
 
 {% hint style="info" %}
 
@@ -45,8 +51,4 @@ These include:
 * **Continuous Learning & Platform Improvement:** Embracing feedback from past projects can offer invaluable insights. This phase would emphasize refining the platform and fostering a culture of continuous learning among fellowships.
 * **Community Engagement & Governance:** Democracy and decentralization are at the heart of blockchain protocols. This phase would foster a sense of ownership among the PoLN community, enabling members to have a say in decision-making and protocol evolution.
 * **Onboarding & Training:** As PoLN grows, welcoming new members and ensuring they are well-acquainted with the platform's ethos will be crucial. This phase would ensure smooth assimilation and adherence to best practices.
-{% endhint %}
-
-{% hint style="success" %}
-In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are paramount. These potential phases, if integrated, can further bolster PoLN's stature as a premier platform, driving innovation while ensuring robust operational standards.
 {% endhint %}
