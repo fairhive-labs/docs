@@ -7,7 +7,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption></figcaption></figure>
 
-In the realm of PoLN's operational dynamics, this phase serves as a foundational checkpoint, ensuring both initiator and fellowship commitment.&#x20;
+In the realm of PoLN's operational dynamics, this phase serves as a foundational checkpoint, ensuring both initiator and fellowship commitment.
 
 By mandating staked assets and locking payments, it infuses the ecosystem with accountability, while safeguarding the interests of all participants.
 
@@ -29,24 +29,29 @@ Staking serves as a deterrent against any potential malicious intentions or lack
 
 ## **Dynamic Staking Amounts**
 
-While there is a minimum staking requirement of 10% of the total project fees set by the initiator, fellowships can choose to stake any amount above this threshold.&#x20;
+While there is a minimum staking requirement of 10% of the total project fees set by the initiator, fellowships can choose to stake any amount above this threshold.
 
 By staking higher amounts, fellowships might portray a heightened level of confidence and commitment to the project, potentially influencing the initiator's bid selection process.
 
 ## **Initiator's Fee Payment & Contractor Provisioning**
 
-Upon the acceptance of the fellowship's bid and their subsequent staking of the committed $POLN tokens, the initiator is responsible for two key financial elements:
+Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator. 
 
-* Paying the agreed-upon fees for the protocol.
-* Provisioning the payment intended for the contractor's work/delivery.
+The initiator must promptly address two vital financial commitments: 
+* covering the protocol's fees,
+* setting aside the contractor's payment.
 
-Both these amounts are securely locked in an escrow smart contract.&#x20;
+To ensure transparency, trust, and security within PoLN's ecosystem, both these sums are locked into a smart contract-based escrow system. This escrow acts as a trust-establishing mechanism, confirming to fellowships and contractors that the initiator has genuinely committed the funds. 
 
-This ensures not only the availability of funds for fee distribution upon project completion but also guarantees the contractor's payment for the services rendered.
+Furthermore, the escrow operates based on set project milestones, allowing for incremental releases of funds as progress markers are achieved. 
+
+In cases of disputes or disagreements, this neutral financial holding ground ensures neither party can unilaterally access the funds without due resolution.
+
+By locking in both the fees and the contractor's prospective payment, PoLN not only guarantees the availability of funds for fee distribution at the project's culmination but also solidifies the contractor's trust, knowing their due remuneration is secure.
 
 ## **Protection Mechanism & Assurance**
 
-Both the fellowship's staked tokens and the initiator's locked fees, alongside the provisioned contractor payment, are securely stored in smart contracts on the blockchain.&#x20;
+Both the fellowship's staked tokens and the initiator's locked fees, alongside the provisioned contractor payment, are securely stored in smart contracts on the blockchain.
 
 This structure serves multiple purposes:
 
@@ -90,7 +95,7 @@ These measures aim to maintain the integrity of the system, hold fellowships acc
 
 ## **Dispute Resolution**
 
-In the initial stages of the PoLN protocol, disputes between the initiator and the fellowship will be handled based on a predefined set of guidelines and criteria.&#x20;
+In the initial stages of the PoLN protocol, disputes between the initiator and the fellowship will be handled based on a predefined set of guidelines and criteria.
 
 These criteria will serve as a framework to determine the release or forfeiture of locked funds. They could include, but are not limited to:
 
@@ -100,13 +105,13 @@ These criteria will serve as a framework to determine the release or forfeiture 
 * [ ] **Communication:** Regularity, clarity, and promptness of communication between parties during the project's duration.
 * [ ] **Feedback Loops:** The efficiency in addressing feedback or changes requested by the initiator during the course of the project.
 
-In the future, as the PoLN ecosystem matures, there is an aspiration to integrate a decentralized arbitration system.&#x20;
+In the future, as the PoLN ecosystem matures, there is an aspiration to integrate a decentralized arbitration system.
 
 This would involve community members or designated arbitrators who, in case of disagreements, would weigh in based on evidence presented by both parties. This system would not only bolster the trust within the community but also ensure more fairness and decentralization in the resolution process.
 
 ## **Timely Provisions by Initiator**
 
-Post bid acceptance, the initiator has a grace period (e.g., 1 week) to provision the contractor's payment and pay the required PoLN fees.&#x20;
+Post bid acceptance, the initiator has a grace period (e.g., 1 week) to provision the contractor's payment and pay the required PoLN fees.
 
 Should the initiator fail to meet these obligations within the set timeframe:
 
@@ -127,13 +132,13 @@ If a fellowship, after winning the bid, fails to stake the agreed-upon amount wi
 
 ### **Completion & Success Acknowledgment**
 
-If a project is approaching or has exceeded its original duration but all parties are in agreement with the work's quality and direction, the current project should be marked as successfully completed.&#x20;
+If a project is approaching or has exceeded its original duration but all parties are in agreement with the work's quality and direction, the current project should be marked as successfully completed.
 
 This allows for the distribution of the locked funds: fellowship members receive their fees, the staked $POLN is returned, and the initiator obtains its reward.
 
 ### **Initiating a Continuation Project**
 
-In cases where more time is required to achieve the final goal or to continue with new phases, a new project should be initiated.&#x20;
+In cases where more time is required to achieve the final goal or to continue with new phases, a new project should be initiated.
 
 The initiator can create a follow-up project that can be seen as a continuation of the previous one.
 
@@ -141,19 +146,19 @@ This "sequel" project can be templated from the previous one for efficiency, wit
 
 ### **Transparency & Transition**
 
-The transition from the original to the continuation project should be seamless and transparent. Notifications should be sent to all involved parties to ensure clarity.&#x20;
+The transition from the original to the continuation project should be seamless and transparent. Notifications should be sent to all involved parties to ensure clarity.
 
 It's advantageous as this process reduces the risks associated with longer projects and ensures regular assessment and rewards distribution.
 
 ### **Benefits**
 
-By treating the need for extra time as a new project, both the initiator and the fellowship can regularly reassess conditions, preventing any potential drift in objectives.&#x20;
+By treating the need for extra time as a new project, both the initiator and the fellowship can regularly reassess conditions, preventing any potential drift in objectives.
 
 This structure also ensures timely payouts, rewards, and a consistent sense of accomplishment and progression for all parties involved.
 
 ## **Termination Option**
 
-If both parties can't agree on the terms of the extension, there should be an option for the initiator to terminate the project.&#x20;
+If both parties can't agree on the terms of the extension, there should be an option for the initiator to terminate the project.
 
 In such cases, the payout to the fellowship would be proportional to the work completed, and the staked $POLN would be returned to the fellowship after deducting any penalties if applicable.
 
