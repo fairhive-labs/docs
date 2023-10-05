@@ -14,6 +14,7 @@
   * [Value Captured](tokenomics/value-captured.md)
   * [⛏ (preview) Operational Conditions](tokenomics/operational-conditions/README.md)
     * [Initiator's project description and posting](tokenomics/operational-conditions/initiator-project-description-posting.md)
+    * [Fellowship formation and bidding](tokenomics/operational-conditions/fellowship-formation-bidding.md)
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 * [🚧 (WIP) Architecture Overview](architecture-overview-web3-design/README.md)

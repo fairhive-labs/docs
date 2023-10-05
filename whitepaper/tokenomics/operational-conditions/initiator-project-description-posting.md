@@ -1,6 +1,6 @@
 ---
 description: >-
-  In this stage, initiators outline project specifics, define crucial parameters, tackle potential confidentiality issues, and establish a foundation for successful engagements within the PoLN ecosystem
+  In this stage, initiators outline project specifics, define crucial parameters, tackle potential confidentiality issues, and establish a foundation for successful engagements within the PoLN ecosystem.
 ---
 
 # Initiator's project description and posting
