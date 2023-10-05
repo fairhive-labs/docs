@@ -3,7 +3,7 @@ description: >-
   In this stage, fellowships stake tokens, ensuring commitment, while initiators lock fees and contractor payments. These secure methods in smart contracts safeguard interests and foster trust in the PoLN ecosystem.
 ---
 
-# **Staking & Payment Locks**
+# **Staking and Payment Locks**
 
 <figure><img src="../../.gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption></figcaption></figure>
 

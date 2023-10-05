@@ -3,7 +3,7 @@ description: >-
   During this stage, fellowships form, express interest in projects, and competitively bid. The dynamic ensures the best teams are chosen, fostering quality and competitive prices within the PoLN ecosystem.
 ---
 
-# **Fellowship Formation and Bidding**
+# **Fellowship formation and Bidding**
 
 ## **Multiple Fellowship Membership**
 

@@ -3,7 +3,7 @@ description: >-
   During this phase, the fellowship works on the project while progress is monitored. Evaluations from both sides ensure alignment and gauge satisfaction, guiding outcomes and rewards.
 ---
 
-# **Project Execution & Evaluation**
+# **Project execution and evaluation**
 
 In the decentralized ecosystem facilitated by the PoLN protocol, the protocol serves primarily as a trust layer, ensuring staking, fee management, and reward distribution. However, project execution largely follows the agreed terms between the initiator and the fellowship, outside of the protocol's direct oversight.
 

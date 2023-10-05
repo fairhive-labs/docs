@@ -3,7 +3,7 @@ description: >-
   Upon project completion or failure, rewards and fees are allocated. Initiators, fellowships, and the community receive or forfeit amounts based on project outcomes, ensuring accountability.
 ---
 
-# Reward & Fee Distribution
+# Reward and Fee Distribution
 
 In the decentralized world of PoLN, the act of compensating contributors for their efforts is paramount. This reward and fee distribution phase seeks to ensure that all stakeholders, be it initiators, fellowships, or the broader community, are fairly remunerated for their roles. Here, we delve into the intricacies of how value is allocated and distributed across the protocol, ensuring that there's skin in the game, commitment is sustained, and quality is continuously delivered. The system is meticulously designed, integrating a robust reward matrix for initiators based on project duration and a well-structured distribution plan for protocol fees. By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all. Dive in to understand the precision with which PoLN has crafted its reward and fee distribution mechanism.
 
