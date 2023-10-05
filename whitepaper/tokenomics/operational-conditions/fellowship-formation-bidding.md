@@ -5,6 +5,12 @@ description: >-
 
 # Fellowship formation and Bidding
 
+In this critical juncture of the PoLN protocol, potential fellowships come together, drawing from varied expertise to answer project RFPs. 
+
+By staking tokens as a sign of their commitment and crafting strategic bids, they compete for the initiator's approval. 
+
+This process, encompassing submission, negotiation, and competitive selection, ultimately leads to the start of the project. Embedded within this mechanism is a continuous feedback loop, promoting iterative enhancement and deepening trust within the ecosystem.
+
 ## Team Formation & Collaboration
 
 Upon the posting of a project by an initiator, individuals or pre-formed teams (agents, mentors, and contractors) can come together to form a fellowship. A fellowship might be a team newly formed for a specific project or an existing team with a track record from prior projects.
