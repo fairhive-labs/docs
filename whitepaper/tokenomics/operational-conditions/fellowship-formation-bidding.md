@@ -5,17 +5,17 @@ description: >-
 
 # Fellowship formation and Bidding
 
-## Multiple Fellowship Membership
-
-An individual on the PoLN platform can be part of various fellowships simultaneously.
-
-It's up to the individual to manage their commitments and time effectively across different projects. This flexibility promotes a dynamic ecosystem where talent can contribute to multiple initiatives based on their expertise and interests.
-
 ## Team Formation & Collaboration
 
 Upon the posting of a project by an initiator, individuals or pre-formed teams (agents, mentors, and contractors) can come together to form a fellowship. A fellowship might be a team newly formed for a specific project or an existing team with a track record from prior projects.
 
 Platforms like Discord enable these individuals to communicate, establish partnerships, strategize, and finalize the roles and contributions of each member.
+
+## Multiple Fellowship Membership
+
+An individual on the PoLN platform can be part of various fellowships simultaneously.
+
+It's up to the individual to manage their commitments and time effectively across different projects. This flexibility promotes a dynamic ecosystem where talent can contribute to multiple initiatives based on their expertise and interests.
 
 ## Staking & Skin in the Game
 
@@ -33,6 +33,12 @@ This encompasses the strategy they propose, their collective skills and experien
 
 The bid also clarifies how they intend to distribute the rewards and fees upon project completion, ensuring transparency for all parties involved.
 
+## Submission & Negotiation
+
+Fellowships submit their proposals to the initiator after bid preparation.
+
+The initiator can then review all the bids, engage in discussions, seek clarifications, and negotiate terms with one or more fellowships, ensuring the best fit for their project.
+
 ## Competitive Bidding & Choice
 
 If multiple fellowships bid for the same project, the initiator has the freedom to select the one they find most suitable.
@@ -40,12 +46,6 @@ If multiple fellowships bid for the same project, the initiator has the freedom 
 They can base their decision on various factors such as track records, team composition, staking amount, or any other criteria they value.
 
 This competitive structure ensures that initiators have access to the best talent and proposals.
-
-## Submission & Negotiation
-
-Fellowships submit their proposals to the initiator after bid preparation.
-
-The initiator can then review all the bids, engage in discussions, seek clarifications, and negotiate terms with one or more fellowships, ensuring the best fit for their project.
 
 ## Bid Acceptance & Project Commencement
 
