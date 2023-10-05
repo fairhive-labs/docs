@@ -16,6 +16,8 @@
     * [Initiator's Project Description and Posting](tokenomics/operational-conditions/initiator-project-description-posting.md)
     * [Fellowship Formation and Bidding](tokenomics/operational-conditions/fellowship-formation-bidding.md)
     * [Staking & Payment Locks](tokenomics/operational-conditions/staking-payment-locks.md)
+    * [Project Execution & Evaluation](tokenomics/operational-conditions/project-execution-evaluation.md)
+    * [Reward & Fee Distribution](tokenomics/operational-conditions/reward-fee-distribution.md)
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 * [🚧 (WIP) Architecture Overview](architecture-overview-web3-design/README.md)
