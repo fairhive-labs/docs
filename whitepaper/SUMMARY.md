@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Why PoLN ?](README.md)
-  * [Traditional economy depends on fossils fuels](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/traditional-economy-depends-on-fossils-fuels.md)
-  * [Wealth inequality is growing globally](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/wealth-inequality-is-growing-globally.md)
-  * [New generations have different expectations](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/new-generations-have-different-expectations.md)
-  * [Future of work is a paradigm shift underpinned by self-employment](sustain-defi-with-work-based-economy-and-promote-wealth-sharing/future-of-work-is-a-paradigm-shift-underpinned-by-self-employment.md)
+  * [Traditional economy depends on fossils fuels](why/traditional-economy-depends-on-fossils-fuels.md)
+  * [Wealth inequality is growing globally](why/wealth-inequality-is-growing-globally.md)
+  * [New generations have different expectations](why/new-generations-have-different-expectations.md)
+  * [Future of work is a paradigm shift underpinned by self-employment](why/future-of-work-is-a-paradigm-shift-underpinned-by-self-employment.md)
 * [What is PoLN ?](what.md)
 * [Tokenomics](tokenomics/README.md)
   * [Attributes and Issuance](tokenomics/token-details.md)
