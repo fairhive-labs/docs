@@ -12,7 +12,7 @@
   * [Utility](tokenomics/utility.md)
   * [Demand](tokenomics/demand.md)
   * [Value Captured](tokenomics/value-captured.md)
-  * [⛏ (preview) Operational Conditions](tokenomics/operational-conditions.md)
+  * [⛏ (preview) Operational Conditions](tokenomics/operational-conditions/README.md)
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 * [🚧 (WIP) Architecture Overview](architecture-overview-web3-design/README.md)
