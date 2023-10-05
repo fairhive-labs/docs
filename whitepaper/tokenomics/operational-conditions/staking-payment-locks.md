@@ -37,6 +37,14 @@ While there is a minimum staking requirement of 10% of the total project fees se
 
 By staking higher amounts, fellowships might portray a heightened level of confidence and commitment to the project, potentially influencing the initiator's bid selection process.
 
+## Fellowship's Staking Commitment
+
+If a fellowship, after winning the bid, fails to stake the agreed-upon amount within the specified period:
+
+* The initiator is alerted and has the discretion to choose an alternative fellowship or await the initial fellowship's compliance.
+* The initial project bid by the fellowship is considered void or cancelled.
+* Here too, the conditions and repercussions of not meeting the staking commitments should be mentioned in the contract between the fellowship and the initiator.
+
 ## Initiator's Fee Payment & Contractor Provisioning
 
 Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator. 
@@ -52,6 +60,17 @@ Furthermore, the escrow operates based on set project milestones, allowing for i
 In cases of disputes or disagreements, this neutral financial holding ground ensures neither party can unilaterally access the funds without due resolution.
 
 By locking in both the fees and the contractor's prospective payment, PoLN not only guarantees the availability of funds for fee distribution at the project's culmination but also solidifies the contractor's trust, knowing their due remuneration is secure.
+
+## Timely Provisions by Initiator
+
+Post bid acceptance, the initiator has a grace period (e.g., 7 days) to provision the contractor's payment and pay the required PoLN fees.
+
+Should the initiator fail to meet these obligations within the set timeframe:
+
+* The project is marked as "Aborted".
+* Fellowships are notified that the project has not commenced due to payment failures.
+* The stipulations surrounding such scenarios should be explicitly outlined in the contract between the fellowship and the initiator.
+* Upon the project's status being marked as "Aborted," the fellowship can retrieve its staked amount without any penalties. The project then reverts to its original state, and if no action is taken, it will eventually be discarded after the specified deadline.
 
 ## Staking Protection, Assurance, and Release Mechanisms
 
@@ -77,6 +96,34 @@ Protocol fees, once locked, are released and distributed amongst fellowship memb
 Fellowships see their staked $POLN tokens unlocked and returned, marking successful project execution.
 
 Contractors receive their due payment as per agreed-upon milestones or invoicing schedules, ensuring timely and fair compensation for services rendered.
+
+## Handling Project Duration Exceedance
+
+### Completion & Success Acknowledgment
+
+If a project is approaching or has exceeded its original duration but all parties are in agreement with the work's quality and direction, the current project should be marked as successfully completed.
+
+This allows for the distribution of the locked funds: fellowship members receive their fees, the staked $POLN is returned, and the initiator obtains its reward.
+
+### Initiating a Continuation Project
+
+In cases where more time is required to achieve the final goal or to continue with new phases, a new project should be initiated.
+
+The initiator can create a follow-up project that can be seen as a continuation of the previous one.
+
+This "sequel" project can be templated from the previous one for efficiency, with adjustments made to reflect the new scope, duration, and conditions.
+
+### Transparency & Transition
+
+The transition from the original to the continuation project should be seamless and transparent. Notifications should be sent to all involved parties to ensure clarity.
+
+It's advantageous as this process reduces the risks associated with longer projects and ensures regular assessment and rewards distribution.
+
+### Benefits
+
+By treating the need for extra time as a new project, both the initiator and the fellowship can regularly reassess conditions, preventing any potential drift in objectives.
+
+This structure also ensures timely payouts, rewards, and a consistent sense of accomplishment and progression for all parties involved.
 
 ## Project Failure Scenarios
 
@@ -111,59 +158,6 @@ These criteria will serve as a framework to determine the release or forfeiture 
 In the future, as the PoLN ecosystem matures, there is an aspiration to integrate a decentralized arbitration system.
 
 This would involve community members or designated arbitrators who, in case of disagreements, would weigh in based on evidence presented by both parties. This system would not only bolster the trust within the community but also ensure more fairness and decentralization in the resolution process.
-
-## Timely Provisions by Initiator
-
-Post bid acceptance, the initiator has a grace period (e.g., 1 week) to provision the contractor's payment and pay the required PoLN fees.
-
-Should the initiator fail to meet these obligations within the set timeframe:
-
-* The project is marked as "Aborted".
-* Fellowships are notified that the project has not commenced due to payment failures.
-* The stipulations surrounding such scenarios should be explicitly outlined in the contract between the fellowship and the initiator.
-* Upon the project's status being marked as "Aborted," the fellowship can retrieve its staked amount without any penalties. The project then reverts to its original state, and if no action is taken, it will eventually be discarded after the specified deadline.
-
-## Fellowship's Staking Commitment
-
-If a fellowship, after winning the bid, fails to stake the agreed-upon amount within the specified period:
-
-* The initiator is alerted and has the discretion to choose an alternative fellowship or await the initial fellowship's compliance.
-* The initial project bid by the fellowship is considered void or cancelled.
-* Here too, the conditions and repercussions of not meeting the staking commitments should be mentioned in the contract between the fellowship and the initiator.
-
-## Handling Project Duration Exceedance
-
-### Completion & Success Acknowledgment
-
-If a project is approaching or has exceeded its original duration but all parties are in agreement with the work's quality and direction, the current project should be marked as successfully completed.
-
-This allows for the distribution of the locked funds: fellowship members receive their fees, the staked $POLN is returned, and the initiator obtains its reward.
-
-### Initiating a Continuation Project
-
-In cases where more time is required to achieve the final goal or to continue with new phases, a new project should be initiated.
-
-The initiator can create a follow-up project that can be seen as a continuation of the previous one.
-
-This "sequel" project can be templated from the previous one for efficiency, with adjustments made to reflect the new scope, duration, and conditions.
-
-### Transparency & Transition
-
-The transition from the original to the continuation project should be seamless and transparent. Notifications should be sent to all involved parties to ensure clarity.
-
-It's advantageous as this process reduces the risks associated with longer projects and ensures regular assessment and rewards distribution.
-
-### Benefits
-
-By treating the need for extra time as a new project, both the initiator and the fellowship can regularly reassess conditions, preventing any potential drift in objectives.
-
-This structure also ensures timely payouts, rewards, and a consistent sense of accomplishment and progression for all parties involved.
-
-## Termination Option
-
-If both parties can't agree on the terms of the extension, there should be an option for the initiator to terminate the project.
-
-In such cases, the payout to the fellowship would be proportional to the work completed, and the staked $POLN would be returned to the fellowship after deducting any penalties if applicable.
 
 {% hint style="success" %}
 This phase primarily focuses on ensuring financial security and fostering trust among all participants, thus ensuring smooth project execution. In essence, the goal is to provide flexibility while ensuring fairness and transparency. This safeguards the interests of both the initiator and the fellowship in cases of project duration extensions.
