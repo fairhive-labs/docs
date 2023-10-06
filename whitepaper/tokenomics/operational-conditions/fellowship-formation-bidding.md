@@ -3,21 +3,19 @@ description: >-
   During this stage, fellowships form, express interest in projects, and competitively bid. The dynamic ensures the best teams are chosen, fostering quality and competitive prices within the PoLN ecosystem.
 ---
 
-# Fellowship formation and Bidding
-
-In this critical juncture of the PoLN protocol, potential fellowships come together, drawing from varied expertise to answer project RFPs. 
-
-By staking tokens as a sign of their commitment and crafting strategic bids, they compete for the initiator's approval. 
-
-This process, encompassing submission, negotiation, and competitive selection, ultimately leads to the start of the project. Embedded within this mechanism is a continuous feedback loop, promoting iterative enhancement and deepening trust within the ecosystem.
-
 ## Team Formation & Collaboration
 
-Upon the posting of a project by an initiator, individuals or pre-formed teams (agents, mentors, and contractors) can come together to form a fellowship. 
+Whenever an initiator posts a project, individuals or pre-formed teams can come together to create a fellowship. 
 
-A fellowship might be a team newly formed for a specific project or an existing team with a track record from prior projects.
+At its core, a fellowship must always include a contractor, ensuring there's always someone to execute and deliver the project. 
 
-Platforms like Discord enable these individuals to communicate, establish partnerships, strategize, and finalize the roles and contributions of each member.
+While contractors are pivotal for delivery, agents and mentors, though optional, significantly enhance a fellowship's capabilities. 
+
+Agents can facilitate optimal business relations with the initiator, while mentors bring expertise and guidance, amplifying the fellowship's chances of success. 
+
+A fellowship might either be a fresh assembly for a specific project or an established team with prior accomplishments.
+
+To foster collaboration, platforms like Discord offer an environment where individuals can communicate, form partnerships, strategize, and delineate the roles and contributions of each participant.
 
 ## Multiple Fellowship Membership
 
@@ -26,6 +24,14 @@ An individual on the PoLN platform can be part of various fellowships simultaneo
 It's up to the individual to manage their commitments and time effectively across different projects. 
 
 This flexibility promotes a dynamic ecosystem where talent can contribute to multiple initiatives based on their expertise and interests.
+
+# Fellowship formation and Bidding
+
+In this critical juncture of the PoLN protocol, potential fellowships come together, drawing from varied expertise to answer project RFPs. 
+
+By staking tokens as a sign of their commitment and crafting strategic bids, they compete for the initiator's approval. 
+
+This process, encompassing submission, negotiation, and competitive selection, ultimately leads to the start of the project. Embedded within this mechanism is a continuous feedback loop, promoting iterative enhancement and deepening trust within the ecosystem.
 
 ## Staking & Skin in the Game
 
