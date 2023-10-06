@@ -27,7 +27,7 @@ layout:
 Balancing the encouragement of wealth generation with the broader well-being of society is a challenging but crucial task for policymakers around the world...
 {% endhint %}
 
-As the world becomes more interconnected, wealth often accumulates among individuals or companies who can effectively harness resources and opportunities. The rapid progression of technology, while beneficial to many, can also create disparities in wealth accumulation. Furthermore, the influence of dominant financial institutions can impact wealth distribution patterns, potentially favoring established entities.&#x20;
+As the world becomes more interconnected, wealth often accumulates among individuals or companies who can effectively harness resources and opportunities. The rapid progression of technology, while beneficial to many, can also create disparities in wealth accumulation. Furthermore, the influence of dominant financial institutions can impact wealth distribution patterns, potentially favoring established entities.
 
 These combined dynamics can lead to pronounced wealth inequalities.
 

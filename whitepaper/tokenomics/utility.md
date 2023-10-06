@@ -40,20 +40,20 @@ Serving as a benchmark of value, $POLN embodies the intrinsic worth of the labor
 The token’s value is intricately tied to the quality and quantity of work delivered, thereby creating a transparent and reliable measure for investors and stakeholders to assess the protocol’s economic vitality and growth prospects. This establishes $POLN as more than a medium of exchange; it becomes a symbol of the value generated within the ecosystem, reflecting the cumulative efforts and accomplishments of its contributors.
 
 {% hint style="success" %}
-By aligning the token’s value closely with the real-world contributions of contractors, PoLN fosters an environment of stability and trust.&#x20;
+By aligning the token’s value closely with the real-world contributions of contractors, PoLN fosters an environment of stability and trust.
 {% endhint %}
 
-Investors and community members can observe and assess the tangible outputs mirrored in the token’s value, providing insights into the protocol’s overall health, sustainability, and potential for future growth.&#x20;
+Investors and community members can observe and assess the tangible outputs mirrored in the token’s value, providing insights into the protocol’s overall health, sustainability, and potential for future growth.
 
 This alignment serves as one of the fundamental bedrocks, ensuring that the protocol’s economic activities remain grounded in real value creation, fostering confidence, and encouraging long-term investment and engagement.
 
 ## **Staking Mechanism**
 
-Fellowships stake $POLN tokens as a commitment to projects, fostering confidence among initiators and investors. This staking represents a shared investment in the platform’s success, strengthening relationships between different actors.&#x20;
+Fellowships stake $POLN tokens as a commitment to projects, fostering confidence among initiators and investors. This staking represents a shared investment in the platform’s success, strengthening relationships between different actors.
 
-Furthermore, the utilization of escrow smart contracts serves as a protective mechanism for $POLN token holders.&#x20;
+Furthermore, the utilization of escrow smart contracts serves as a protective mechanism for $POLN token holders.
 
-Given the inherent volatility of the market, locking tokens in an escrow for a predetermined duration acts as a deterrent against aggressive short-term trading positions. This is because tokens in escrow are temporarily _untradeable_, thereby mitigating the impact of market fluctuations on the token's value and preserving the integrity of the token’s price.&#x20;
+Given the inherent volatility of the market, locking tokens in an escrow for a predetermined duration acts as a deterrent against aggressive short-term trading positions. This is because tokens in escrow are temporarily _untradeable_, thereby mitigating the impact of market fluctuations on the token's value and preserving the integrity of the token’s price.
 
 {% hint style="success" %}
 This approach not only shields the token holders but also contributes to the overall stability of the $POLN token within the marketplace.
@@ -61,7 +61,7 @@ This approach not only shields the token holders but also contributes to the ove
 
 ## **Governance Participation**
 
-$POLN empowers all stakeholders, including the builders' team and the community, to contribute to the decision-making process.&#x20;
+$POLN empowers all stakeholders, including the builders' team and the community, to contribute to the decision-making process.
 
 This inclusive approach encourages a sense of ownership and collective responsibility, fostering a balanced and well-rounded development of the protocol.
 
@@ -69,12 +69,12 @@ This inclusive approach encourages a sense of ownership and collective responsib
 
 $POLN is integral to the distribution of rewards and fees, aligning incentives among initiators and fellowships. This ensures mutual benefit from successful project completions and encourages continuous contributions from all actors.
 
-Upon the successful completion of a project, rewards in the form of $POLN tokens are distributed to initiators, serving not only as a return on their investment but also potentially offsetting the amount of $POLN initially used to cover fees. This acts as a form of reimbursement, further incentivizing initiators to invest in more projects within the ecosystem.&#x20;
+Upon the successful completion of a project, rewards in the form of $POLN tokens are distributed to initiators, serving not only as a return on their investment but also potentially offsetting the amount of $POLN initially used to cover fees. This acts as a form of reimbursement, further incentivizing initiators to invest in more projects within the ecosystem.
 
 Fellowships, on the other hand, receive fees in $POLN for their services, reinforcing mutual benefit and encouraging sustained engagement from all participants.
 
 {% hint style="success" %}
-This mechanism, facilitated by $POLN tokens, fosters a cycle of positive reinforcement within the ecosystem. The shared benefits and rewards between initiators and fellowships enhance trust and collaboration, stimulating increased participation and investment.&#x20;
+This mechanism, facilitated by $POLN tokens, fosters a cycle of positive reinforcement within the ecosystem. The shared benefits and rewards between initiators and fellowships enhance trust and collaboration, stimulating increased participation and investment.
 {% endhint %}
 
 This continuous interaction and aligned incentives contribute significantly to the flourishing and expansion of the PoLN ecosystem, amplifying its value and attractiveness to both current and potential members.
@@ -87,16 +87,16 @@ The dynamic structure of rewards and fees not only nurtures a thriving environme
 
 With a predetermined finite total supply of $POLN tokens, the protocol establishes scarcity as a foundational pillar, strategically contributing to value preservation and appealing to a broad spectrum of stakeholders and potential investors, thereby ensuring the long-term financial stability of the ecosystem.
 
-This finite supply is not just a measure for value preservation but also plays a pivotal role in determining the operational capacity of the protocol: the number of circulating tokens directly influences the number of projects that the protocol can support at any given time.&#x20;
+This finite supply is not just a measure for value preservation but also plays a pivotal role in determining the operational capacity of the protocol: the number of circulating tokens directly influences the number of projects that the protocol can support at any given time.
 
 Furthermore, the token price acts as a dynamic variable in this equation; a higher token price effectively increases the protocol’s capability to sustain a larger number of ongoing projects. This is due to the increased value represented by each token, allowing for a broader allocation of resources and fostering a more diverse and vibrant ecosystem of projects.
 
-The relationship between the token price, supply, and the potential projects is symbiotic!&#x20;
+The relationship between the token price, supply, and the potential projects is symbiotic!
 
-An increase in token price expands the scope for project support, while a diverse array of successful projects can further drive demand, potentially influencing the token’s value.&#x20;
+An increase in token price expands the scope for project support, while a diverse array of successful projects can further drive demand, potentially influencing the token’s value.
 
 {% hint style="success" %}
-This cyclical interplay forms a self-reinforcing loop, fostering an environment of growth, stability, and continuous innovation within the PoLN ecosystem.&#x20;
+This cyclical interplay forms a self-reinforcing loop, fostering an environment of growth, stability, and continuous innovation within the PoLN ecosystem.
 
 By maintaining a balance in this triad, PoLN ensures a sustainable and thriving platform that adapts and evolves in tandem with the community’s needs and market dynamics.
 {% endhint %}

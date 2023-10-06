@@ -29,12 +29,12 @@ The global economy's significant dependence on fossil fuels poses multifaceted c
 
 Burning fossil fuels releases vast amounts of carbon dioxide and other greenhouse gases, driving climate change and leading to increasingly severe weather events, rising sea levels, and ecosystem disruptions. This dependence also results in environmental degradation, such as air and water pollution, which directly impacts human health and biodiversity.
 
-Furthermore, since fossil fuels are non-renewable resources, our reliance on them is inherently unsustainable, making economies vulnerable to supply shocks and geopolitical tensions surrounding resource control.&#x20;
+Furthermore, since fossil fuels are non-renewable resources, our reliance on them is inherently unsustainable, making economies vulnerable to supply shocks and geopolitical tensions surrounding resource control.
 
 As a consequence, the continued heavy use of fossil fuels jeopardizes both the planet's ecological balance and the stable functioning of economies.
 
 {% hint style="success" %}
-Integrating blockchain into a work-based economy can streamline processes, enhance transparency, and provide both employers and employees with tools that ensure fairness, efficiency, and growth.&#x20;
+Integrating blockchain into a work-based economy can streamline processes, enhance transparency, and provide both employers and employees with tools that ensure fairness, efficiency, and growth.
 
 Such an integration not only emphasizes the value of work but also harnesses technology to make the work ecosystem more just and inclusive.
 

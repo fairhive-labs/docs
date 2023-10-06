@@ -32,7 +32,7 @@ As projects succeed and the protocol thrives, members might experience pleasure 
 
 ## **Staking Rewards**
 
-Fellowships stake $POLN tokens as a testament to their commitment and belief in the project’s success (skin in the game).&#x20;
+Fellowships stake $POLN tokens as a testament to their commitment and belief in the project’s success (skin in the game).
 
 This act of staking serves as a mechanism for capturing value within the fellowships, enhancing both their individual worth and the overall appeal of the PoLN protocol.
 

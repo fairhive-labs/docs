@@ -22,13 +22,13 @@ layout:
 
 # Tokenomics
 
-The finite supply of tokens is meticulously allocated among various stakeholders and reserved for the community and future DAO operations, ensuring alignment with the system’s growth and the realization of its ten core objectives.&#x20;
+The finite supply of tokens is meticulously allocated among various stakeholders and reserved for the community and future DAO operations, ensuring alignment with the system’s growth and the realization of its ten core objectives.
 
 ## PoLN's tokenomics are closely intertwined with its core objectives
 
 ### **Forge a Supportive Community**
 
-The meticulous allocation of $POLN tokens fosters a sense of ownership and belonging among community members.&#x20;
+The meticulous allocation of $POLN tokens fosters a sense of ownership and belonging among community members.
 
 The staking mechanism signifies fellowships' commitment, enhancing collaboration and mutual support within the community.
 
@@ -38,7 +38,7 @@ By distributing tokens among diverse stakeholders and reserving a portion for th
 
 ### **Empower Labor**
 
-The value and volatility of $POLN tokens are indexed to the work of contractors, providing a tangible recognition of labor.&#x20;
+The value and volatility of $POLN tokens are indexed to the work of contractors, providing a tangible recognition of labor.
 
 Rewards and incentives enrich contributions and facilitate fair compensation for every individual's input.
 
