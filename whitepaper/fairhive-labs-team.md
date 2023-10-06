@@ -1,2 +1,2 @@
-# 🚧 fairhive-labs team
+# ⏳ (PEND) fairhive-labs team
 
