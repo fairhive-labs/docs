@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# ⛏ Distribution
+# ⛏ (WIP) Distribution
 
 In the decentralized space, PoLN emerges as a pivotal protocol, bridging contractors with exciting projects and work.&#x20;
 
@@ -28,7 +28,7 @@ By fostering an ecosystem where initiators can articulate their visions and fell
 
 Every project or piece of work undertaken fuels this dynamic ecosystem, ensuring value is both created and shared in a transparent, efficient manner.
 
-<figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption><p>PoLN's Distribution Blueprint: Beyond Numbers and Speculation</p></figcaption></figure>
 
 {% hint style="success" %}
 The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.&#x20;
