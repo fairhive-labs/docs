@@ -153,11 +153,11 @@ In the initial stages of the PoLN protocol, disputes between the initiator and t
 
 These criteria will serve as a framework to determine the release or forfeiture of locked funds. They could include, but are not limited to:
 
-* [ ] Project Delivery Assessment: This will focus on whether the project was delivered as per the outlined specifications and requirements.
-* [ ] Timelines: If the project was delivered within the agreed-upon time or if there were delays, and the reason for such delays.
-* [ ] Quality of Work: An evaluation of the work's quality compared to industry standards or previous work from the contractor.
-* [ ] Communication: Regularity, clarity, and promptness of communication between parties during the project's duration.
-* [ ] Feedback Loops: The efficiency in addressing feedback or changes requested by the initiator during the course of the project.
+* [ ] **Project Delivery Assessment**: This will focus on whether the project was delivered as per the outlined specifications and requirements.
+* [ ] **Timelines**: If the project was delivered within the agreed-upon time or if there were delays, and the reason for such delays.
+* [ ] **Quality of Work**: An evaluation of the work's quality compared to industry standards or previous work from the contractor.
+* [ ] **Communication**: Regularity, clarity, and promptness of communication between parties during the project's duration.
+* [ ] **Feedback Loops**: The efficiency in addressing feedback or changes requested by the initiator during the course of the project.
 
 In the future, as the PoLN ecosystem matures, there is an aspiration to integrate a decentralized arbitration system.
 
