@@ -30,23 +30,6 @@ Every project or piece of work undertaken fuels this dynamic ecosystem, ensuring
 
 <figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption><p>PoLN's Distribution Blueprint: Beyond Numbers and Speculation</p></figcaption></figure>
 
-{% hint style="success" %}
-The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.&#x20;
-
-Several observations can be made from the outlined tokenomics:
-
-1. **Emphasis on Decentralization**: A significant 50% of the tokens is designated for public sales. This allocation reveals an intention for widespread distribution to avoid the pitfalls of token concentration. Such decentralization can prevent the monopolization of power and influence within the ecosystem.
-2. **Business Relationship Boost**: The allocation emphasizes facilitating and nurturing business interactions between initiators and fellowships. By ensuring a substantial amount of tokens circulate within the ecosystem, the protocol aims to stimulate more transactions, potentially leading to increased collaborations and partnerships. This strategy highlights the importance of making the ecosystem vibrant and active.
-3. **Mitigating Price Volatility**: The generous allocation for trading, combined with the public sales portion, has a dual purpose. Beyond fostering interactions, it's also geared towards stabilizing the token's price. Higher trading volumes are often associated with more price stability. Distributing a significant amount of tokens to the community can minimize the chances of drastic price fluctuations, fostering trust and predictability within the ecosystem.
-4. **Long-Term Vision with Incentives**: Initiator rewards and the locking mechanisms for builders and private sales tokens underscore a commitment to long-term growth and sustainability. The distribution plan appears well-thought-out, safeguarding the protocol's future.
-5. **Community-Centric Approach**: With allocations for airdrops, giveaways, and the community/DAO, there's a clear intention to cultivate an engaged community. The vitality of decentralized projects often rests on such a community, and this distribution caters to that.
-6. **Commitment to Robust Development**: The earmark for testnet development and partner integrations indicates a significant focus on building a secure, functional, and integrated ecosystem, emphasizing not just the token but the entire infrastructure surrounding it.
-7. **Balanced Incentive Structure**: The tokenomics offers a harmonious balance, incentivizing early adopters, strategic partners, the core team, and the broader user base. This equilibrium ensures that various stakeholders are aligned in their commitment to the protocol's success.
-8. **Utility Over Speculation**: While tokens can naturally become speculative assets, this distribution leans heavily towards utility. The allocations are structured to encourage active ecosystem participation, be it through initiating projects, forming fellowships, or contributing to the protocol's evolution.
-{% endhint %}
-
-***
-
 The following detailed breakdown elucidates the allocation priorities of the $POLN token, highlighting a dedication to forging a balanced, utility-driven ecosystem.
 
 ## Public Sales
@@ -142,3 +125,20 @@ They grab attention, encourage sharing, and can lead to organic growth through w
 As more users become aware of and join the ecosystem due to airdrops and giveaways, the value and utility of the protocol increase. 
 
 This can lead to a virtuous cycle where increasing users enhance the network's value, which in turn attracts even more users.
+
+***
+
+{% hint style="success" %}
+The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.&#x20;
+
+Several observations can be made from the outlined tokenomics:
+
+1. **Emphasis on Decentralization**: A significant 50% of the tokens is designated for public sales. This allocation reveals an intention for widespread distribution to avoid the pitfalls of token concentration. Such decentralization can prevent the monopolization of power and influence within the ecosystem.
+2. **Business Relationship Boost**: The allocation emphasizes facilitating and nurturing business interactions between initiators and fellowships. By ensuring a substantial amount of tokens circulate within the ecosystem, the protocol aims to stimulate more transactions, potentially leading to increased collaborations and partnerships. This strategy highlights the importance of making the ecosystem vibrant and active.
+3. **Mitigating Price Volatility**: The generous allocation for trading, combined with the public sales portion, has a dual purpose. Beyond fostering interactions, it's also geared towards stabilizing the token's price. Higher trading volumes are often associated with more price stability. Distributing a significant amount of tokens to the community can minimize the chances of drastic price fluctuations, fostering trust and predictability within the ecosystem.
+4. **Long-Term Vision with Incentives**: Initiator rewards and the locking mechanisms for builders and private sales tokens underscore a commitment to long-term growth and sustainability. The distribution plan appears well-thought-out, safeguarding the protocol's future.
+5. **Community-Centric Approach**: With allocations for airdrops, giveaways, and the community/DAO, there's a clear intention to cultivate an engaged community. The vitality of decentralized projects often rests on such a community, and this distribution caters to that.
+6. **Commitment to Robust Development**: The earmark for testnet development and partner integrations indicates a significant focus on building a secure, functional, and integrated ecosystem, emphasizing not just the token but the entire infrastructure surrounding it.
+7. **Balanced Incentive Structure**: The tokenomics offers a harmonious balance, incentivizing early adopters, strategic partners, the core team, and the broader user base. This equilibrium ensures that various stakeholders are aligned in their commitment to the protocol's success.
+8. **Utility Over Speculation**: While tokens can naturally become speculative assets, this distribution leans heavily towards utility. The allocations are structured to encourage active ecosystem participation, be it through initiating projects, forming fellowships, or contributing to the protocol's evolution.
+{% endhint %}
