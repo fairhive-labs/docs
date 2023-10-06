@@ -13,7 +13,7 @@ By staking tokens as a sign of their commitment and crafting strategic bids, the
 
 This process, encompassing submission, negotiation, and competitive selection, ultimately leads to the start of the project. Embedded within this mechanism is a continuous feedback loop, promoting iterative enhancement and deepening trust within the ecosystem.
 
-### Team Formation & Collaboration
+## Team Formation & Collaboration
 
 Whenever an initiator posts a project, individuals or pre-formed teams can come together to create a fellowship.
 
@@ -27,7 +27,7 @@ A fellowship might either be a fresh assembly for a specific project or an estab
 
 To foster collaboration, platforms like Discord offer an environment where individuals can communicate, form partnerships, strategize, and delineate the roles and contributions of each participant.
 
-### Multiple Fellowship Membership
+## Multiple Fellowship Membership
 
 An individual on the PoLN platform can be part of various fellowships simultaneously.
 
@@ -35,7 +35,7 @@ It's up to the individual to manage their commitments and time effectively acros
 
 This flexibility promotes a dynamic ecosystem where talent can contribute to multiple initiatives based on their expertise and interests.
 
-### Staking & Skin in the Game
+## Staking & Skin in the Game
 
 Fellowships, to demonstrate commitment and differentiate themselves in the bidding process, indicate how much $POLN they're willing to stake on the project.
 
@@ -45,7 +45,7 @@ This staking acts as a strong signal to the initiator regarding the seriousness 
 
 Higher stakes from a fellowship may be perceived as a deeper commitment and trust in the project's potential.
 
-### Bid Preparation
+## Bid Preparation
 
 After internal deliberations and potentially engaging with the initiator for clarifications, fellowships meticulously prepare their bid.
 
@@ -55,13 +55,13 @@ A crucial aspect of this bid is the clear distribution plan detailing how reward
 
 To cater to the preferences and requirements of the initiator, fellowships submit their bid in the format agreed upon, whether it be a document, PDF, presentation deck, or any other stipulated medium. This alignment in submission format ensures that the initiator receives the proposal in a manner that's most convenient and effective for their review.
 
-### Submission & Negotiation
+## Submission & Negotiation
 
 Fellowships submit their proposals to the initiator after bid preparation.
 
 The initiator can then review all the bids, engage in discussions, seek clarifications, and negotiate terms with one or more fellowships, ensuring the best fit for their project.
 
-### Competitive Bidding & Choice
+## Competitive Bidding & Choice
 
 If multiple fellowships bid for the same project, the initiator has the freedom to select the one they find most suitable.
 
@@ -69,7 +69,7 @@ They can base their decision on various factors such as track records, team comp
 
 This competitive structure ensures that initiators have access to the best talent and proposals.
 
-### Bid Acceptance & Project Commencement
+## Bid Acceptance & Project Commencement
 
 The initiator holds the sole authority to accept or decline the bids presented by the fellowships.
 
@@ -79,7 +79,7 @@ Following this, the initiator pays the project fees, which are locked into an es
 
 Only when both the fellowship's stake and the initiator's fees are securely locked does the protocol flag the project as officially commenced.
 
-### Feedback & Continuous Engagement
+## Feedback & Continuous Engagement
 
 As the project evolves, fellowships diligently update the initiator on milestones achieved, challenges faced, or any strategic adjustments being considered.
 
