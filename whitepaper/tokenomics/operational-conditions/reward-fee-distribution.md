@@ -17,6 +17,16 @@ The system is meticulously designed, integrating a robust reward matrix for init
 
 By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all.
 
+## Halving Mechanism for Initiator Rewards
+
+To ensure the sustainability of the reward system, there's a halving mechanism in place.
+
+<figure><img src="../../.gitbook/assets/PoLN - initiators rewards + halving.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved.
+
+This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
+
 ## Success Scenario
 
 Upon the successful completion of a project, the distribution system activates:
@@ -42,15 +52,6 @@ If a project is terminated before its set deadline:
 * **Initiator**: The initiator can claim back the remaining payment that was locked for the contractor since they will no longer be getting paid. However, the initiator does not receive any rewards, and any protocol fees already paid are not refunded.
 * **Community**: The community receives the protocol fees for their continued operational support.
 
-## Halving Mechanism for Initiator Rewards
-
-To ensure the sustainability of the reward system, there's a halving mechanism in place.
-
-<figure><img src="../../.gitbook/assets/PoLN - initiators rewards + halving.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved.
-
-This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
 {% hint style="success" %}
 This mechanism ensures that all the stakeholders in a project, be it the initiator, the fellowship, or the community, have a clear understanding of the potential gains or losses. It emphasizes both the rewards for successful completion and the penalties for failures, thereby motivating all parties to maintain high standards of work and commitment.
