@@ -58,7 +58,7 @@ The insights gathered here are not just invaluable for continuous improvement bu
 
 Through this lens, every actor in the fellowship—be it an agent, mentor, or contractor—brings a unique perspective, ensuring a comprehensive understanding of the collaborative dynamics.
 
-### Evaluation by Agents:
+### Evaluation by Agents
 
 1. **Clarity & Communication**:
    * [ ] Were the project's goals and requirements clearly defined by the initiator?
@@ -76,7 +76,7 @@ Through this lens, every actor in the fellowship—be it an agent, mentor, or co
    * [ ] Would the agent consider working with this initiator again in the future?
    * [ ] Any particular areas of improvement for smoother collaborations in the future?
 
-### Evaluation by Mentors:
+### Evaluation by Mentors
 
 1. **Knowledge Transfer & Receptivity**:
    * [ ] Was the initiator open to suggestions and guidance provided?
@@ -94,7 +94,7 @@ Through this lens, every actor in the fellowship—be it an agent, mentor, or co
    * [ ] Was the mentorship role fulfilling in this particular project?
    * [ ] Any areas where the mentorship process can be enhanced for future projects?
 
-### Evaluation by Contractors:
+### Evaluation by Contractors
 
 1. **Task Definition & Clarity**:
    * [ ] Were the tasks and deliverables clearly defined?
