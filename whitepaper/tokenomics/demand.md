@@ -35,7 +35,7 @@ Initiators fund the projects with stablecoins, ensuring a stable and reliable fo
 
 ### **Protocol Fees Payment**
 
-To facilitate their projects, initiators are required to pay fees in $POLN to the protocol.&#x20;
+To facilitate their projects, initiators are required to pay fees in $POLN to the protocol.
 
 This payment in the native token supports the ecosystem's internal economy and the token’s demand.
 
@@ -45,7 +45,7 @@ Holding $POLN allows initiators to actively participate in the governance of the
 
 ### **Rewards**
 
-Upon the success of a project, initiators can earn rewards in $POLN.&#x20;
+Upon the success of a project, initiators can earn rewards in $POLN.
 
 This reward system creates an additional incentive for launching and supporting successful initiatives, fostering a cycle of engagement and value creation within the PoLN ecosystem.
 

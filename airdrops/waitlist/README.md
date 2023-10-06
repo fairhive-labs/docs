@@ -19,6 +19,6 @@ For what it’s worth, **poln is a new web3 project** and **all** **sources are 
 
 They can be forked and implementation can be duplicated or modified.
 
-> BTW, this is what we expect 😅&#x20;
+> BTW, this is what we expect 😅
 >
 > We do believe newcomers and beginners will appreciate this “fair” approach.

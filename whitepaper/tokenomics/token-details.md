@@ -40,7 +40,7 @@ layout:
 $POLN - pronounced _pollen -_ tokens are pre-minted.
 {% endhint %}
 
-It means that all the tokens that will ever exist have been created at one time - specifically, at the launch of the token.&#x20;
+It means that all the tokens that will ever exist have been created at one time - specifically, at the launch of the token.
 
 This may contrast with other models like mining or staking where new tokens can be created over time but having $POLN tokens pre-minted has several advantages:
 

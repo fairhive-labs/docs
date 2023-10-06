@@ -36,7 +36,7 @@ Here's a brief overview:
 5. **Reward and Fee Distribution:** The culmination of the project lifecycle, this phase breaks down the distribution of rewards and fees. It provides clarity on how dues are settled, whether in the case of successful project completion or potential failures.
 
 {% hint style="success" %}
-In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are paramount. 
+In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are crucial. 
 
 By integrating these phases, PoLN solidifies its stature as a premier protocol, driving innovation while aligning closely with its core objectives to ensure robust operational standards.
 {% endhint %}
