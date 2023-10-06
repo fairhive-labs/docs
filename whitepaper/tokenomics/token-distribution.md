@@ -49,9 +49,9 @@ The following detailed breakdown elucidates the allocation priorities of the $PO
 
 ## Public Sales
 
-* **Tokens:** 100,000,000 $POLN
-* **Percentage:** 50%
-### Details
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `100,000,000`  |       `50`      |
 
 Provides broad and decentralized access to $POLN. Ensures a wide user base and discourages concentrated power. 
 
@@ -59,9 +59,9 @@ It's crucial to manage the distribution to avoid short-term speculative selling 
 
 ## Initiator Rewards
 
-* **Tokens:** 40,000,000 $POLN
-* **Percentage:** 20%
-### Details
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `40,000,000`  |       `20`      |
 
 An incentive mechanism to attract more projects and collaborations. 
 
@@ -69,17 +69,17 @@ Rewards for successful project launches, with a halving mechanism to ensure sust
 
 ## Builders (fairhive-labs)
 
-* **Tokens:** 20,000,000 $POLN
-* **Percentage:** 10%
-### Details
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `20,000,000`  |       `10`      |
 
 Aligns the team's interests with the protocol's success. By locking these tokens, it assures the community of the team's long-term commitment.
 
 ## Private Sales
 
-* **Tokens:** 10,000,000 $POLN
-* **Percentage:** 5%
-### Details
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `10,000,000`  |       `5`      |
 
 Targets strategic partners offering more than capital. Locking mechanism ensures commitment and prevents early token selling.
 
@@ -89,7 +89,6 @@ Targets strategic partners offering more than capital. Locking mechanism ensures
 | :------------: | :------------: |
 |   `20,000,000`  |       `10`      |
 
-### Details
 
 Fuels community-driven growth and allows for democratic decision-making regarding fund usage.
 
@@ -99,7 +98,6 @@ Fuels community-driven growth and allows for democratic decision-making regardin
 | :------------: | :------------: |
 |   `4,000,000`  |       `2`      |
 
-### Details
 
 Dedicated to ensuring a rigorous testing phase for the protocol before the mainnet launch. The testnet offers a sandboxed environment to identify potential vulnerabilities, ensure integrations run smoothly, and refine the system's functionalities.
 
@@ -112,7 +110,5 @@ Partner integrations also play a crucial role in widening the protocol's reach a
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
 |   `6,000,000`  |       `3`      |
-
-### Details
 
 Promotes user adoption and rewards early supporters. Essential for building a strong initial community and driving network effects.
