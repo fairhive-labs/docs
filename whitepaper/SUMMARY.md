@@ -12,7 +12,7 @@
   * [Utility](tokenomics/utility.md)
   * [Demand](tokenomics/demand.md)
   * [Value Captured](tokenomics/value-captured.md)
-  * [⛏ Operational Conditions](tokenomics/operational-conditions/README.md)
+  * [Operational Conditions](tokenomics/operational-conditions/README.md)
     * [Initiator's project description and posting](tokenomics/operational-conditions/initiator-project-description-posting.md)
     * [Fellowship formation and Bidding](tokenomics/operational-conditions/fellowship-formation-bidding.md)
     * [Staking and Payment Locks](tokenomics/operational-conditions/staking-payment-locks.md)
