@@ -87,6 +87,8 @@ Regular feedback loops and maintaining open channels of communication, such as t
 
 Additionally, a fellowship's proactive and clear communication approach is often viewed favorably by initiators during the bid review process. Not only does it demonstrate the fellowship's commitment and professionalism, but it also provides the initiator with confidence in the team's capability to manage the project effectively and in alignment with the set objectives.
 
+***
+
 {% hint style="success" %}
 This phase of the PoLN protocol ensures that the best-suited teams get chosen for projects and that there's clarity and transparency in roles, expectations, and rewards. It reinforces the platform's ethos of collaboration, trust, and shared success.
 {% endhint %}

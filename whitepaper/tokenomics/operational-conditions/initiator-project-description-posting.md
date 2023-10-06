@@ -123,6 +123,8 @@ As the PoLN community grows and evolves, there might be considerations in the fu
 
 Community members, through a DAO structure, could review, validate, and even provide insights on projects, ensuring a consistent standard of quality and authenticity.
 
+***
+
 {% hint style="success" %}
 With these systems and measures in place, PoLN aims to create a balanced environment where initiators can post projects with confidence and fellowships can engage with them, knowing that there's a robust framework safeguarding their interests.
 {% endhint %}

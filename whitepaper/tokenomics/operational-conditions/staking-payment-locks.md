@@ -163,6 +163,8 @@ In the future, as the PoLN ecosystem matures, there is an aspiration to integrat
 
 This would involve community members or designated arbitrators who, in case of disagreements, would weigh in based on evidence presented by both parties. This system would not only bolster the trust within the community but also ensure more fairness and decentralization in the resolution process.
 
+***
+
 {% hint style="success" %}
 This phase primarily focuses on ensuring financial security and fostering trust among all participants, thus ensuring smooth project execution. In essence, the goal is to provide flexibility while ensuring fairness and transparency. This safeguards the interests of both the initiator and the fellowship in cases of project duration extensions.
 {% endhint %}
