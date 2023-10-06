@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🚧 (WIP) Distribution
+# ⛏ Distribution
 
 <figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,36 +1,32 @@
 ---
 description: >-
-  Upon project completion or failure, rewards and fees are allocated. Initiators, fellowships, and the community receive or forfeit amounts based on project outcomes, ensuring accountability.
+  Upon project completion or failure, rewards and fees are allocated.
+  Initiators, fellowships, and the community receive or forfeit amounts based on
+  project outcomes, ensuring accountability.
 ---
-
-As projects conclude within the ecosystem, the distribution of rewards and fees becomes crucial. 
-
-This phase ensures that all contributors, from fellowships to initiators, receive their due recognition and compensation. 
-
-Proper distribution not only maintains fairness and trust but also incentivizes future collaborations, keeping the ecosystem vibrant and productive.
 
 # Reward and Fee Distribution
 
-In the decentralized world of PoLN, the act of compensating contributors for their efforts is paramount. 
+In the decentralized world of PoLN, the act of compensating contributors for their efforts is paramount.
 
-This reward and fee distribution phase seeks to ensure that all stakeholders, be it initiators, fellowships, or the broader community, are fairly remunerated for their roles. 
+This reward and fee distribution phase seeks to ensure that all stakeholders, be it initiators, fellowships, or the broader community, are fairly remunerated for their roles.
 
-Here, we delve into the intricacies of how value is allocated and distributed across the protocol, ensuring that there's skin in the game, commitment is sustained, and quality is continuously delivered. 
+Here, we delve into the intricacies of how value is allocated and distributed across the protocol, ensuring that there's skin in the game, commitment is sustained, and quality is continuously delivered.
 
-The system is meticulously designed, integrating a robust reward matrix for initiators based on project duration and a well-structured distribution plan for protocol fees. 
+The system is meticulously designed, integrating a robust reward matrix for initiators based on project duration and a well-structured distribution plan for protocol fees.
 
-By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all. 
-
-Dive in to understand the precision with which PoLN has crafted its reward and fee distribution mechanism.
+By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all.
 
 ## Success Scenario
 
 Upon the successful completion of a project, the distribution system activates:
 
 * **Fellowship**: The fellowship retrieves its staked tokens, and in addition, they are awarded the protocol fees as their primary remuneration.
-* **Initiator**: The initiator gets rewarded from a predefined token pool based on the project's duration and the associated unit. The reward calculation is based on a matrix system that considers both the project's duration and its time unit. As an example, for an 8 months long project, the initiator would receive 65536 $POLN.
+* **Initiator**: The initiator gets rewarded from a predefined token pool based on the project's duration and the associated unit. The reward calculation is based on a matrix system that considers both the project's duration and its time unit. As an example, for an 8 months long project, the initiator could receive 65536 $POLN.
 
-## Unsuccessful Scenario
+<figure><img src="../../.gitbook/assets/project succeeds.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+## Unsuccessful Scenario & Aborted Projects
 
 In the event a project is deemed unsuccessful:
 
@@ -38,7 +34,7 @@ In the event a project is deemed unsuccessful:
 * **Initiator**: The initiator does not receive any reward.
 * **Community**: The protocol fees, which would have otherwise gone to the fellowship, are redirected to the broader community. These funds are used for operations like training, helpdesk and support, mediation, KYC, development, maintenance, and refilling the initiator rewards pool.
 
-## Aborted Projects
+<figure><img src="../../.gitbook/assets/project fails.jpg" alt="" width="563"><figcaption><p>Failed projects benefit the broader community</p></figcaption></figure>
 
 If a project is terminated before its set deadline:
 
@@ -48,9 +44,11 @@ If a project is terminated before its set deadline:
 
 ## Halving Mechanism for Initiator Rewards
 
-To ensure the sustainability of the reward system, there's a halving mechanism in place. 
+To ensure the sustainability of the reward system, there's a halving mechanism in place.
 
-As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved. 
+<figure><img src="../../.gitbook/assets/PoLN - initiators rewards + halving.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved.
 
 This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 

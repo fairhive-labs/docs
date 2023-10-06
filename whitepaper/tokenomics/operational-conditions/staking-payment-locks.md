@@ -1,6 +1,8 @@
 ---
 description: >-
-  In this stage, fellowships stake tokens, ensuring commitment, while initiators lock fees and contractor payments. These secure methods in smart contracts safeguard interests and foster trust in the PoLN ecosystem.
+  In this stage, fellowships stake tokens, ensuring commitment, while initiators
+  lock fees and contractor payments. These secure methods in smart contracts
+  safeguard interests and foster trust in the Po
 ---
 
 # Staking and Payment Locks
@@ -17,7 +19,7 @@ Staking is not just a formality within the PoLN protocol. It serves a multi-fold
 
 ### Skin in the Game
 
-The staking mechanism is designed to ensure that fellowships are genuinely committed to the success of a project. 
+The staking mechanism is designed to ensure that fellowships are genuinely committed to the success of a project.
 
 By staking $POLN tokens, they are essentially putting their resources on the line, signaling their confidence in the successful execution of the project.
 
@@ -27,7 +29,7 @@ Upon the successful completion of the project, fellowships retrieve their staked
 
 ### Deterrence against Malfeasance
 
-Staking serves as a deterrent against any potential malicious intentions or lackluster commitment from the fellowship. 
+Staking serves as a deterrent against any potential malicious intentions or lackluster commitment from the fellowship.
 
 Their direct financial stake in the project's outcome ensures that they remain incentivized for the project's success.
 
@@ -47,15 +49,16 @@ If a fellowship, after winning the bid, fails to stake the agreed-upon amount wi
 
 ## Initiator's Fee Payment & Contractor Provisioning
 
-Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator. 
+Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator.
 
-The initiator must promptly address two vital financial commitments: 
+The initiator must promptly address two vital financial commitments:
+
 * covering the protocol's fees,
 * setting aside the contractor's payment.
 
-To ensure transparency, trust, and security within PoLN's ecosystem, both these sums are locked into a smart contract-based escrow system. This escrow acts as a trust-establishing mechanism, confirming to fellowships and contractors that the initiator has genuinely committed the funds. 
+To ensure transparency, trust, and security within PoLN's ecosystem, both these sums are locked into a smart contract-based escrow system. This escrow acts as a trust-establishing mechanism, confirming to fellowships and contractors that the initiator has genuinely committed the funds.
 
-Furthermore, the escrow operates based on set project milestones, allowing for incremental releases of funds as progress markers are achieved. 
+Furthermore, the escrow operates based on set project milestones, allowing for incremental releases of funds as progress markers are achieved.
 
 In cases of disputes or disagreements, this neutral financial holding ground ensures neither party can unilaterally access the funds without due resolution.
 
@@ -77,7 +80,8 @@ Should the initiator fail to meet these obligations within the set timeframe:
 In the PoLN ecosystem, the staking and payment mechanism is intelligently designed to secure, assure, and fairly compensate all involved parties:
 
 ### Security via Smart Contracts
-Both the fellowship's staked tokens and the initiator's locked fees, inclusive of the provisioned contractor payment, reside securely in blockchain smart contracts. 
+
+Both the fellowship's staked tokens and the initiator's locked fees, inclusive of the provisioned contractor payment, reside securely in blockchain smart contracts.
 
 This setup safeguards funds, ensures transparent financial commitments, and upholds the integrity of all transactions.
 

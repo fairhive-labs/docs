@@ -1,6 +1,8 @@
 ---
 description: >-
-  In this stage, initiators outline project specifics, define crucial parameters, tackle potential confidentiality issues, and establish a foundation for successful engagements within the PoLN ecosystem.
+  In this stage, initiators outline project specifics, define crucial
+  parameters, tackle potential confidentiality issues, and establish a
+  foundation for successful engagements within the PoLN ecosystem
 ---
 
 # Initiator's project description and posting
@@ -13,15 +15,15 @@ This entire description serves as a Request for Proposals (RFP) or a call for bi
 
 ## Education and Guidelines
 
-By disseminating guidelines on platform best practices and potential pitfalls, initiators and fellowships can be better equipped. 
+By disseminating guidelines on platform best practices and potential pitfalls, initiators and fellowships can be better equipped.
 
 Periodic workshops or tutorials can further enrich the community's knowledge base.
 
 ## Verification System for Initiators
 
-To bolster the protocol's credibility, initiators undergo a verification process before posting. 
+To bolster the protocol's credibility, initiators undergo a verification process before posting.
 
-This process can include authenticating email addresses, cross-referencing social media accounts, or even, for larger projects, verifying business registration details or LinkedIn profiles. 
+This process can include authenticating email addresses, cross-referencing social media accounts, or even, for larger projects, verifying business registration details or LinkedIn profiles.
 
 Profiles that pass this scrutiny can sport a badge, signaling their verified status to other users.
 
@@ -35,37 +37,37 @@ Additionally, for those preferring other platforms, PoLN acknowledges and respec
 
 ## Confidentiality Concerns: Non-Disclosure Agreement (NDA) and Cryptographic Security
 
-The Non-Disclosure Agreement (NDA), often referred to as a confidentiality agreement, is a legally binding contract that ensures the shared confidential material, knowledge, or data will not be made available to any third party. 
+The Non-Disclosure Agreement (NDA), often referred to as a confidentiality agreement, is a legally binding contract that ensures the shared confidential material, knowledge, or data will not be made available to any third party.
 
-In the context of the PoLN protocol, when initiators are looking to disclose sensitive project details, they can request fellowships to sign an NDA. This allows the initiator to share intricate project details with fellowships securely. 
+In the context of the PoLN protocol, when initiators are looking to disclose sensitive project details, they can request fellowships to sign an NDA. This allows the initiator to share intricate project details with fellowships securely.
 
-Beyond traditional NDAs, the power of blockchain's cryptographic systems can be leveraged for added security. 
+Beyond traditional NDAs, the power of blockchain's cryptographic systems can be leveraged for added security.
 
-Initiators can encrypt sensitive content so that it can only be deciphered by trusted fellowships. 
+Initiators can encrypt sensitive content so that it can only be deciphered by trusted fellowships.
 
-These fellowships, after signing the NDA, would be provided with a unique cryptographic key or a specific secret message. 
+These fellowships, after signing the NDA, would be provided with a unique cryptographic key or a specific secret message.
 
-This message acts as a digital signature, granting them access to the encrypted content. 
+This message acts as a digital signature, granting them access to the encrypted content.
 
 Thus, the synergy of traditional legal structures and blockchain technology ensures that confidential information remains in the hands of only those permitted to see it, marrying the strengths of both worlds for enhanced security and trust.
 
 ## Skillset and Experience Requirement
 
-Initiators often come with a precise vision for their projects. This vision not only encompasses the project outcome but also the expertise required to realize it. 
+Initiators often come with a precise vision for their projects. This vision not only encompasses the project outcome but also the expertise required to realize it.
 
-By enabling initiators to detail specific qualifications, experiences, or skillsets they're seeking, the protocol ensures a targeted and efficient project-to-fellowship matching. 
+By enabling initiators to detail specific qualifications, experiences, or skillsets they're seeking, the protocol ensures a targeted and efficient project-to-fellowship matching.
 
-This feature eliminates the noise of mismatched or underqualified bids, greatly reducing the time and effort that would otherwise be spent in sifting through unsuitable proposals. 
+This feature eliminates the noise of mismatched or underqualified bids, greatly reducing the time and effort that would otherwise be spent in sifting through unsuitable proposals.
 
-It further ensures that the fellowships that respond are not only technically competent but are also aligned with the project's unique demands and nuances. 
+It further ensures that the fellowships that respond are not only technically competent but are also aligned with the project's unique demands and nuances.
 
 Such a tailored approach paves the way for a smoother project lifecycle, from initiation to completion, fostering a symbiotic relationship between the initiators and fellowships.
 
 ## Budget Transparency
 
-Financial transparency is a cornerstone of trust in collaborative endeavors, especially in decentralized environments like PoLN. 
+Financial transparency is a cornerstone of trust in collaborative endeavors, especially in decentralized environments like PoLN.
 
-By ensuring budget transparency, initiators lay all financial cards on the table from the outset. 
+By ensuring budget transparency, initiators lay all financial cards on the table from the outset.
 
 This transparency has several profound benefits.
 
@@ -77,15 +79,15 @@ Lastly, such transparency reflects the initiator's commitment and credibility. I
 
 ## Escrow System
 
-In the initial project description and posting phase, indicating the use of an escrow system for the funds can bolster the project's credibility. 
+In the initial project description and posting phase, indicating the use of an escrow system for the funds can bolster the project's credibility.
 
-Potential collaborators can immediately recognize the initiator's serious intent and the safeguarded nature of the payment. 
+Potential collaborators can immediately recognize the initiator's serious intent and the safeguarded nature of the payment.
 
 The mere mention of an escrow, at this stage, underscores a commitment to transparency and trustworthiness, enticing qualified fellowships to engage.
 
 ## Milestone Approval System
 
-A segmented review system where projects are split into milestones can be adopted. 
+A segmented review system where projects are split into milestones can be adopted.
 
 As each phase is finalized, the initiator evaluates and approves it, ensuring consistent alignment and real-time issue resolution.
 
@@ -105,9 +107,9 @@ This ensures transparency and keeps all parties informed in real-time.
 
 ## Feedback and Rating System
 
-A cornerstone of PoLN's ecosystem is its feedback and rating mechanism, which comes into play upon a project's conclusion. 
+A cornerstone of PoLN's ecosystem is its feedback and rating mechanism, which comes into play upon a project's conclusion.
 
-This system provides a platform for both the initiator and the fellowship to share their experiences, rate, and review each other. 
+This system provides a platform for both the initiator and the fellowship to share their experiences, rate, and review each other.
 
 Such shared insights bolster the community's trust, offering transparency and aiding members in future collaboration decisions.
 
