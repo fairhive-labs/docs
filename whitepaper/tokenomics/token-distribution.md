@@ -85,8 +85,9 @@ Targets strategic partners offering more than capital. Locking mechanism ensures
 
 ## Community/DAO (Treasury)
 
-* **Tokens:** 20,000,000 $POLN
-* **Percentage:** 10%
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `20,000,000`  |       `10`      |
 
 ### Details
 
@@ -108,8 +109,10 @@ Partner integrations also play a crucial role in widening the protocol's reach a
 
 ## Airdrops & Giveaways
 
-* **Tokens:** 6,000,000 $POLN
-* **Percentage:** 3%
+| Tokens ($POLN) | Percentage (%) |
+| :------------: | :------------: |
+|   `6,000,000`  |       `3`      |
+
 ### Details
 
 Promotes user adoption and rewards early supporters. Essential for building a strong initial community and driving network effects.
