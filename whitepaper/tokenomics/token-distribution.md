@@ -30,6 +30,8 @@ Every project or piece of work undertaken fuels this dynamic ecosystem, ensuring
 
 <figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption><p>PoLN's Distribution Blueprint: Beyond Numbers and Speculation</p></figcaption></figure>
 
+***
+
 {% hint style="success" %}
 The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.&#x20;
 
