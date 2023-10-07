@@ -16,8 +16,6 @@ Therefore, they might contain outdated or erroneous information.
 We recommend cross-referencing with the most recent official documentation or contacting the PoLN team directly for the latest and most accurate architectural insights.
 {% endhint %}
 
-***
-
 It ‘s an **amazing solution** if you want to **decentralize backend services**.
 
 There are also **many Ethereum compatible projects** providing, today, the **capability** **to** **work** **with** different **Ethereum blockchains**, supporting a kind of interoperability with new protocols and new projects.
