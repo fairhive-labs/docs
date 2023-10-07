@@ -1,5 +1,5 @@
 ---
-description: Actually, Ethereum protocol is perfectly designed for PoLN’s use cases.
+description: PoLN's architecture employs smart contracts on an Ethereum-compatible network, ensuring decentralized operation, wide interoperability, and potent business dynamics.
 ---
 
 # ⏳ (PEND) Architecture Overview
