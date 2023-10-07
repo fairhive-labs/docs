@@ -3,6 +3,22 @@ description: >-
   Upon project completion or failure, rewards and fees are allocated.
   Initiators, fellowships, and the community receive or forfeit amounts based on
   project outcomes, ensuring accountability.
+cover: ../../.gitbook/assets/rewards_fees_distribution.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Reward and Fee Distribution
@@ -54,19 +70,19 @@ If a project is terminated before its set deadline:
 
 ### Cycling Failure into Community Prosperity
 
-When a project fails, the fees reserved for it are redirected to benefit the broader community by channeling them to the DAO. 
+When a project fails, the fees reserved for it are redirected to benefit the broader community by channeling them to the DAO.
 
-Instead of being a mere setback, these funds become instrumental in the continuous enhancement and evolution of the ecosystem. 
+Instead of being a mere setback, these funds become instrumental in the continuous enhancement and evolution of the ecosystem.
 
 They are strategically allocated to vital operations, including but not limited to:
 
-- **Training:** Investing in the education and upskilling of the community, ensuring everyone remains abreast of the latest trends and methodologies.
-- **Helpdesk and Support:** Maintaining a robust support system to assist users, resolve queries, and ensure a seamless experience for everyone involved.
-- **Mediation:** Offering dispute resolution mechanisms, ensuring fairness, and maintaining trust within the ecosystem.
-- **KYC Procedures:** Ensuring the integrity and security of the community by verifying the identity of its members, safeguarding against potential malfeasance.
-- **Development and Maintenance:** Channeling resources towards the continuous improvement of the platform's infrastructure, tools, and features.
-- **Refilling the Initiator Rewards Pool:** Ensuring that incentives remain in place to attract new project initiators to the platform.
-- **Liquidity Pools:** Creating and replenishing liquidity pools, ensuring the smooth trading of tokens and bolstering overall market stability.
+* **Training:** Investing in the education and upskilling of the community, ensuring everyone remains abreast of the latest trends and methodologies.
+* **Helpdesk and Support:** Maintaining a robust support system to assist users, resolve queries, and ensure a seamless experience for everyone involved.
+* **Mediation:** Offering dispute resolution mechanisms, ensuring fairness, and maintaining trust within the ecosystem.
+* **KYC Procedures:** Ensuring the integrity and security of the community by verifying the identity of its members, safeguarding against potential malfeasance.
+* **Development and Maintenance:** Channeling resources towards the continuous improvement of the platform's infrastructure, tools, and features.
+* **Refilling the Initiator Rewards Pool:** Ensuring that incentives remain in place to attract new project initiators to the platform.
+* **Liquidity Pools:** Creating and replenishing liquidity pools, ensuring the smooth trading of tokens and bolstering overall market stability.
 
 By transforming the outcome of failed projects into tangible benefits, the protocol not only preserves community trust but also reinforces its commitment to growth, adaptability, and long-term sustainability.
 
