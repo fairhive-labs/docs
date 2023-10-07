@@ -22,9 +22,9 @@ layout:
 
 # ⛏ (WIP) Distribution
 
-In the decentralized space, PoLN emerges as a pivotal protocol, bridging contractors with exciting projects and work.&#x20;
+In the decentralized space, PoLN emerges as a pivotal protocol, bridging contractors with exciting projects and work.
 
-By fostering an ecosystem where initiators can articulate their visions and fellowships can bring them to life, PoLN stands as a testament to the power of collective wealth creation and distribution.&#x20;
+By fostering an ecosystem where initiators can articulate their visions and fellowships can bring them to life, PoLN stands as a testament to the power of collective wealth creation and distribution.
 
 Every project or piece of work undertaken fuels this dynamic ecosystem, ensuring value is both created and shared in a transparent, efficient manner.
 
@@ -249,7 +249,7 @@ This can lead to a virtuous cycle where increasing users enhance the network's v
 ***
 
 {% hint style="success" %}
-The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.&#x20;
+The $POLN token distribution strategy provides an insightful look into the protocol's priorities and intentions.
 
 Several observations can be made from the outlined tokenomics:
 
