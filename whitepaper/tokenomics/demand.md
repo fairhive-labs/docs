@@ -25,31 +25,31 @@ layout:
 
 <figure><img src="../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
 
-## **From Initiators**
+## From Initiators
 
 <figure><img src="../.gitbook/assets/PoLN - intiators.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Project Funding**
+### Project Funding
 
 Initiators fund the projects with stablecoins, ensuring a stable and reliable form of financing for the successful execution of initiatives.
 
-### **Protocol Fees Payment**
+### Protocol Fees Payment
 
 To facilitate their projects, initiators are required to pay fees in $POLN to the protocol.
 
 This payment in the native token supports the ecosystem's internal economy and the token’s demand.
 
-### **Voting and Governance**
+### Voting and Governance
 
 Holding $POLN allows initiators to actively participate in the governance of the protocol, influencing crucial decisions and guiding the platform’s developmental trajectory.
 
-### **Rewards**
+### Rewards
 
 Upon the success of a project, initiators can earn rewards in $POLN.
 
 This reward system creates an additional incentive for launching and supporting successful initiatives, fostering a cycle of engagement and value creation within the PoLN ecosystem.
 
-## **From Mentors and Agents**
+## From Mentors and Agents
 
 <div align="center">
 
@@ -61,59 +61,59 @@ This reward system creates an additional incentive for launching and supporting 
 
 </div>
 
-### **Compensation**
+### Compensation
 
 Agents and mentors receive $POLN tokens as compensation for their advisory roles and the expertise they provide to projects.
 
-### **Staking**
+### Staking
 
 They may be required to stake $POLN as a sign of commitment and alignment with project goals, fostering trust with initiators.
 
-### **Voting and Governance**
+### Voting and Governance
 
 Agents and mentors can use their tokens to vote on proposals and participate in shaping the platform’s future.
 
-## **From Contractors**
+## From Contractors
 
 <figure><img src="../.gitbook/assets/PoLN - contractors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Payment**
+### Payment
 
 Contractors are paid in stablecoin for their work on projects, providing them with consistent and reliable compensation.
 
-### **Incentives and Staking**
+### Incentives and Staking
 
 Being an integral part of fellowships, contractors, like mentors and agents, are required to stake $POLN as a sign of commitment and alignment with project goals. This participation in staking fosters trust with initiators and contributes to a shared investment in the platform’s success.
 
-### **Earnings from Fees**
+### Earnings from Fees
 
 As stakeholders in fellowships, contractors earn a portion of the fees, enhancing their income and aligning their interests with the overall success of the projects.
 
-### **Voting and Governance**
+### Voting and Governance
 
 Holding $POLN gives contractors a voice in the platform’s governance, ensuring their perspectives are considered in the decision-making processes.
 
-## **From Investors and Broader Community**
+## From Investors and Broader Community
 
 <figure><img src="../.gitbook/assets/investors.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Investment and Speculation**
+### Investment and Speculation
 
-**I**nvestors can acquire $POLN tokens with the expectation of value appreciation as the protocol grows and succeeds.
+Investors can acquire $POLN tokens with the expectation of value appreciation as the protocol grows and succeeds.
 
-### **Participation in Governance**
+### Participation in Governance
 
 The broader community, including token holders, can participate in governance, contributing to the protocol’s evolution and sustainability.
 
-## **From Builders**
+## From Builders
 
 <figure><img src="../.gitbook/assets/builders.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Vesting and Rewards**
+### Vesting and Rewards
 
 Builders receive a share of $POLN tokens, vested over time, aligning their interests with the long-term success of the protocol.
 
-### **Governance Participation**
+### Governance Participation
 
 The vested tokens enable builders to actively participate in governance, allowing them to shape the protocol’s development and strategy.
 

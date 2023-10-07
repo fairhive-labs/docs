@@ -86,7 +86,37 @@ This ensures that initiators remain engaged throughout the project lifecycle and
 | :------------: | :------------: |
 |   `20,000,000`  |       `10`      |
 
-Aligns the team's interests with the protocol's success. By locking these tokens, it assures the community of the team's long-term commitment.
+The allocation designated for the builders, primarily the fairhive-labs team, is a testament to the belief in the long-term success and viability of the PoLN protocol.
+
+This allocation, rather than an immediate payout, is structured to align the interests of the team with the sustainable growth and evolution of the system over time.
+
+### Two-Year Lock
+
+Before any tokens become available, there's a two-year lock in place. 
+
+This period serves multiple purposes:
+- **Commitment**: It signifies a solid pledge from the team to the protocol and its community. This isn't a short-term endeavor but a long-term vision.
+- **Growth and Development Phase**: These two years represent crucial formative moments for the PoLN protocol. The team will be highly focused on development, partnerships, and user acquisition without any financial distractions.
+
+### Vested Unlocking Over Three Years
+
+Post the two-year lock, the tokens don't become immediately available. Instead, they are released gradually over the next three years. 
+
+The distribution is as follows:
+
+- **Year 1 (30%)**: After the initial two-year lock, 30% of the allocated tokens become available in the third year. This initial release acknowledges the extensive work done in the foundational years and provides the team with a partial reward for their efforts.
+- **Year 2 (30%)**: In the fourth year, an additional 30% is unlocked. This phase likely coincides with a maturing ecosystem, scaling operations, and growing user base.
+- **Year 3 (40%)**: The remaining 40% gets unlocked in the fifth year. This more substantial portion towards the end further solidifies the long-term vision and commitment.
+
+### Alignment with Protocol's Health
+
+The staggered release ensures that the team remains incentivized to maintain, innovate, and grow the PoLN system throughout its early stages of development and far beyond.
+
+### Trust & Transparency
+
+Such a structured release strategy enhances trust within the community. 
+
+It sends a clear message that the builders are in this journey for the long haul and that their primary motivation is the protocol's success and not immediate financial gains.
 
 ## Private Sales
 
