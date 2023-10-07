@@ -1,11 +1,29 @@
 ---
 description: >-
-  During this phase, the fellowship works on the project while progress is monitored. Evaluations from both sides ensure alignment and gauge satisfaction, guiding outcomes and rewards.
+  During this phase, the fellowship works on the project while progress is
+  monitored. Evaluations from both sides ensure alignment and gauge
+  satisfaction, guiding outcomes and rewards.
+cover: ../../.gitbook/assets/evaluation.png
+coverY: 262
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Project execution and evaluation
 
-In the decentralized ecosystem facilitated by the PoLN protocol, the protocol serves primarily as a trust layer, ensuring staking, fee management, and reward distribution. 
+In the decentralized ecosystem facilitated by the PoLN protocol, the protocol serves primarily as a trust layer, ensuring staking, fee management, and reward distribution.
 
 {% hint style="info" %}
 However, project execution largely follows the agreed terms between the initiator and the fellowship, outside of the protocol's direct oversight.
@@ -48,13 +66,13 @@ These criteria can serve as a detailed checklist for initiators to assess the pe
 
 ## Fellowship's Retrospective Evaluation on Initiator Interaction
 
-In the dynamic landscape of project collaboration, mutual feedback is crucial. 
+In the dynamic landscape of project collaboration, mutual feedback is crucial.
 
-While initiators play an instrumental role in defining and driving projects, the fellowship's experiences and interactions with them often dictate the smoothness of the collaboration. 
+While initiators play an instrumental role in defining and driving projects, the fellowship's experiences and interactions with them often dictate the smoothness of the collaboration.
 
-This evaluation offers fellowships an opportunity to reflect upon and articulate their experiences with the initiator. 
+This evaluation offers fellowships an opportunity to reflect upon and articulate their experiences with the initiator.
 
-The insights gathered here are not just invaluable for continuous improvement but also set the stage for more fruitful collaborations in the future. 
+The insights gathered here are not just invaluable for continuous improvement but also set the stage for more fruitful collaborations in the future.
 
 Through this lens, every actor in the fellowship—be it an agent, mentor, or contractor—brings a unique perspective, ensuring a comprehensive understanding of the collaborative dynamics.
 

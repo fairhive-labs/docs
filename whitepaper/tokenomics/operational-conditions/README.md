@@ -21,11 +21,11 @@ layout:
     visible: true
 ---
 
-# ⛏ (preview) Operational Conditions
+# Operational Conditions
 
-The PoLN protocol operates within a set of phases, each carefully designed to ensure transparency, efficiency, and commitment from all parties involved. 
+The PoLN protocol operates within a set of phases, each carefully designed to ensure transparency, efficiency, and commitment from all parties involved.
 
-These operational phases lay the foundation for the protocol's functioning and streamline the project lifecycle. 
+These operational phases lay the foundation for the protocol's functioning and streamline the project lifecycle.
 
 Here's a brief overview:
 
@@ -36,13 +36,12 @@ Here's a brief overview:
 5. **Reward and Fee Distribution:** The culmination of the project lifecycle, this phase breaks down the distribution of rewards and fees. It provides clarity on how dues are settled, whether in the case of successful project completion or potential failures.
 
 {% hint style="success" %}
-In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are crucial. 
+In the dynamic world of blockchain protocols, adaptability and a forward-looking approach are crucial.
 
 By integrating these phases, PoLN solidifies its stature as a premier protocol, driving innovation while aligning closely with its core objectives to ensure robust operational standards.
 {% endhint %}
 
 {% hint style="info" %}
-
 While the operational conditions outlined above establish the foundational framework of PoLN's operations, there are additional dimensions which, though not yet detailed extensively, are pivotal for the protocol's long-term evolution and optimization.
 
 These include:

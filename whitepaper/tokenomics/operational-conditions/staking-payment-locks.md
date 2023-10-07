@@ -3,11 +3,25 @@ description: >-
   In this stage, fellowships stake tokens, ensuring commitment, while initiators
   lock fees and contractor payments. These secure methods in smart contracts
   safeguard interests and foster trust in the Po
+cover: ../../.gitbook/assets/stake_locked.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Staking and Payment Locks
-
-<figure><img src="../../.gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption></figcaption></figure>
 
 In the realm of PoLN's operational dynamics, this phase serves as a foundational checkpoint, ensuring both initiator and fellowship commitment.
 

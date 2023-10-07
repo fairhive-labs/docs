@@ -3,6 +3,22 @@ description: >-
   In this stage, initiators outline project specifics, define crucial
   parameters, tackle potential confidentiality issues, and establish a
   foundation for successful engagements within the PoLN ecosystem
+cover: ../../.gitbook/assets/initiator_setting_project.png
+coverY: -308
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Initiator's project description and posting

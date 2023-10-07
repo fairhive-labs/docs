@@ -3,6 +3,22 @@ description: >-
   During this stage, fellowships form, express interest in projects, and
   competitively bid. The dynamic ensures the best teams are chosen, fostering
   quality and competitive prices within the PoLN ecosys
+cover: ../../.gitbook/assets/fellowship_bidding.png
+coverY: -18
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Fellowship formation and Bidding
