@@ -20,5 +20,5 @@
     * [Reward and Fee Distribution](tokenomics/operational-conditions/reward-fee-distribution.md)
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
-* [⏳ (PEND) Architecture Overview](architecture-overview-web3-design/README.md)
+* [⏳ (PEND) Architecture Overview](architecture.md)
 * [⏳ (PEND) fairhive-labs team](fairhive-labs-team.md)
