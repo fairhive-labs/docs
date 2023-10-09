@@ -36,9 +36,9 @@ The following detailed breakdown elucidates the allocation priorities of the $PO
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|   `100,000,000`  |       `50`      |
+|  `100,000,000` |      `50`      |
 
-Provides broad and decentralized access to $POLN. Ensures a wide user base and discourages concentrated power. 
+Provides broad and decentralized access to $POLN. Ensures a wide user base and discourages concentrated power.
 
 It's crucial to manage the distribution to avoid short-term speculative selling and to encourage long-term engagement.
 
@@ -46,7 +46,7 @@ It's crucial to manage the distribution to avoid short-term speculative selling 
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|   `40,000,000`  |       `20`      |
+|  `40,000,000`  |      `20`      |
 
 The essence of any thriving ecosystem lies in its ability to attract and retain key participants.
 
@@ -55,6 +55,7 @@ For the PoLN system, these are the initiators who bring projects and collaborati
 By setting aside a significant allocation for initiator rewards, the protocol emphasizes the central role that these entities play.
 
 ### Incentivizing High-Quality Proposals
+
 One of the primary purposes of the initiator rewards is to incentivize the introduction of high-quality, viable projects to the PoLN ecosystem.
 
 By offering tangible rewards, the protocol encourages initiators to present well-researched and feasible projects, which in turn contributes to the overall success rate and reputation of the system.
@@ -65,14 +66,14 @@ As more initiators bring projects to the protocol, there's a natural ripple effe
 
 ### Halving Mechanism for Longevity
 
-The inclusion of a halving mechanism for initiator rewards is both strategic and forward-thinking. 
+The inclusion of a [halving mechanism for initiator rewards](operational-conditions/reward-fee-distribution.md#halving-mechanism-for-initiator-rewards) is both strategic and forward-thinking.
 
-Just as Bitcoin employs halving to manage its supply and ensure longevity, PoLN uses a similar approach to ensure the rewards pool doesn't deplete rapidly. 
+Just as Bitcoin employs halving to manage its supply and ensure longevity, PoLN uses a similar approach to ensure the rewards pool doesn't deplete rapidly.
 
 This halving mechanism serves a dual purpose:
-   - **Sustainability**: The halving mechanism in the rewards structure creates an incentive for early adopters of the PoLN protocol by providing them with a larger share of rewards. As the reward size decreases over time, it extends the longevity of the pool, allowing for potentially hundreds of thousands of projects to benefit, at a minimum. While the rewards aren't infinite, this approach ensures a sustained motivation for initiators over an extended period, making it a strategic tool for both immediate and long-term growth of the PoLN ecosystem.
-   - **Reflecting Ecosystem Value**: As the PoLN system grows and matures, the intrinsic value of being a part of this community also rises. The halving mechanism reflects this increasing value, with the idea being that even reduced rewards in the future hold greater value due
-   to the enhanced reputation and success rate of the system.
+
+* **Sustainability**: The halving mechanism in the rewards structure creates an incentive for early adopters of the PoLN protocol by providing them with a larger share of rewards. As the reward size decreases over time, it extends the longevity of the pool, allowing for potentially hundreds of thousands of projects to benefit, at a minimum. While the rewards aren't infinite, this approach ensures a sustained motivation for initiators over an extended period, making it a strategic tool for both immediate and long-term growth of the PoLN ecosystem.
+* **Reflecting Ecosystem Value**: As the PoLN system grows and matures, the intrinsic value of being a part of this community also rises. The halving mechanism reflects this increasing value, with the idea being that even reduced rewards in the future hold greater value due to the enhanced reputation and success rate of the system.
 
 ### Reward Scaling with Success
 
@@ -84,7 +85,7 @@ This ensures that initiators remain engaged throughout the project lifecycle and
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|   `20,000,000`  |       `10`      |
+|  `20,000,000`  |      `10`      |
 
 The allocation designated for the builders, primarily the fairhive-labs team, is a testament to the belief in the long-term success and viability of the PoLN protocol.
 
@@ -92,21 +93,22 @@ This allocation, rather than an immediate payout, is structured to align the int
 
 ### Two-Year Lock
 
-Before any tokens become available, there's a two-year lock in place. 
+Before any tokens become available, there's a two-year lock in place.
 
 This period serves multiple purposes:
-- **Commitment**: It signifies a solid pledge from the team to the protocol and its community. This isn't a short-term endeavor but a long-term vision.
-- **Growth and Development Phase**: These two years represent crucial formative moments for the PoLN protocol. The team will be highly focused on development, partnerships, and user acquisition without any financial distractions.
+
+* **Commitment**: It signifies a solid pledge from the team to the protocol and its community. This isn't a short-term endeavor but a long-term vision.
+* **Growth and Development Phase**: These two years represent crucial formative moments for the PoLN protocol. The team will be highly focused on development, partnerships, and user acquisition without any financial distractions.
 
 ### Vested Unlocking Over Three Years
 
-Post the two-year lock, the tokens don't become immediately available. Instead, they are released gradually over the next three years. 
+Post the two-year lock, the tokens don't become immediately available. Instead, they are released gradually over the next three years.
 
 The distribution is as follows:
 
-- **Year 1 (30%)**: After the initial two-year lock, 30% of the allocated tokens become available in the third year. This initial release acknowledges the extensive work done in the foundational years and provides the team with a partial reward for their efforts.
-- **Year 2 (30%)**: In the fourth year, an additional 30% is unlocked. This phase likely coincides with a maturing ecosystem, scaling operations, and growing user base.
-- **Year 3 (40%)**: The remaining 40% gets unlocked in the fifth year. This more substantial portion towards the end further solidifies the long-term vision and commitment.
+* **Year 1 (30%)**: After the initial two-year lock, 30% of the allocated tokens become available in the third year. This initial release acknowledges the extensive work done in the foundational years and provides the team with a partial reward for their efforts.
+* **Year 2 (30%)**: In the fourth year, an additional 30% is unlocked. This phase likely coincides with a maturing ecosystem, scaling operations, and growing user base.
+* **Year 3 (40%)**: The remaining 40% gets unlocked in the fifth year. This more substantial portion towards the end further solidifies the long-term vision and commitment.
 
 ### Alignment with Protocol's Health
 
@@ -114,7 +116,7 @@ The staggered release ensures that the team remains incentivized to maintain, in
 
 ### Trust & Transparency
 
-Such a structured release strategy enhances trust within the community. 
+Such a structured release strategy enhances trust within the community.
 
 It sends a clear message that the builders are in this journey for the long haul and that their primary motivation is the protocol's success and not immediate financial gains.
 
@@ -122,7 +124,7 @@ It sends a clear message that the builders are in this journey for the long haul
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|   `10,000,000`  |       `5`      |
+|  `10,000,000`  |       `5`      |
 
 Targets strategic partners offering more than capital. Locking mechanism ensures commitment and prevents early token selling.
 
@@ -130,9 +132,9 @@ Targets strategic partners offering more than capital. Locking mechanism ensures
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|   `20,000,000`  |       `10`      |
+|  `20,000,000`  |      `10`      |
 
-The Community/DAO Treasury represents the heart of the decentralized governance model that underpins the PoLN protocol. 
+The Community/DAO Treasury represents the heart of the decentralized governance model that underpins the PoLN protocol.
 
 It's more than just a pool of funds; it's a dynamic tool that empowers the PoLN community, ensuring the protocol's resilience, growth, and adaptability in a rapidly changing ecosystem.
 
@@ -148,7 +150,7 @@ The treasury funds are used to cover ongoing operational costs. This includes ma
 
 ### Grants & Funding
 
-To foster innovation and attract talent, the treasury can allocate grants to developers and teams who wish to build on or enhance the PoLN protocol. 
+To foster innovation and attract talent, the treasury can allocate grants to developers and teams who wish to build on or enhance the PoLN protocol.
 
 This ensures a steady influx of fresh ideas and solutions, keeping the protocol at the forefront of the industry.
 
@@ -158,7 +160,7 @@ A portion of the treasury could be utilized to provide liquidity in various dece
 
 ### Emergency Situations
 
-In the decentralized world, unexpected situations can arise. 
+In the decentralized world, unexpected situations can arise.
 
 The treasury acts as a safety net, offering a reservoir of funds that can be tapped into during emergencies or unforeseen events.
 
@@ -170,7 +172,7 @@ Funds can be directed towards community initiatives, educational programs, outre
 
 ### Reward Programs
 
-To motivate and retain valuable community members, the treasury can launch reward programs. 
+To motivate and retain valuable community members, the treasury can launch reward programs.
 
 These can range from bounties for identifying bugs to rewards for outstanding community contributions.
 
@@ -184,11 +186,11 @@ A rigorous testing phase is imperative for any protocol's success, serving as th
 
 Without such comprehensive scrutiny, even the most promising protocols might falter when exposed to real-world scenarios.
 
-Therefore, the allocation for testnet development and partners becomes an emblematic representation of the PoLN protocol's commitment to precision, reliability, and excellence. 
+Therefore, the allocation for testnet development and partners becomes an emblematic representation of the PoLN protocol's commitment to precision, reliability, and excellence.
 
 ### Foundation of Reliability
 
-The testnet provides a controlled environment where every aspect of the protocol can be assessed. 
+The testnet provides a controlled environment where every aspect of the protocol can be assessed.
 
 From minor operational glitches to significant vulnerabilities, this phase ensures that when the PoLN protocol is launched on mainnet, it operates with the reliability stakeholders expect.
 
@@ -252,15 +254,15 @@ In essence, airdrops and giveaways aren't just about distributing free tokens. T
 
 ### User Adoption Acceleration
 
-Airdrops act as a powerful tool to attract potential users to the system. 
+Airdrops act as a powerful tool to attract potential users to the system.
 
-By receiving a portion of $POLN for free, many are likely to delve deeper into what the protocol offers, thereby increasing the user base. 
+By receiving a portion of $POLN for free, many are likely to delve deeper into what the protocol offers, thereby increasing the user base.
 
 Moreover, airdrops to holders of specific tokens (like governance tokens of other projects) can be a strategic move to pull in users from existing communities.
 
 ### Rewarding Early Supporters
 
-Early believers and backers of a project play a vital role in its success. Airdrops can act as a token of gratitude, strengthening the bond between the community and the protocol. 
+Early believers and backers of a project play a vital role in its success. Airdrops can act as a token of gratitude, strengthening the bond between the community and the protocol.
 
 This, in turn, promotes loyalty and long-term commitment from users.
 
@@ -272,7 +274,7 @@ They grab attention, encourage sharing, and can lead to organic growth through w
 
 ### Driving Network Effects
 
-As more users become aware of and join the ecosystem due to airdrops and giveaways, the value and utility of the protocol increase. 
+As more users become aware of and join the ecosystem due to airdrops and giveaways, the value and utility of the protocol increase.
 
 This can lead to a virtuous cycle where increasing users enhance the network's value, which in turn attracts even more users.
 
