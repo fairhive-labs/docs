@@ -97,41 +97,41 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 1. Each time 50% of the remaining pool is used up, the reward amount is halved.
 2. Projects continuously draw from the pool until it's empty.
 2. There's no other mechanism influencing the reward amount other than the halving.
-3. The Initiator Rewards Pool starts with a capacity of $$I_rp$$ tokens, where $$I_rp = 40,000,000$$ $POLN.
+3. The Initiator Rewards Pool starts with a capacity of $$I_s$$ tokens, where $$I_s = 40,000,000$$ $POLN.
 4. The reward $$R$$ given to a project, which varies based on the project's duration.
 
-### The number of projects is a constant in each halving cycle
+### Number of projects is constant per halving cycle
 
 > Within the context of PoLN, a halving cycle is the phase where, after 50% of the remaining tokens in the Initiator Rewards pool have been distributed, the reward size for future projects is reduced by half. 
 
 #### Initially - before first halving:
-- Reward pool: $$I = \frac{I_rp}{2} = 20,000,000$$ $POLN 
-- Reward: $$R$$ $POLN 
+- Allocation for projects: $$A = \frac{I_s}{2} = 20,000,000$$
+- Reward: $$R$$
 
 Number of projects before the first halving:
 $$
-\frac{I_rp}{2} \div R = \frac{I_rp}{2R}
+\frac{I_s}{2} \div R = \frac{I_s}{2R}
 $$
 
 #### After the first halving:
-- Reward pool = $$\frac{I}{2} \div 2 = \frac{I}{4} = 10,000,000$$ $POLN 
-- Reward = $$\frac{R}{2}$$ $POLN 
+- Allocation for projects: $$A = \frac{I_s}{2} \div 2 = \frac{I_s}{4} = 10,000,000$$ 
+- Reward: $$\frac{R}{2}$$ $POLN 
 
 Number of projects during the first halving:
 $$
-\frac{\frac{I}{4}}{\frac{R}{2}} = \frac{I}{2R}
+\large \frac{\frac{I_s}{4}}{\frac{R}{2}} = \frac{I_s}{2R}
 $$
 
 #### Observations
 
-Despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{P}{2R}$$.
+Despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{I_s}{2R}$$.
 
 #### Demonstration
 
 The function $$p(n)$$ denotes the number of projects rewarded in the $$n^{th}$$ halving cycle:
 
 $$
-p(n) = \frac{I/2^{n+1}}{R/2^n}
+\large p(n) = \frac{I_s/2^{n+1}}{R/2^n}
 $$
 
 ### **Step 2: Compute the number of halving cycles**:
