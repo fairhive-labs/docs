@@ -97,30 +97,38 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 1. Each time 50% of the remaining pool is used up, the reward amount is halved.
 2. Projects continuously draw from the pool until it's empty.
 2. There's no other mechanism influencing the reward amount other than the halving.
-3. The Initiator Rewards Pool starts with a capacity of $$P$$ tokens, where $$P = 40,000,000$$ $POLN.
+3. The Initiator Rewards Pool starts with a capacity of $$I$$ tokens, where $$I = 40,000,000$$ $POLN.
 4. The reward $$R$$ given to a project, which varies based on the project's duration.
 
 ### The number of projects is a constant in each halving cycle
 
-Initially:
-- Pool = $$P$$
-- Reward = $$R$$
+> Within the context of PoLN, a halving cycle is the phase where, after 50% of the remaining tokens in the Initiator Rewards pool have been distributed, the reward size for future projects is reduced by half. 
+
+Initially - before first halving:
+- Reward pool = $$\frac{I}{2} = 20,000,000$$ $POLN 
+- Reward = $$R$$ $POLN 
 
 Number of projects before the first halving:
 $$
-\frac{P}{2} \div R = \frac{P}{2R}
+\frac{I}{2} \div R = \frac{I}{2R}
 $$
 
 After the first halving:
-- Remaining pool = $$\frac{P}{2}$
-- Reward = $$\frac{R}{2}$
+- Reward pool = $$\frac{I}{2} \div 2 = \frac{I}{4} = 10,000,000$$ $POLN 
+- Reward = $$\frac{R}{2}$$ $POLN 
 
 Number of projects during the first halving:
 $$
-\frac{P/2}{2 \times R/2} = \frac{P}{2R}
+\frac{I/4}{R/2} = \frac{I}{2R}
 $$
 
-Thus, for each halving cycle, the number of projects funded remains constant at $$\frac{P}{2R}$$.
+We can observe that, despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{P}{2R}$$.
+
+The function $$p(n)$$ denotes the number of projects rewarded in the $$n^{th}$$ halving cycle:
+
+$$
+p(n) = \frac{I/2^{n+1}}{R/2^n}
+$$
 
 ### **Step 2: Compute the number of halving cycles**:
 
