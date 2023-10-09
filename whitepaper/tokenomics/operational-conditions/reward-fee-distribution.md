@@ -115,7 +115,7 @@ $$
 
 #### After the first halving:
 - Allocation for projects: $$A = \frac{I}{2} \div 2 = \frac{I}{4} = 10,000,000$$ 
-- Reward: $$\frac{R}{2}$$ $POLN 
+- Reward: $$\frac{R}{2}$$ 
 
 Number of projects during the first halving:
 $$
@@ -131,8 +131,8 @@ Despite the reward reductions, the number of projects funded per cycle remains s
 The function $$p(n)$$ denotes the number of projects rewarded in the $$n^{th}$$ halving cycle:
 
 $$
-\large p(n) = \frac{I/2^{n+1}}{R/2^n}
-\equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}
+\large p(n) = \frac{\frac{I}{2^{n+1}}}{frac{R}{2^n}}\\
+\equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}\\
 \equiv p(n) = \frac{I}{2R}
 $$
 
