@@ -127,7 +127,7 @@ $$
 Despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{I}{2R}$$.
 
 #### Demonstration
-The function $$i(n)$$ denotes the token allocation in the $$n^{th}$$ halving cycle:
+The function $$a(n)$$ denotes the token allocation in the $$n^{th}$$ halving cycle:
 $$
 a(n) = \frac{I}{2^{n+1}}
 $$
@@ -142,7 +142,7 @@ $$
 \large p(n) = \frac{a(n)}{r(n)} 
 $$
 $$
-\large p(n) = \frac{\frac{I}{2^{n+1}}}{\frac{R}{2^n}}\\
+\large  \equiv p(n) = \frac{\frac{I}{2^{n+1}}}{\frac{R}{2^n}}\\
 $$
 $$
 \large \equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}\\
