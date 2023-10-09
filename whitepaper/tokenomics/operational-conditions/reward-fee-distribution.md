@@ -100,7 +100,7 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 3. The Initiator Rewards Pool starts with a capacity of $$P$$ tokens, where $$P = 40,000,000$$ $POLN.
 4. The reward $$R$$ given to a project, which varies based on the project's duration.
 
-### Step 1: Demonstrate that the number of projects is a constant in each halving cycle
+### The number of projects is a constant in each halving cycle
 
 Initially:
 - Pool = $$P$$
@@ -112,13 +112,15 @@ $$
 $$
 
 After the first halving:
-- Remaining pool = $ \frac{P}{2} $
-- Reward = $ \frac{R}{2} $
+- Remaining pool = $$\frac{P}{2}$
+- Reward = $$\frac{R}{2}$
 
 Number of projects during the first halving:
-\[ \frac{P/2}{2 \times R/2} = \frac{P}{2R} \]
+$$
+\frac{P/2}{2 \times R/2} = \frac{P}{2R}
+$$
 
-Thus, for each halving cycle, the number of projects funded remains constant at $ \frac{P}{2R} $.
+Thus, for each halving cycle, the number of projects funded remains constant at $$\frac{P}{2R}$$.
 
 ### **Step 2: Compute the number of halving cycles**:
 
