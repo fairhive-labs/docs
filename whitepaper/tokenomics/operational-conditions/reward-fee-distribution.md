@@ -33,15 +33,7 @@ The system is meticulously designed, integrating a robust reward matrix for init
 
 By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all.
 
-## Halving Mechanism for Initiator Rewards
 
-To ensure the sustainability of the reward system, there's a halving mechanism in place.
-
-<figure><img src="../../.gitbook/assets/PoLN - initiators rewards + halving.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved.
-
-This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
 ## Success Scenario
 
@@ -85,6 +77,16 @@ They are strategically allocated to vital operations, including but not limited 
 * **Liquidity Pools:** Creating and replenishing liquidity pools, ensuring the smooth trading of tokens and bolstering overall market stability.
 
 By transforming the outcome of failed projects into tangible benefits, the protocol not only preserves community trust but also reinforces its commitment to growth, adaptability, and long-term sustainability.
+
+## Halving Mechanism for Initiator Rewards
+
+To ensure the sustainability of the reward system, there's a halving mechanism in place.
+
+<figure><img src="../../.gitbook/assets/PoLN - initiators rewards + halving.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+As the token pool for initiator rewards depletes and reaches a reduction of 50%, the reward rates for initiators will be halved.
+
+This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
 ***
 
