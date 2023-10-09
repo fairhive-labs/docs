@@ -168,7 +168,7 @@ $$
 2^n = I
 $$
 $$
-\equiv n = \log_2(I)
+\equiv n = \log_2 I
 $$
 
 {% hint style="success" %}
@@ -176,7 +176,7 @@ $$
 
 The number of halving cycles is:
 $$
-n = \log_2(I)
+n = \log_2 I
 $$
 {% endhint %}
 
