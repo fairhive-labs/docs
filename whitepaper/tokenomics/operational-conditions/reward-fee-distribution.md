@@ -105,11 +105,11 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 > Within the context of PoLN, a halving cycle is the phase where, after 50% of the remaining tokens in the Initiator Rewards pool have been distributed, the reward size for future projects is reduced by half. 
 
 #### Initially - before first halving:
-- Allocation for projects: $$A = \frac{I}{2} = 20,000,000$$
-- Reward: $$R$$
+- $$\text{Allocation for projects:} A = \frac{I}{2} = 20,000,000$$
+- $$\text{Reward:} R$$
 
-Number of projects before the first halving:
 $$
+\text{Number of projects before the first halving:}\\
 \frac{I}{2} \div R = \frac{I}{2R}
 $$
 
