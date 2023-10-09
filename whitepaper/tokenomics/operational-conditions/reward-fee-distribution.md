@@ -33,8 +33,6 @@ The system is meticulously designed, integrating a robust reward matrix for init
 
 By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all.
 
-
-
 ## Success Scenario
 
 Upon the successful completion of a project, the distribution system activates:
@@ -88,7 +86,9 @@ As the token pool for initiator rewards depletes and reaches a reduction of 50%,
 
 This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
+{% hint style="info" %}
 In understanding the Initiator Rewards Pool's longevity for the $POLN token, it's crucial to determine how many projects can benefit from this pool before depletion. 
+{% endhint %}
 
 Specifically, we wish to derive both the minimum and maximum number of potential beneficiaries.
 
@@ -97,7 +97,7 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 1. Each time 50% of the remaining pool is used up, the reward amount is halved.
 2. Projects continuously draw from the pool until it's empty.
 2. There's no other mechanism influencing the reward amount other than the halving.
-3. The Initiator Rewards Pool starts with a capacity of $$I_s$$ tokens, where $$I_s = 40,000,000$$ $POLN.
+3. The Initiator Rewards Pool starts with a capacity of $$I$$ tokens, where $$I = 40,000,000$$ $POLN.
 4. The reward $$R$$ given to a project, which varies based on the project's duration.
 
 ### Number of projects is constant per halving cycle
@@ -105,33 +105,35 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 > Within the context of PoLN, a halving cycle is the phase where, after 50% of the remaining tokens in the Initiator Rewards pool have been distributed, the reward size for future projects is reduced by half. 
 
 #### Initially - before first halving:
-- Allocation for projects: $$A = \frac{I_s}{2} = 20,000,000$$
+- Allocation for projects: $$A = \frac{I}{2} = 20,000,000$$
 - Reward: $$R$$
 
 Number of projects before the first halving:
 $$
-\frac{I_s}{2} \div R = \frac{I_s}{2R}
+\frac{I}{2} \div R = \frac{I}{2R}
 $$
 
 #### After the first halving:
-- Allocation for projects: $$A = \frac{I_s}{2} \div 2 = \frac{I_s}{4} = 10,000,000$$ 
+- Allocation for projects: $$A = \frac{I}{2} \div 2 = \frac{I}{4} = 10,000,000$$ 
 - Reward: $$\frac{R}{2}$$ $POLN 
 
 Number of projects during the first halving:
 $$
-\large \frac{\frac{I_s}{4}}{\frac{R}{2}} = \frac{I_s}{2R}
+\large \frac{\frac{I}{4}}{\frac{R}{2}} = \frac{I}{2R}
 $$
 
 #### Observations
 
-Despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{I_s}{2R}$$.
+Despite the reward reductions, the number of projects funded per cycle remains steadfast at $$\frac{I}{2R}$$.
 
 #### Demonstration
 
 The function $$p(n)$$ denotes the number of projects rewarded in the $$n^{th}$$ halving cycle:
 
 $$
-\large p(n) = \frac{I_s/2^{n+1}}{R/2^n}
+\large p(n) = \frac{I/2^{n+1}}{R/2^n}
+\equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}
+\equiv p(n) = \frac{I}{2R}
 $$
 
 ### **Step 2: Compute the number of halving cycles**:
