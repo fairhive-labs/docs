@@ -160,11 +160,25 @@ P = \frac{I}{2R}
 $$
 {% endhint %}
 
-### **Step 2: Compute the number of halving cycles**:
+### Number of halving cycles
 
-The number of halving cycles, $ n $, is based on how many times we can halve the initial pool amount:
+The number of halving cycles, $$n$$, is based on how many times we can halve the initial pool amount $$I$$:
 
-\[ n = \log_2(40,000,000) \]
+$$
+2^n = I
+$$
+$$
+\equiv n = \log_2(I)
+$$
+
+{% hint style="success" %}
+**Conclusion:**
+
+The number of halving cycles is:
+$$
+n = \log_2(I)
+$$
+{% endhint %}
 
 ### **Step 3: Determine total projects for a specific reward $ R $**:
 
