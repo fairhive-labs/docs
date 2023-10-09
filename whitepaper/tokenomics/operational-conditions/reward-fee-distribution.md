@@ -154,7 +154,7 @@ $$
 {% hint style="success" %}
 **Conclusion:**
 
-The number of projects is constant per halving cycle:
+The number of projects $$P$$ is constant per halving cycle:
 $$
 P = \frac{I}{2R}
 $$
@@ -162,21 +162,21 @@ $$
 
 ### Number of halving cycles
 
-The number of halving cycles, $$n$$, is based on how many times we can halve the initial pool amount $$I$$:
+The number of halving cycles, $$N$$, is based on how many times we can halve the initial pool amount $$I$$:
 
 $$
-2^n = I
+2^N = I
 $$
 $$
-\equiv n = \log_2 I
+\equiv N = \log_2 I
 $$
 
 {% hint style="success" %}
 **Conclusion:**
 
-The number of halving cycles is:
+The number of halving cycles $$N$$ is:
 $$
-n = \log_2 I
+N = \log_2 I
 $$
 {% endhint %}
 
