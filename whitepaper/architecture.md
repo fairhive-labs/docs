@@ -41,8 +41,8 @@ Frontend and Rest-API images will be built and deployed thanks to devops feature
 
 Rest-API services will be deployed **on Heroku** and **AWS.**
 
-
+***
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+\frac{P}{2}
 $$
