@@ -88,56 +88,56 @@ As the token pool for initiator rewards depletes and reaches a reduction of 50%,
 
 This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
-Absolutely! Here's a well-formatted markdown content with LaTeX for mathematical formulas:
+In understanding the Initiator Rewards Pool's longevity for the $POLN token, it's crucial to determine how many projects can benefit from this pool before depletion. 
 
----
+Specifically, we wish to derive both the minimum and maximum number of potential beneficiaries.
 
-### 1. **Demonstration that the number of projects is a constant in each halving cycle**:
+### Assumptions
 
-Each time we hit 50% of the remaining pool capacity, the reward \( R \) gets halved, and the pool also effectively halves. 
+1. Each time 50% of the remaining pool is used up, the reward amount is halved.
+2. Projects continuously draw from the pool until it's empty.
+2. There's no other mechanism influencing the reward amount other than the halving.
+3. The Initiator Rewards Pool starts with a capacity of $ P $ tokens, where $ P = 40,000,000 $ $POLN.
+4. The reward $ R $ given to a project, which varies based on the project's duration.
+
+### **Step 1: Demonstrate that the number of projects is a constant in each halving cycle**:
 
 At the beginning:
-- Pool = \( P \) (which starts as 40,000,000 $POLN)
-- Reward = \( R \)
+- Pool = $ P $
+- Reward = $ R $
 
 Number of projects before the first halving:
 \[ \frac{P}{2} \div R = \frac{P}{2R} \]
 
 After the first halving:
-- Remaining pool = \( \frac{P}{2} \)
-- Reward = \( \frac{R}{2} \)
+- Remaining pool = $ \frac{P}{2} $
+- Reward = $ \frac{R}{2} $
 
-Number of projects in the first halving:
+Number of projects during the first halving:
 \[ \frac{P/2}{2 \times R/2} = \frac{P}{2R} \]
 
-As we can see, the number of projects that can be funded in each halving cycle is a constant, \( \frac{P}{2R} \).
+Thus, for each halving cycle, the number of projects funded remains constant at $ \frac{P}{2R} $.
 
-### 2. **Compute the number of halving cycles**:
+### **Step 2: Compute the number of halving cycles**:
 
-The number of halving cycles is determined by how many times we can split the original pool amount until we reach the smallest rewardable unit (let's assume this unit is 1 $POLN for simplicity):
+The number of halving cycles, $ n $, is based on how many times we can halve the initial pool amount:
 
-\[ \text{Total number of halvings} = \log_2(40,000,000) \]
+\[ n = \log_2(40,000,000) \]
 
-### 3. **Determine total projects for a specific reward \( R \)**:
+### **Step 3: Determine total projects for a specific reward $ R $**:
 
-From the first point, we know that in each cycle, we fund \( \frac{P}{2R} \) projects. 
-Given \( n \) halving cycles, the total number of projects funded is:
+Given $ n $ halving cycles and that each cycle funds $ \frac{P}{2R} $ projects:
 
-\[ \text{Total projects} = \frac{P}{2R} \times n \]
+\[ \text{Total projects} = n \times \frac{P}{2R} \]
 
-### 4. **Conclusion**:
+### **Step 4: Conclusion - Determining Min and Max Projects**:
 
-Replace \( R \) by \( H \) (reward for half-year) and \( D \) (reward for day) to get the min and max number of projects respectively:
+Substitute $ R $ with $ H $ for half-year reward and $ D $ for day reward:
 
 \[ \text{Min projects} = \frac{P}{2H} \times \log_2(40,000,000) \]
-
 \[ \text{Max projects} = \frac{P}{2D} \times \log_2(40,000,000) \]
 
-By substituting in the known values of \( P \), \( H \), and \( D \), you can calculate the exact minimum and maximum number of projects that can be funded.
-
---- 
-
-Feel free to copy and paste this into any Markdown-compatible platform to render it.
+By inserting specific values for $ P $, $ H $, and $ D $, we'll determine the exact range for the number of projects that can be funded before the pool is depleted.
 
 ***
 
