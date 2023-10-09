@@ -43,7 +43,7 @@ Rest-API services will be deployed **on Heroku** and **AWS.**
 
 ***
 
-I don't know if it works $U = R\timesI$
+I don't know if it works $$U = R\timesI$$
 
 $$
 \frac{P}{2}
