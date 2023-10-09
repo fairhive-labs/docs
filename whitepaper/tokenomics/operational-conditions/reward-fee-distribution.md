@@ -132,13 +132,18 @@ The function $$p(n)$$ denotes the number of projects rewarded in the $$n^{th}$$ 
 
 $$
 \large p(n) = \frac{\frac{I}{2^{n+1}}}{\frac{R}{2^n}}\\
-\equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}\\
-\equiv p(n) = \frac{I}{2R}
+$$
+$$
+\large \equiv p(n) = \frac{I}{2^{n+1}} \times \frac{2^n}{R}\\
+$$
+$$
+\large \equiv p(n) = \frac{I}{2R}
 $$
 
 {% hint style="success" %}
-So, the number of projects is constant per halving cycle.
+**Conclusion:**
 
+The number of projects is constant per halving cycle:
 $$
 P = \frac{I}{2R}
 $$
