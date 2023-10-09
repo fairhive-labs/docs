@@ -103,8 +103,10 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 ### **Step 1: Demonstrate that the number of projects is a constant in each halving cycle**:
 
 At the beginning:
-- Pool = $ P $
-- Reward = $ R $
+- Pool = $P$
+- Reward = $R$
+
+s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 
 Number of projects before the first halving:
 \[ \frac{P}{2} \div R = \frac{P}{2R} \]
