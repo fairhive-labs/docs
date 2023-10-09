@@ -88,6 +88,57 @@ As the token pool for initiator rewards depletes and reaches a reduction of 50%,
 
 This ensures that even as the available tokens in the pool reduce, the system can continue rewarding initiators for a longer period, thereby maintaining the attractiveness and viability of the PoLN platform.
 
+Absolutely! Here's a well-formatted markdown content with LaTeX for mathematical formulas:
+
+---
+
+### 1. **Demonstration that the number of projects is a constant in each halving cycle**:
+
+Each time we hit 50% of the remaining pool capacity, the reward \( R \) gets halved, and the pool also effectively halves. 
+
+At the beginning:
+- Pool = \( P \) (which starts as 40,000,000 $POLN)
+- Reward = \( R \)
+
+Number of projects before the first halving:
+\[ \frac{P}{2} \div R = \frac{P}{2R} \]
+
+After the first halving:
+- Remaining pool = \( \frac{P}{2} \)
+- Reward = \( \frac{R}{2} \)
+
+Number of projects in the first halving:
+\[ \frac{P/2}{2 \times R/2} = \frac{P}{2R} \]
+
+As we can see, the number of projects that can be funded in each halving cycle is a constant, \( \frac{P}{2R} \).
+
+### 2. **Compute the number of halving cycles**:
+
+The number of halving cycles is determined by how many times we can split the original pool amount until we reach the smallest rewardable unit (let's assume this unit is 1 $POLN for simplicity):
+
+\[ \text{Total number of halvings} = \log_2(40,000,000) \]
+
+### 3. **Determine total projects for a specific reward \( R \)**:
+
+From the first point, we know that in each cycle, we fund \( \frac{P}{2R} \) projects. 
+Given \( n \) halving cycles, the total number of projects funded is:
+
+\[ \text{Total projects} = \frac{P}{2R} \times n \]
+
+### 4. **Conclusion**:
+
+Replace \( R \) by \( H \) (reward for half-year) and \( D \) (reward for day) to get the min and max number of projects respectively:
+
+\[ \text{Min projects} = \frac{P}{2H} \times \log_2(40,000,000) \]
+
+\[ \text{Max projects} = \frac{P}{2D} \times \log_2(40,000,000) \]
+
+By substituting in the known values of \( P \), \( H \), and \( D \), you can calculate the exact minimum and maximum number of projects that can be funded.
+
+--- 
+
+Feel free to copy and paste this into any Markdown-compatible platform to render it.
+
 ***
 
 {% hint style="success" %}
