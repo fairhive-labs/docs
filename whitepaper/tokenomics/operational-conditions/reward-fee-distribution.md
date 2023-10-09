@@ -97,19 +97,19 @@ Specifically, we wish to derive both the minimum and maximum number of potential
 1. Each time 50% of the remaining pool is used up, the reward amount is halved.
 2. Projects continuously draw from the pool until it's empty.
 2. There's no other mechanism influencing the reward amount other than the halving.
-3. The Initiator Rewards Pool starts with a capacity of $ P $ tokens, where $ P = 40,000,000 $ $POLN.
-4. The reward $ R $ given to a project, which varies based on the project's duration.
+3. The Initiator Rewards Pool starts with a capacity of $$P$$ tokens, where $$P = 40,000,000$$ $POLN.
+4. The reward $$R$$ given to a project, which varies based on the project's duration.
 
-### **Step 1: Demonstrate that the number of projects is a constant in each halving cycle**:
+### Step 1: Demonstrate that the number of projects is a constant in each halving cycle
 
-At the beginning:
-- Pool = $P$
-- Reward = $R$
-
-$s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}$
+Initially:
+- Pool = $$P$$
+- Reward = $$R$$
 
 Number of projects before the first halving:
-\[ \frac{P}{2} \div R = \frac{P}{2R} \]
+$$
+\frac{P}{2} \div R = \frac{P}{2R}
+$$
 
 After the first halving:
 - Remaining pool = $ \frac{P}{2} $
