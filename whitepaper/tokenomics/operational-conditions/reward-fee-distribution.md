@@ -239,10 +239,32 @@ T_{\text{max}} = \frac{I}{2R_{\text{day}}} \times \log_2 I
 $$
 
 #### Conclusion
-To determine the minimum and maximum bounds for the number of projects funded:
 
-- Use the reward for the longest project duration to find the minimum bound.
-- Use the reward for the shortest project duration to find the maximum bound.
+Given the nature of the halving mechanism, the total number of projects that can be funded from the Initiator Rewards Pool will always fall within the range:
+
+$$ 
+T_{\text{min}} \leq T \leq T_{\text{max}}
+$$
+
+Where:
+- $$T_{\text{min}}$$ corresponds to the scenario when all projects claim the maximum reward (e.g., half-year projects).
+- $$T_{\text{max}}$$ corresponds to the scenario when all projects claim the minimum reward (e.g., day projects).
+
+In the context of the Initiator Rewards Pool:
+
+- For the maximum potential number of projects \( T_{\text{max}} \), where each project claims the minimum reward (per day):
+\[ T_{\text{max}} = \frac{I \times \log_2(I)}{R_{\text{day}}} \]
+Plugging in \( I = 40000000 \) and \( R_{\text{day}} = 8 \):
+\[ T_{\text{max}} \approx 63925000 \]
+
+- For the minimum potential number of projects \( T_{\text{min}} \), where each project claims the maximum reward (per half-year):
+\[ T_{\text{min}} = \frac{I \times \log_2(I)}{R_{\text{half-year}}} \]
+Plugging in \( I = 40000000 \) and \( R_{\text{half-year}} = 32768 \):
+\[ T_{\text{min}} \approx 15572 \]
+
+Therefore, we can conclude that the total number of projects, \( T \), that can benefit from the Initiator Rewards Pool falls within the following bounds:
+\[ 15572 \leq T \leq 63925000 \]
+
 
 ***
 
