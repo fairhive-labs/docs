@@ -206,9 +206,9 @@ Since $$P$$ is constant across all cycles, the total number of projects that can
 {% hint style="success" %}
 **Conclusion:**
 
-For a specific reward $$R$$, the total number of projects that can benefit from the pool until its depletion $$T$$ is:
+For a specific reward $$R$$, the total number of projects $$T$$ that can benefit from the pool until its depletion is:
 $$
-\log_2 I \times \frac{I}{2R}
+\frac{I}{2R} \times \log_2 I
 $$
 {% endhint %}
 
