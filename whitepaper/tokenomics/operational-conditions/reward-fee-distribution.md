@@ -212,7 +212,39 @@ $$
 $$
 {% endhint %}
 
-### **Step 4: Conclusion - Determining Min and Max Projects**:
+### Determining the bounds
+
+#### Minimum Number of Projects
+
+This corresponds to the case where the reward amount, $$R$$, is at its maximum, i.e., for long-term projects. 
+
+For simplicity, let's say this is a half-year reward. If $$R_{\text{half-year}}$$ is the reward for a half-year project, then the total minimum number of projects $$T_{\text{min}}$$ that can be funded is:
+
+$$
+T_{\text{min}} = \frac{I}{2R_{\text{half-year}}} \times \log_2(I)
+$$
+
+2. **Maximum Number of Projects**:
+This corresponds to the case where the reward amount, $$R$$, is at its minimum, i.e., for short-term projects. Let's say this is a day reward. If $$R_{\text{day}}$$ is the reward for a day project, then:
+
+\[ P_{\text{max}} = \frac{I}{2R_{\text{day}}} \]
+
+And the total maximum number of projects that can be funded is:
+
+\[ T_{\text{max}} = N \times P_{\text{max}} \]
+\[ T_{\text{max}} = \log_2(I) \times \frac{I}{2R_{\text{day}}} \]
+
+## Conclusion:
+To determine the minimum and maximum bounds for the number of projects funded:
+
+- Use the reward for the longest project duration to find the minimum bound.
+- Use the reward for the shortest project duration to find the maximum bound.
+
+---
+
+You can copy and paste the above content into Gitbook. The LaTeX notation should render appropriately when viewing the document in Gitbook. If there's any further optimization required for your Gitbook settings, please let me know.
+
+
 
 Substitute $ R $ with $ H $ for half-year reward and $ D $ for day reward:
 
