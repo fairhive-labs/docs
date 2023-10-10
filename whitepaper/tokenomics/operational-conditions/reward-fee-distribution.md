@@ -180,11 +180,25 @@ N = \log_2 I
 $$
 {% endhint %}
 
-### **Step 3: Determine total projects for a specific reward $ R $**:
+### Total projects
 
-Given $ n $ halving cycles and that each cycle funds $ \frac{P}{2R} $ projects:
+{% hint style="info" %}
+To compute the cumulative number of projects $$T$$ that can benefit from the pool until its depletion, we'll sum up the number of projects funded during each halving cycle. 
+{% endhint %}
 
-\[ \text{Total projects} = n \times \frac{P}{2R} \]
+Given:
+- $$N$$ is the number of halving cycles.
+- $$P$$ is the number of projects for each halving cycle.
+
+The total number of projects across all halving cycles can be expressed as:
+
+$$
+T = N \times P
+$$
+
+Since $$P$$ is constant across all cycles, the total number of projects that can be funded from the pool is simply the number of projects per cycle multiplied by the number of cycles.
+
+In conclusion, for a specific reward $$R$$, the total number of projects that can benefit from the pool before it's empty is $$N \times P$$.
 
 ### **Step 4: Conclusion - Determining Min and Max Projects**:
 
