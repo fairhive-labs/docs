@@ -276,7 +276,7 @@ $$
 Therefore, we can conclude that the total number of projects, $$T$$, that can benefit from the Initiator Rewards Pool falls within the following bounds:
 
 $$
-15,413 \leq T \leq 63,133,741
+15,413 \eq T \eq 63,133,741
 $$
 {% endhint %}
 
