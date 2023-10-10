@@ -283,9 +283,9 @@ $$
 
 Assuming each $POLN token can be subdivided into $$10^{18}$$ unit, Initiator Rewards Pool $$I$$ is 40,000,000,000,000,000,000,000,000 aPOLN (the smallest $POLN unit), so the total number of projects, $$T$$, that can benefit from the Initiator Rewards Pool falls now within the following bounds:
 
-**$$
-51,909 < T < 212,620,505
-$$**
+$$
+$\LARGE 51,909 < T < 212,620,505
+$$
 
 {% endhint %}
 
