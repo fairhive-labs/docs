@@ -189,16 +189,23 @@ To compute the cumulative number of projects $$T$$ that can benefit from the poo
 Given:
 - $$N$$ is the number of halving cycles.
 - $$P$$ is the number of projects for each halving cycle.
+- $$I$$ is the initial allocation of the Initiator Rewards pool.
+- $$R$$ represents the reward amount for a specific project duration (e.g., day, half-year).
 
-The total number of projects across all halving cycles can be expressed as:
+The total number of projects across all halving cycles $$T$$ can be expressed as:
 
 $$
-T = N \times P
+\large T = N \times P
+$$
+$$
+\large T = \log_2 I \times \frac{I}{2R}
 $$
 
 Since $$P$$ is constant across all cycles, the total number of projects that can be funded from the pool is simply the number of projects per cycle multiplied by the number of cycles.
 
-In conclusion, for a specific reward $$R$$, the total number of projects that can benefit from the pool before it's empty is $$N \times P$$.
+{% hint style="success" %}
+For a specific reward $$R$$, the total number of projects that can benefit from the pool until its depletion: $$\log_2 I \times \frac{I}{2R}$$
+{% endhint %}
 
 ### **Step 4: Conclusion - Determining Min and Max Projects**:
 
