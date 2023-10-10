@@ -250,9 +250,7 @@ Where:
 - $$T_{\text{min}}$$ corresponds to the scenario when all projects claim the maximum reward (e.g., half-year projects).
 - $$T_{\text{max}}$$ corresponds to the scenario when all projects claim the minimum reward (e.g., day projects).
 
-In the context of the Initiator Rewards Pool $$I$$:
-
-- For the maximum potential number of projects $$T_{\text{max}}$$, where each project claims the minimum reward (per day):
+In the context of the Initiator Rewards Pool $$I$$, for the maximum potential number of projects $$T_{\text{max}}$$, where each project claims the minimum reward (per day):
 
 $$
 T_{\text{max}} = \frac{I}{2R_{\text{day}}} \times \log_2 I  
@@ -263,17 +261,23 @@ $$
 T_{\text{max}} \approx 63,133,741
 $$
 
-- For the minimum potential number of projects $$T_{\text{min}}$$, where each project claims the maximum reward (per half-year):
+In the context of the Initiator Rewards Pool $$I$$, for the minimum potential number of projects $$T_{\text{min}}$$, where each project claims the maximum reward (per half-year):
+
 $$
 T_{\text{min}} = \frac{I}{2R_{\text{half-year}}} \times \log_2 I
 $$
 
 Plugging in $$I = 40,000,000$$ and $$R_{\text{half-year}} = 32768$$:
-$$T_{\text{min}} \approx 15,413$$
+$$
+T_{\text{min}} \approx 15,413
+$$
 
 {% hint style="success" %}
 Therefore, we can conclude that the total number of projects, $$T$$, that can benefit from the Initiator Rewards Pool falls within the following bounds:
-$$15,413 \leq T \leq 63,133,741$$
+
+$$
+15,413 \leq T \leq 63,133,741
+$$
 {% endhint %}
 
 ***
