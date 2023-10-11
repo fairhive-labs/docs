@@ -40,11 +40,3 @@ They will also access the smart contract services.
 Frontend and Rest-API images will be built and deployed thanks to devops features of G**ithub** and **CircleCI.**
 
 Rest-API services will be deployed **on Heroku** and **AWS.**
-
-***
-
-Einstein's theory of relativity: 
-
-$$
-\Delta = mc^2
-$$
