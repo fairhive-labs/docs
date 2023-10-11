@@ -158,8 +158,6 @@ It sends a clear message that the builders are in this journey for the long haul
 | :------------: | :------------: |
 |  `10,000,000`  |       `5`      |
 
-## Private Sales of PoLN
-
 Private sales play a pivotal role in the initial stages of a project's life cycle. 
 
 They enable projects to secure funding and support from select investors who share a mutual vision for the project's future. 
@@ -174,12 +172,12 @@ Investors participating in this round will be able to purchase $POLN tokens at a
 
 This offers early backers a favorable entry point, underscoring their commitment and belief in PoLN's long-term potential.
 
-| **Detail**                 |     **Value**     |
-|:--------------------------:|:----------------:|
-| Funds to be Raised         |   `$1,000,000`   |
-| Token Price                |      `$0.2`      |
-| Total Tokens Allocated     | `5,000,000 $POLN`|
-| Percentage of Private Sale Pool | `50.00%`  |
+| Detail                     |       Value      |
+| -------------------------- |:----------------:|
+| **Funds to be Raised**         |   `$1,000,000`   |
+| **Token Price**                |      `$0.2`      |
+| **Total Tokens Allocated**     | `5,000,000 $POLN`|
+| **Percentage of Private Sales Pool** | `50.00%`  |
 
 ### Second Round: Strategic Partners
 
@@ -189,12 +187,12 @@ Investors in this phase will obtain $POLN at $0.4 per token.
 
 This round targets strategic partners who can not only provide capital but also bring in synergies, resources, and networks that can propel PoLN's adoption and growth.
 
-| **Detail**                 |     **Value**     |
-|:--------------------------:|:----------------:|
-| Funds to be Raised         |   `$1,000,000`   |
-| Token Price                |      `$0.4`      |
-| Total Tokens Allocated     | `2,500,000 $POLN`|
-| Percentage of Private Sale Pool | `25.00%`  |
+| Detail                     |       Value      |
+| -------------------------- |:----------------:|
+| **Funds to be Raised**         |   `$1,000,000`   |
+| **Token Price**                |      `$0.4`      |
+| **Total Tokens Allocated**     | `2,500,000 $POLN`|
+| **Percentage of Private Sales Pool** | `25.00%`  |
 
 ### Third Round: Expansion & Growth
 
@@ -204,12 +202,12 @@ Tokens in this phase will be priced at $1 each.
 
 This round is designed for participants who recognize PoLN's potential for broader market expansion and are prepared to support its scaling efforts at a higher valuation.
 
-| **Detail**                 |     **Value**     |
-|:--------------------------:|:----------------:|
-| Funds to be Raised         |   `$2,500,000`   |
-| Token Price                |      `$1`        |
-| Total Tokens Allocated     | `2,500,000 $POLN`|
-| Percentage of Private Sale Pool | `25.00%`  |
+| Detail                     |       Value      |
+| -------------------------- |:----------------:|
+| **Funds to be Raised**         |   `$2,500,000`   |
+| **Token Price**                |      `$1`        |
+| **Total Tokens Allocated**     | `2,500,000 $POLN`|
+| **Percentage of Private Sales Pool** | `25.00%`  |
 
 ## Community/DAO (Treasury)
 
