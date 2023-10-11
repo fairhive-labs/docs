@@ -34,7 +34,7 @@ layout:
 | **Pre-minted**                 |                                       `true`                                      |
 | **Builder’s vesting schedule** |                              `Progressive / 3 years`                              |
 
-**Issuance**
+## Issuance
 
 {% hint style="success" %}
 $POLN - pronounced _pollen -_ tokens are pre-minted.
