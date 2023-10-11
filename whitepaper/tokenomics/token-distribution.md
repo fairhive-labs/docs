@@ -46,6 +46,34 @@ The challenge, however, is to provide widespread access while simultaneously dis
 
 A well-orchestrated public sales strategy—comprising both Initial DEX Offerings (IDO) and Initial Exchange Offerings (IEO)—serves as a solution. This approach not only offers immediate accessibility but also encourages long-term engagement and commitment to the PoLN ecosystem.
 
+### Initial DEX Offering (IDO)
+
+Embracing the ethos of decentralization and aiming for a solid introduction of $POLN in the market, the first strategic step involves an Initial DEX Offering (IDO). 
+
+This represents 30% of the public sales and listing pool, amounting to 30,000,000 $POLN. 
+
+The primary intent behind an IDO is to engage with the core DeFi community and early adopters. 
+
+Through an IDO, there's an opportunity for a fair and wide initial distribution, promoting community ownership. This method also provides a platform for organic price discovery, setting the stage for a sustainable market value of $POLN.
+
+### Initial Exchange Offering (IEO)
+
+Subsequent to the IDO, the plan is to expand $POLN's reach and accessibility with an Initial Exchange Offering (IEO). 
+
+This phase will use 50% of the public sales and listing pool, equating to 50,000,000 $POLN. 
+
+An IEO is a strategy to capitalize on the reputation of established centralized exchanges, crucial for presenting $POLN to a more extensive and potentially global investor base. 
+
+Centralized exchanges offer advantages in terms of promotional reach, visibility, security, seamless acquisition, and potential price stability due to the controlled token release mechanisms typical of IEOs.
+
+### Exchange Listing
+
+To ensure sustained accessibility, liquidity, and growth potential for $POLN, 20% of the public sales and listing pool (which is 20,000,000 $POLN) is allocated for liquidity provisions on various exchange listings. 
+
+Listing $POLN on a combination of decentralized and centralized exchanges aims to provide choice, accessibility, and smooth trading experiences to users.
+
+Such diverse listing platforms promote a decentralized token holding pattern and, in turn, reinforce the overall ecosystem's health.
+
 ## Initiator Rewards
 
 | Tokens ($POLN) | Percentage (%) |
