@@ -22,19 +22,19 @@ layout:
 
 ## Attributes
 
-| Property                       |                 Value                |
-| ------------------------------ | :----------------------------------: |
-| **Name**                       |            `PoLN’s token`            |
-| **Symbol**                     |                `$POLN`               |
-| **Type**                       |                `ERC20`               |
-| **Decimals**                   |                 `18`                 |
-| **Subunits**                   | `nPOLN (1 nPOLN = 0.000000001 POLN)` |
-| **Max supply**                 |           `200,000,000.00`           |
-| **Fixed supply**               |                `true`                |
-| **Pre-minted**                 |                `true`                |
-| **Builder’s vesting schedule** |        `Progressive / 3 years`       |
+| Property                       |                                       Value                                       |
+| ------------------------------ | :-------------------------------------------------------------------------------: |
+| **Name**                       |                                   `PoLN’s token`                                  |
+| **Symbol**                     |                                       `POLN`                                      |
+| **Type**                       |                                      `ERC20`                                      |
+| **Decimals**                   |                                        `18`                                       |
+| **Subunits**                   | $$\small NanoPOLN:1\ nPOLN = 10^{-9}\ POLN\\ AttoPOLN:1\ aPOLN = 10^{-18}\ POLN$$ |
+| **Max supply**                 |                                  `200,000,000.00`                                 |
+| **Fixed supply**               |                                       `true`                                      |
+| **Pre-minted**                 |                                       `true`                                      |
+| **Builder’s vesting schedule** |                              `Progressive / 3 years`                              |
 
-## **Issuance**
+**Issuance**
 
 {% hint style="success" %}
 $POLN - pronounced _pollen -_ tokens are pre-minted.
