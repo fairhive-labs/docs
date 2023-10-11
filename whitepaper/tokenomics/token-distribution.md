@@ -32,15 +32,19 @@ Every project or piece of work undertaken fuels this dynamic ecosystem, ensuring
 
 The following detailed breakdown elucidates the allocation priorities of the $POLN token, highlighting a dedication to forging a balanced, utility-driven ecosystem.
 
-## Public Sales
+## Public Sales and Listings Strategy
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
 |  `100,000,000` |      `50`      |
 
-Provides broad and decentralized access to $POLN. Ensures a wide user base and discourages concentrated power.
+The design and distribution of the $POLN token underscores PoLN's commitment to ensuring broad and decentralized access.
 
-It's crucial to manage the distribution to avoid short-term speculative selling and to encourage long-term engagement.
+Such accessibility, while promoting decentralization, also seeks to discourage concentrated power within the ecosystem. 
+
+The challenge, however, is to provide widespread access while simultaneously discouraging short-term speculative behaviors.
+
+A well-orchestrated public sales strategy—comprising both Initial DEX Offerings (IDO) and Initial Exchange Offerings (IEO)—serves as a solution. This approach not only offers immediate accessibility but also encourages long-term engagement and commitment to the PoLN ecosystem.
 
 ## Initiator Rewards
 
