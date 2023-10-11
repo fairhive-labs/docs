@@ -1,6 +1,6 @@
 ---
 description: >-
-  PoLN's architecture employs smart contracts on an Ethereum-compatible network,
+  PoLN's architecture employs smart contracts on Ethereum-compatible networks,
   ensuring decentralized operation, wide interoperability, and potent business
   dynamics.
 ---
