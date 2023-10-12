@@ -48,48 +48,50 @@ PoLN believes in the collective strength of the developer community.
 
 By making the entire codebase accessible on fairhive-lab’s GitHub, PoLN invites collective innovation, feedback, and enhancements, all while ensuring transparency.
 
+---
+
 {% hint style="success" %}
 The architectural foundation of PoLN is meticulously crafted, intertwining technology with vision. 
 
-Each architectural decision echoes one or more of its ten core objectives.
+Each architectural decision echoes one or more of its ten core objectives:
 
-**1. Forge a Supportive Community**
+1. **Forge a Supportive Community**:
 
 The architecture is deeply rooted in collaboration. The open-source nature of the protocol, with all its code hosted on fairhive-lab’s GitHub, ensures an environment where the community can actively engage, contribute, and have a sense of collective ownership.
 
-**2. Foster Inclusivity and Accessibility**
+2. **Foster Inclusivity and Accessibility**:
 
 Designed for widespread access, the multi-blockchain compatibility ensures that PoLN reaches users across diverse Ethereum-compatible chains, thus broadening the horizon for interactions.
 
-**3. Empower Labor**
+3. **Empower Labor**:
 
 The decision to decentralize backend services and embrace smart contracts ensures that every contributor's work is transparently recognized, validating individual roles and empowering labor.
 
-**4. Facilitate Equitable Wealth Distribution**
+4. **Facilitate Equitable Wealth Distribution**:
 
 Structured public and private sales strategies have been designed to prevent undue concentration of tokens, making certain that the distribution of $POLN is broad and equitable.
 
-**5. Promote Ethical Transactions**
+5. **Promote Ethical Transactions**
 
 All transactions on PoLN are transparent and immutable due to their on-chain nature, ensuring traceability and accountability, which in turn fosters ethical behavior.
 
-**6. Implement Secure and Rapid Crypto-Payments**
+6. **Implement Secure and Rapid Crypto-Payments**:
 
 PoLN's smart contracts ensure rapidity in settlements. The security and efficiency of established blockchain networks are leveraged for crypto-payments.
 
-**7. Enhance Stakeholder Participation**
+7. **Enhance Stakeholder Participation**:
 
 Off-chain services in PoLN are designed to be interactive and community-driven. Tools like Metamask facilitate direct protocol interactions for stakeholders.
 
-**8. Community-Driven Protocol Development**
+8. **Community-Driven Protocol Development**:
 
 The community stands at the forefront of the protocol's evolution. The open and modular nature of the architecture ensures that PoLN continually adapts based on collective decisions.
 
-**9. Drive Innovation and Modernization**
+9. **Drive Innovation and Modernization**:
 
 With a frontend crafted with Angular and the integration of ethers.js, PoLN promises a contemporary user experience. Continuous technological updates are facilitated via platforms like GitHub and CircleCI.
 
-**10. Strengthen Trust and Reliability**
+10. **Strengthen Trust and Reliability**:
 
 The emphasis on transparency and the usage of reliable services like Heroku and AWS ensure the unwavering trustworthiness and reliability of the PoLN ecosystem.
 {% endhint %}
