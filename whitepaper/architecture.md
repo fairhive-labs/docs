@@ -25,6 +25,16 @@ layout:
 
 With a design that's scalable, flexible, and robust, PoLN's architecture stands prepared to redefine the paradigms of decentralized systems.
 
+PoLN's architectural journey represents a meticulous vision set in phases. Initially, it manifests as a decentralized application (dApp), focusing on solving tangible problems and offering real-world utility through smart contracts. This dApp is an immediate representation of PoLN's ideals, bridging the contemporary digital space with decentralized solutions and fostering inclusivity.
+
+However, the broader vision transcends beyond a dApp. PoLN aspires to evolve into a protocol, an underlying foundation upon which myriad applications, services, and solutions can be built. But this isn't the terminal point; there's another layer to this evolution.
+
+PoLN is also exploring the world of 'Application Specific Blockchains' (ASBCs). ASBCs are blockchains tailored for a specific purpose or application. Rather than being a jack-of-all-trades, they excel in one domain, offering unparalleled efficiency and optimization for their designated function. In PoLN's case, an ASBC would be a blockchain finely-tuned to its ecosystem's unique needs and challenges, ensuring faster transactions, reduced costs, and a governance model perfectly aligned with its objectives.
+
+{% hint style="success" %}
+This multi-layered approach, starting from a dApp and potentially culminating into an ASBC, ensures that PoLN remains agile, scalable, and ever-evolving to cater to the diverse needs of its community and the ever-changing landscape of decentralized technology.
+{% endhint %}
+
 ## Multi-Blockchain Compatibility
 
 PoLN isn't bound to a single Ethereum chain but thrives on the interoperability offered by Ethereum-compatible platforms.
@@ -68,8 +78,6 @@ Cloud platforms like Heroku and AWS further enhance the system's accessibility, 
 PoLN believes in the collective strength of the developer community.
 
 By making the entire codebase accessible on fairhive-lab’s GitHub, PoLN invites collective innovation, feedback, and enhancements, all while ensuring transparency.
-
-***
 
 {% hint style="success" %}
 The architectural foundation of PoLN is meticulously crafted, intertwining technology with vision.
