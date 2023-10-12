@@ -166,16 +166,16 @@ For PoLN, private sales will facilitate the garnering of essential early support
 
 ### First Round: Seed Investors
 
-In the inaugural private sale round, the goal is to raise $2,000,000. 
+In the inaugural private sale round, the goal is to raise $1,000,000. 
 
-Investors participating in this round will be able to purchase $POLN tokens at a rate of $0.5 per token. 
+Investors participating in this round will be able to purchase $POLN tokens at a rate of $0.25 per token. 
 
 This offers early backers a favorable entry point, underscoring their commitment and belief in PoLN's long-term potential.
 
 | Detail                     |       Value      |
 | -------------------------- |:----------------:|
-| **Funds to be Raised**         |   `$2,000,000`   |
-| **Token Price**                |      `$0.5`      |
+| **Funds to be Raised**         |   `$1,000,000`   |
+| **Token Price**                |      `$0.25`      |
 | **Total Tokens Allocated**     | `4,000,000 $POLN`|
 | **Percentage of Private Sales Pool** | `40.00%`  |
 
@@ -196,16 +196,16 @@ This round targets strategic partners who can not only provide capital but also 
 
 ### Third Round: Expansion & Growth
 
-The final private sale round seeks to raise a substantial $6,000,000.
+The final private sale round seeks to raise a substantial $15,000,000.
 
-Tokens in this phase will be priced at $2 each. 
+Tokens in this phase will be priced at $5 each. 
 
 This round is designed for participants who recognize PoLN's potential for broader market expansion and are prepared to support its scaling efforts at a higher valuation.
 
 | Detail                     |       Value      |
 | -------------------------- |:----------------:|
-| **Funds to be Raised**         |   `$6,000,000`   |
-| **Token Price**                |      `$2`        |
+| **Funds to be Raised**         |   `$15,000,000`   |
+| **Token Price**                |      `$5`        |
 | **Total Tokens Allocated**     | `3,000,000 $POLN`|
 | **Percentage of Private Sales Pool** | `30.00%`  |
 
