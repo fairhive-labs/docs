@@ -7,22 +7,43 @@ description: >-
 
 # ⏳ (PEND) Architecture Overview
 
-It ‘s an **amazing solution** if you want to **decentralize backend services**.
+With a design that's scalable, flexible, and robust, PoLN's architecture stands prepared to redefine the paradigms of decentralized systems.
 
-There are also **many Ethereum compatible projects** providing, today, the **capability** **to** **work** **with** different **Ethereum blockchains**, supporting a kind of interoperability with new protocols and new projects.
+## Multi-Blockchain Compatibility
+PoLN isn't bound to a single Ethereum chain but thrives on the interoperability offered by Ethereum-compatible platforms. 
 
-**On-chain** backend services (_smart contracts_) will be developed using **solidity**, deployed on testnet and then on mainnet.
+By leveraging these platforms, PoLN's smart contracts can be deployed across various networks, ensuring flexibility and a broader reach.
 
-**Off-chain** services (_secured rest api_) will be developed using **golang**, tested and deployed on **Docker/Kubernetes** cloud clusters.
+## On-Chain Dynamics
+The heart of PoLN lies in its smart contracts. 
 
-They will also access the smart contract services.
+These on-chain scripts, developed in Solidity, function as self-executing contracts where the terms directly written into code lines. 
 
-**Frontend** will leverage [**metamask**](https://metamask.io/download/) and coinbase wallet plugins into an **Angular** application (_webapp_) using [**ethers.js**](https://docs.ethers.io/) open library.
+Before making their mark on the mainnet, these contracts undergo thorough testing on testnets, ensuring they're error-free and optimized for performance and security.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*370PTuGSwp8JzjygYRsXdw.jpeg" alt="" height="332" width="700"><figcaption><p>PoLN’s web3 design</p></figcaption></figure>
+## Off-Chain Prowess
+Our off-chain components, developed in GoLang, serve as bridges between the on-chain data and the users. 
 
-**All code sources will be open** and hosted on fairhive-lab’s G**ithub.**
+These RESTful APIs not only ensure swift data retrieval and manipulation but also seamlessly integrate with the smart contracts, offering a harmonious blend of speed and security.
 
-Frontend and Rest-API images will be built and deployed thanks to devops features of G**ithub** and **CircleCI.**
+The use of Docker/Kubernetes clusters for deployment signifies PoLN's commitment to a hyper-scalable architecture, ready to handle surges in demand.
 
-Rest-API services will be deployed **on Heroku** and **AWS.**
+## User Interaction & Frontend
+The frontend, crafted in Angular, serves as the user's gateway to PoLN's protocol.
+
+It's designed with user experience at the forefront, ensuring smooth interactions. 
+
+Integration with wallets like [MetaMask](https://metamask.io/download/) and Coinbase becomes seamless, courtesy of the [ethers.js](https://docs.ethers.io/) library, facilitating easy and secure transactions.
+
+
+## Seamless Deployment & DevOps
+In the rapidly evolving world of tech, continuous deployment is not just an advantage but a necessity. 
+
+GitHub and GitHub Actions synergize to ensure our services, be it frontend or REST API, always run the latest, most optimized versions.
+
+Cloud platforms like Heroku and AWS further enhance the system's accessibility, ensuring high availability and performance.
+
+## Open Source – A Commitment
+PoLN believes in the collective strength of the developer community. 
+
+By making the entire codebase accessible on fairhive-lab’s GitHub, PoLN invites collective innovation, feedback, and enhancements, all while ensuring transparency.
