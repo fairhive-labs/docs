@@ -8,7 +8,7 @@
 * [What is PoLN ?](what.md)
 * [Tokenomics](tokenomics/README.md)
   * [Attributes and Issuance](tokenomics/token-details.md)
-  * [⛏ (WIP) Distribution](tokenomics/token-distribution.md)
+  * [Distribution](tokenomics/token-distribution.md)
   * [Utility](tokenomics/utility.md)
   * [Demand](tokenomics/demand.md)
   * [Value Captured](tokenomics/value-captured.md)

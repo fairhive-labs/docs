@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# ⛏ (WIP) Distribution
+# Distribution
 
 In the decentralized space, PoLN emerges as a pivotal protocol, bridging contractors with exciting projects and work.
 
@@ -40,7 +40,7 @@ The following detailed breakdown elucidates the allocation priorities of the $PO
 
 The design and distribution of the $POLN token underscores PoLN's commitment to ensuring broad and decentralized access.
 
-Such accessibility, while promoting decentralization, also seeks to discourage concentrated power within the ecosystem. 
+Such accessibility, while promoting decentralization, also seeks to discourage concentrated power within the ecosystem.
 
 The challenge, however, is to provide widespread access while simultaneously discouraging short-term speculative behaviors.
 
@@ -48,27 +48,27 @@ A well-orchestrated public sales strategy—comprising both Initial DEX Offering
 
 ### Initial DEX Offering (IDO)
 
-Embracing the ethos of decentralization and aiming for a solid introduction of $POLN in the market, the first strategic step involves an Initial DEX Offering (IDO). 
+Embracing the ethos of decentralization and aiming for a solid introduction of $POLN in the market, the first strategic step involves an Initial DEX Offering (IDO).
 
-This represents 30% of the public sales and listing pool, amounting to 30,000,000 $POLN. 
+This represents 30% of the public sales and listing pool, amounting to 30,000,000 $POLN.
 
-The primary intent behind an IDO is to engage with the core DeFi community and early adopters. 
+The primary intent behind an IDO is to engage with the core DeFi community and early adopters.
 
 Through an IDO, there's an opportunity for a fair and wide initial distribution, promoting community ownership. This method also provides a platform for organic price discovery, setting the stage for a sustainable market value of $POLN.
 
 ### Initial Exchange Offering (IEO)
 
-Subsequent to the IDO, the plan is to expand $POLN's reach and accessibility with an Initial Exchange Offering (IEO). 
+Subsequent to the IDO, the plan is to expand $POLN's reach and accessibility with an Initial Exchange Offering (IEO).
 
-This phase will use 50% of the public sales and listing pool, equating to 50,000,000 $POLN. 
+This phase will use 50% of the public sales and listing pool, equating to 50,000,000 $POLN.
 
-An IEO is a strategy to capitalize on the reputation of established centralized exchanges, crucial for presenting $POLN to a more extensive and potentially global investor base. 
+An IEO is a strategy to capitalize on the reputation of established centralized exchanges, crucial for presenting $POLN to a more extensive and potentially global investor base.
 
 Centralized exchanges offer advantages in terms of promotional reach, visibility, security, seamless acquisition, and potential price stability due to the controlled token release mechanisms typical of IEOs.
 
 ### Exchange Listing
 
-To ensure sustained accessibility, liquidity, and growth potential for $POLN, 20% of the public sales and listing pool (which is 20,000,000 $POLN) is allocated for liquidity provisions on various exchange listings. 
+To ensure sustained accessibility, liquidity, and growth potential for $POLN, 20% of the public sales and listing pool (which is 20,000,000 $POLN) is allocated for liquidity provisions on various exchange listings.
 
 Listing $POLN on a combination of decentralized and centralized exchanges aims to provide choice, accessibility, and smooth trading experiences to users.
 
@@ -158,26 +158,26 @@ It sends a clear message that the builders are in this journey for the long haul
 | :------------: | :------------: |
 |  `10,000,000`  |       `5`      |
 
-Private sales play a pivotal role in the initial stages of a project's life cycle. 
+Private sales play a pivotal role in the initial stages of a project's life cycle.
 
-They enable projects to secure funding and support from select investors who share a mutual vision for the project's future. 
+They enable projects to secure funding and support from select investors who share a mutual vision for the project's future.
 
 For PoLN, private sales will facilitate the garnering of essential early support and capital to fuel its growth and development.
 
 ### First Round: Seed Investors
 
-In the inaugural private sale round, the goal is to raise $1,000,000. 
+In the inaugural private sale round, the goal is to raise $1,000,000.
 
-Investors participating in this round will be able to purchase $POLN tokens at a rate of $0.25 per token. 
+Investors participating in this round will be able to purchase $POLN tokens at a rate of $0.25 per token.
 
 This offers early backers a favorable entry point, underscoring their commitment and belief in PoLN's long-term potential.
 
-| Detail                     |       Value      |
-| -------------------------- |:----------------:|
-| **Funds to be Raised**         |   `$1,000,000`   |
-| **Token Price**                |      `$0.25`      |
-| **Total Tokens Allocated**     | `4,000,000 $POLN`|
-| **Percentage of Private Sales Pool** | `40.00%`  |
+| Detail                               |       Value       |
+| ------------------------------------ | :---------------: |
+| **Funds to be Raised**               |    `$1,000,000`   |
+| **Token Price**                      |      `$0.25`      |
+| **Total Tokens Allocated**           | `4,000,000 $POLN` |
+| **Percentage of Private Sales Pool** |      `40.00%`     |
 
 ### Second Round: Strategic Partners
 
@@ -187,27 +187,27 @@ Investors in this phase will obtain $POLN at $1 per token.
 
 This round targets strategic partners who can not only provide capital but also bring in synergies, resources, and networks that can propel PoLN's adoption and growth.
 
-| Detail                     |       Value      |
-| -------------------------- |:----------------:|
-| **Funds to be Raised**         |   `$3,000,000`   |
-| **Token Price**                |      `$1`      |
-| **Total Tokens Allocated**     | `3,000,000 $POLN`|
-| **Percentage of Private Sales Pool** | `30.00%`  |
+| Detail                               |       Value       |
+| ------------------------------------ | :---------------: |
+| **Funds to be Raised**               |    `$3,000,000`   |
+| **Token Price**                      |        `$1`       |
+| **Total Tokens Allocated**           | `3,000,000 $POLN` |
+| **Percentage of Private Sales Pool** |      `30.00%`     |
 
 ### Third Round: Expansion & Growth
 
 The final private sale round seeks to raise a substantial $15,000,000.
 
-Tokens in this phase will be priced at $5 each. 
+Tokens in this phase will be priced at $5 each.
 
 This round is designed for participants who recognize PoLN's potential for broader market expansion and are prepared to support its scaling efforts at a higher valuation.
 
-| Detail                     |       Value      |
-| -------------------------- |:----------------:|
-| **Funds to be Raised**         |   `$15,000,000`   |
-| **Token Price**                |      `$5`        |
-| **Total Tokens Allocated**     | `3,000,000 $POLN`|
-| **Percentage of Private Sales Pool** | `30.00%`  |
+| Detail                               |       Value       |
+| ------------------------------------ | :---------------: |
+| **Funds to be Raised**               |   `$15,000,000`   |
+| **Token Price**                      |        `$5`       |
+| **Total Tokens Allocated**           | `3,000,000 $POLN` |
+| **Percentage of Private Sales Pool** |      `30.00%`     |
 
 ## Community/DAO (Treasury)
 
