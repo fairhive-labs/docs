@@ -43,7 +43,7 @@ layout:
             <td></td>
         </tr>
         <tr>
-            <td><h2>CEO/CTO - whyvrafvr</h2></td>
+            <td><h1>CEO/CTO - whyvrafvr</h1></td>
             <td>
                 <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.
                 </p><p>&nbsp;</p>
