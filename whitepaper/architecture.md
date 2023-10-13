@@ -21,9 +21,11 @@ layout:
     visible: true
 ---
 
-# ⛏ (WIP) Architecture Overview
+# Architecture Overview
 
 With a design that's scalable, flexible, and robust, PoLN's architecture stands prepared to redefine the paradigms of decentralized systems.
+
+<figure><img src=".gitbook/assets/ADO.jpg" alt=""><figcaption><p>Architectural Diagram Overview</p></figcaption></figure>
 
 PoLN's architectural journey represents a meticulous vision set in phases. Initially, it manifests as a decentralized application (dApp), focusing on solving tangible problems and offering real-world utility through smart contracts. This dApp is an immediate representation of PoLN's ideals, bridging the contemporary digital space with decentralized solutions and fostering inclusivity.
 
