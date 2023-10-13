@@ -46,10 +46,10 @@ layout:
             <td><strong>CEO/CTO - whyvrafvr</strong></td>
             <td>
                 <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.
-                </p><p> &nbsp;</p>
+                </p><p>&nbsp;</p>
                 <p>As a CTO and Architect, he excels in crafting scalable solutions using the latest technologies. </p>
                 <p>A seasoned freelance executive, he has a rich history of leading major projects and scaling them
-                    effectively. </p><p> &nbsp;</p>
+                    effectively. </p><p>&nbsp;</p>
                 <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
             </td>
             <td><a href=".gitbook/assets/whyvra.png">jsie.png</a></td>
