@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Waitlist
+# ⛏ (WIP) Waitlist
 
 {% hint style="info" %}
 Transparency stands as a cornerstone in the emerging world of web3 projects.&#x20;
@@ -37,3 +37,15 @@ By doing so, PoLN aims to create a thriving ecosystem, underpinned by shared val
 In the broader context of blockchain and decentralized platforms, where trustless interactions are celebrated, PoLN's commitment to transparency further solidifies its position.&#x20;
 
 After all, in a realm where code often acts as the law, the ability for all to see, review, and understand that code becomes fundamental to the project's success and longevity.
+
+## Roles / Categories
+
+## Detailed workflow
+
+### Registration
+
+### Activation
+
+### Complete sequence diagram
+
+## Future Improvements
