@@ -4,7 +4,7 @@ description: >-
   extracted claims.
 ---
 
-# Step #2 - Activation
+# 🚧 (PEND) Step #2 - Activation
 
 Finally, the user has to:
 

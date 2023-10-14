@@ -1,20 +1,39 @@
 ---
 description: >-
-  In this article, we’re willing to detail how pre-registration workflow
-  (waitlist) is implemented from off-chain perspective.
-cover: >-
-  https://images.unsplash.com/photo-1659896975336-4ff776bedb86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx2YWxpZGF0ZXxlbnwwfHx8fDE2ODkxMTUwMDV8MA&ixlib=rb-4.0.3&q=85
+  This article delves into the intricacies of the off-chain implementation of
+  the PoLN pre-registration process, known as the waitlist.
+cover: .gitbook/assets/ticket_validator.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# ⛏ (WIP) Waitlist
+# Waitlist
 
-**Transparency** is very important to us and **we believe people should not trust open projects obfuscating their source code** in private repositories…
+{% hint style="info" %}
+Transparency stands as a cornerstone in the emerging world of web3 projects.&#x20;
+{% endhint %}
 
-For what it’s worth, **poln is a new web3 project** and **all** **sources are published in public repositories!**
+PoLN embodies this ethos, emphasizing the importance of openness and accountability. In a landscape where the trust of stakeholders is paramount, maintaining public visibility into source code becomes not just an ethical choice, but a strategic one.
 
-They can be forked and implementation can be duplicated or modified.
+{% hint style="success" %}
+The choice to keep PoLN's source code in public repositories isn't merely about signaling honesty. It fosters a collaborative environment, encouraging community contributions, peer reviews, and shared innovation.&#x20;
+{% endhint %}
 
-> BTW, this is what we expect 😅
->
-> We do believe newcomers and beginners will appreciate this “fair” approach.
+By doing so, PoLN aims to create a thriving ecosystem, underpinned by shared values and collaborative spirit.
+
+In the broader context of blockchain and decentralized platforms, where trustless interactions are celebrated, PoLN's commitment to transparency further solidifies its position.&#x20;
+
+After all, in a realm where code often acts as the law, the ability for all to see, review, and understand that code becomes fundamental to the project's success and longevity.
