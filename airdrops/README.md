@@ -108,6 +108,17 @@ This approach **prevents our system from saving temporary state** or data.
 
 ### Activation
 
+In this part, the previous token (JWT) is verified. User data is stored from extracted claims.
+
+Finally, the user has to:
+
+* open its favorite mail app and read our email,
+* copy the unique hash,
+* click on the secured link,
+* paste the unique hash on activation form (_if it’s not already filled_) and last but not least, submit the form.
+
+After multiple controls, preregistration flow is completed and a confirmation email is sent to the user 👍
+
 ### Complete sequence diagram
 
 {% hint style="info" %}
