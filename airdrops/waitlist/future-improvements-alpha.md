@@ -8,6 +8,4 @@ description: >-
 
 Regarding the next **AirDrop**, /_activate_ **Response** may trigger an on-chain transaction, **saving user data in the blockchain** and **distributing free $POLN** **tokens** 💰 to users and sponsors.
 
-{% hint style="info" %}
-Keep posted :tada:
-{% endhint %}
+> Keep posted :tada:
