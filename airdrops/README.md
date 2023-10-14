@@ -38,6 +38,8 @@ In the broader context of blockchain and decentralized platforms, where trustles
 
 After all, in a realm where code often acts as the law, the ability for all to see, review, and understand that code becomes fundamental to the project's success and longevity.
 
+***
+
 ## Roles / Categories
 
 {% hint style="success" %}
@@ -92,6 +94,7 @@ Experienced professionals or enthusiasts who, while not directly involved in day
 
 They have a genuine interest in the protocol's success and offer their expertise to help navigate challenges and seize opportunities.
 
+***
 
 ## Detailed workflow
 
@@ -127,4 +130,12 @@ For a comprehensive understanding, it is recommended to view the following schem
 
 <figure><img src="../.gitbook/assets/Pre-registration_Workflow_v2.0.png" alt=""><figcaption><p>complete pre-registration workflow</p></figcaption></figure>
 
+***
+
 ## Future Improvements
+
+User data can be stored on blockchain, generating incentives for users and sponsors.
+
+Regarding the next **AirDrop**, /_activate_ **Response** may trigger an on-chain transaction, **saving user data in the blockchain** and **distributing free $POLN** **tokens** 💰 to users and sponsors.
+
+> Keep posted :tada:
