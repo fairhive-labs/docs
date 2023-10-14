@@ -122,7 +122,7 @@ Finally, the user has to:
 
 After multiple controls, preregistration flow is completed and a confirmation email is sent to the user 👍
 
-### Complete sequence diagram
+### Sequences diagram
 
 {% hint style="info" %}
 For a comprehensive understanding, it is recommended to view the following schema in a new tab.
