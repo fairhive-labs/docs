@@ -52,7 +52,7 @@ layout:
                     effectively. </p><p>&nbsp;</p>
                 <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
             </td>
-            <td><a href=".gitbook/assets/whyvra.png">jsie.png</a></td>
+            <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
         </tr>
     </tbody>
 </table>
