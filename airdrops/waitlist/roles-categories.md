@@ -8,41 +8,53 @@ description: >-
 # Roles / Categories
 
 {% hint style="success" %}
-The fairhive-labs Waitlist is a curated registry designed to streamline engagement within the PoLN ecosystem.&#x20;
+The fairhive-labs Waitlist is a curated registry designed to streamline engagement within the PoLN ecosystem.
 
-It recognizes and categorizes various individuals and entities keen on participating in PoLN project's journey.&#x20;
+It recognizes and categorizes various individuals and entities keen on participating in PoLN project's journey.
 {% endhint %}
 
 This dynamic list is a testament to the diversity of roles and the synergy they bring:
 
-#### 1. **Initiator**:
+## Initiator
 
-An individual or entity that starts or triggers a specific action or process within the platform. They set the ball rolling, often proposing new ideas, projects, or collaborations for the community to consider or adopt.
+An individual or entity that starts or triggers a specific action or process within the platform. 
 
-#### 2. **Agent**:
+They set the ball rolling, often proposing new ideas, projects, or collaborations for the community to consider or adopt.
 
-A representative or intermediary who takes actions on behalf of others. In the context of the waitlist, they might manage or oversee certain processes, ensuring that tasks are carried out efficiently and effectively.
+## Agent
 
-#### 3. **Mentor**:
+A representative or intermediary who takes actions on behalf of others. 
 
-An experienced individual who offers guidance, support, and advice to less-experienced members. They play a crucial role in nurturing talent within the community, sharing their knowledge, and helping others navigate challenges.
+In the context of the waitlist, they might manage or oversee certain processes, ensuring that tasks are carried out efficiently and effectively.
 
-#### 4. **Contractor**:
+## Mentor
 
-A person or entity hired to perform specific tasks or services for a limited period. They might be involved in project execution, development tasks, or any other contracted work specific to the platform's needs.
+An experienced individual who offers guidance, support, and advice to less-experienced members. 
 
-#### 5. **Investor**:
+They play a crucial role in nurturing talent within the community, sharing their knowledge, and helping others navigate challenges.
 
-Individuals or entities that financially support the project by investing in $POLN. Real investors, in this context, are those who commit significant funds, typically more than $10,000. Their investment often signifies a strong belief in the project's potential and a long-term commitment to its success.
+## Contractor
 
-#### 6. **Contributor**:
+A person or entity hired to perform specific tasks or services for a limited period. 
 
-Active members of the community who assist fairhive-labs in various capacities, from protocol development to marketing initiatives. They provide invaluable support, often volunteering their time and expertise to drive the project forward.
+They might be involved in project execution, development tasks, or any other contracted work specific to the platform's needs.
 
-#### 7. **Advisor**:
+## Investor
 
-Experienced professionals or enthusiasts who, while not directly involved in day-to-day operations, provide strategic insights, recommendations, and advice to fairhive-labs. They have a genuine interest in the protocol's success and offer their expertise to help navigate challenges and seize opportunities.
+Individuals or entities that financially support the project by investing in $POLN. 
 
-***
+Real investors, in this context, are those who commit significant funds, typically more than $1,000. 
 
-This structure provides a clear understanding of each actor's role within the waitlist and the larger fairhive-labs ecosystem.
+Their investment often signifies a strong belief in the project's potential and a long-term commitment to its success.
+
+## Contributor
+
+Active members of the community who assist fairhive-labs in various capacities, from protocol development to marketing initiatives. 
+
+They provide invaluable support, often volunteering their time and expertise to drive the project forward.
+
+## Advisor
+
+Experienced professionals or enthusiasts who, while not directly involved in day-to-day operations, provide strategic insights, recommendations, and advice to fairhive-labs.
+
+They have a genuine interest in the protocol's success and offer their expertise to help navigate challenges and seize opportunities.
