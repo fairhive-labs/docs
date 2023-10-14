@@ -48,4 +48,10 @@ After all, in a realm where code often acts as the law, the ability for all to s
 
 ### Complete sequence diagram
 
+{% hint style="info" %}
+For a comprehensive understanding, it is recommended to view the following schema in a new tab.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Pre-registration_Workflow_v2.0.png" alt=""><figcaption><p>complete pre-registration workflow</p></figcaption></figure>
+
 ## Future Improvements
