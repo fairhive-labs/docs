@@ -68,6 +68,8 @@ In the context of the waitlist, they might manage or oversee certain processes, 
 
 ### Mentor
 
+<figure><img src=".gitbook/assets/PoLN - mentors.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 An experienced individual who offers guidance, support, and advice to less-experienced members.
 
 They play a crucial role in nurturing talent within the community, sharing their knowledge, and helping others navigate challenges.
