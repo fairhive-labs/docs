@@ -23,18 +23,18 @@ layout:
 # ⛏ (WIP) Waitlist
 
 {% hint style="info" %}
-Transparency stands as a cornerstone in the emerging world of web3 projects.&#x20;
+Transparency stands as a cornerstone in the emerging world of web3 projects.
 {% endhint %}
 
 PoLN embodies this ethos, emphasizing the importance of openness and accountability. In a landscape where the trust of stakeholders is paramount, maintaining public visibility into source code becomes not just an ethical choice, but a strategic one.
 
 {% hint style="success" %}
-The choice to keep PoLN's source code in public repositories isn't merely about signaling honesty. It fosters a collaborative environment, encouraging community contributions, peer reviews, and shared innovation.&#x20;
+The choice to keep PoLN's source code in public repositories isn't merely about signaling honesty. It fosters a collaborative environment, encouraging community contributions, peer reviews, and shared innovation.
 {% endhint %}
 
 By doing so, PoLN aims to create a thriving ecosystem, underpinned by shared values and collaborative spirit.
 
-In the broader context of blockchain and decentralized platforms, where trustless interactions are celebrated, PoLN's commitment to transparency further solidifies its position.&#x20;
+In the broader context of blockchain and decentralized platforms, where trustless interactions are celebrated, PoLN's commitment to transparency further solidifies its position.
 
 After all, in a realm where code often acts as the law, the ability for all to see, review, and understand that code becomes fundamental to the project's success and longevity.
 
@@ -52,11 +52,15 @@ This dynamic list is a testament to the diversity of roles and the synergy they 
 
 ### Initiator
 
+<figure><img src=".gitbook/assets/PoLN - initiators.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 An individual or entity that starts or triggers a specific action or process within the platform.
 
 They set the ball rolling, often proposing new ideas, projects, or collaborations for the community to consider or adopt.
 
 ### Agent
+
+<figure><img src=".gitbook/assets/PoLN - agents.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 A representative or intermediary who takes actions on behalf of others.
 
@@ -78,7 +82,7 @@ They might be involved in project execution, development tasks, or any other con
 
 Individuals or entities that financially support the project by investing in $POLN.
 
-Real investors, in this context, are those who commit significant funds, typically more than $1,000.
+Real investors, in this context, are those who commit significant funds, typically more than $10,000.
 
 Their investment often signifies a strong belief in the project's potential and a long-term commitment to its success.
 
@@ -99,6 +103,7 @@ They have a genuine interest in the protocol's success and offer their expertise
 ## Detailed workflow
 
 ### Registration
+
 In this very first part, the user submits a form, providing data which will be used to generate a unique token (JWT).
 
 **Token** will be **used to generate a secured link** which will be **sent by email**. It will be **used to authenticate the user** in activation part.
