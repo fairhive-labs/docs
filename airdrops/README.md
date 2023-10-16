@@ -178,10 +178,28 @@ For a comprehensive understanding, it is recommended to view the following schem
 
 ## Future Improvements
 
-After user verification, an on-chain transaction could be initiated, and based on this transaction, an airdrop of $POLN tokens can be triggered to the user's specified Ethereum address. 
+Incorporating an airdrop for users who successfully complete the registration process provides a direct incentive for participation. 
 
-This not only incentivizes users to complete the registration but also introduces them to the utility of $POLN, fostering engagement and investment in the platform.
+But when this benefit extends to sponsors as well, it adds a layer of virality to the system. Sponsors become advocates, guiding potential users through the process, ensuring they understand the value, and assisting with any hurdles. 
 
-{% hint style="info" %}
-Keep posted :tada:
+This dual-reward mechanism could foster a strong community spirit and promote organic growth. 
+
+Users aren’t just incentivized to join, but they're encouraged to bring others into the fold, creating a ripple effect of engagement.
+
+For the PoLN ecosystem, this means:
+
+1. **Increased Engagement**: With both parties (user and sponsor) standing to benefit, there's a higher likelihood of sustained interaction with the platform. Users will be keen to ensure their registration is successful, and sponsors will likely offer guidance and support to ensure the process goes smoothly.
+
+2. **Organic Growth**: Instead of solely relying on marketing campaigns, the system harnesses the power of word-of-mouth. Satisfied users and sponsors become ambassadors, sharing the benefits of PoLN with their networks.
+
+3. **Community Building**: The dual reward mechanism can create a sense of camaraderie. As sponsors help new users navigate the registration, bonds can form, fostering a tight-knit and supportive community.
+
+4. **Enhanced Trust**: A recommendation from a trusted source, like a sponsor, can hold more weight than an advertisement. New users brought in through sponsors may have a higher level of trust in the platform from the outset.
+
+5. **Economic Distribution**: By rewarding both users and sponsors, the distribution of $POLN tokens becomes more decentralized. This can help avoid large concentrations of tokens in the hands of a few, promoting equitable growth.
+
+In conclusion, by integrating an on-chain transaction airdrop that benefits both the user and their sponsor, PoLN has the potential to create a dynamic and expanding community. 
+
+{% hint style="success" %}
+This approach doesn't just introduce users to the PoLN ecosystem; it embeds them within it, incentivizing further exploration, interaction, and advocacy.
 {% endhint %}
