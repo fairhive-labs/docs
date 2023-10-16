@@ -134,7 +134,9 @@ This token serves a dual purpose.
 
 Firstly, it safeguards the system by eliminating the need to store user data temporarily, mitigating risks from both brute force and denial-of-service attacks. 
 
-Secondly, the token ensures that the user provides a genuine email address. By sending an authentication link to the provided email address, the system ensures that only those with access to the email can proceed, verifying its authenticity. This strategy effectively prevents the use of fake or incorrect email addresses, as the registration process can't advance without accessing and authenticating through the sent link.
+Secondly, the token ensures that the user provides a genuine email address. By sending an authentication link to the provided email address, the system ensures that only those with access to the email can proceed, verifying its authenticity. 
+
+This strategy effectively prevents the use of fake or incorrect email addresses, as the registration process can't advance without accessing and authenticating through the sent link.
 
 {% hint style="success" %}
 In addition to the secured access link, the email also contains a distinct hash, generated from the token's attributes, enhancing security measures for the upcoming activation phase.
@@ -142,16 +144,27 @@ In addition to the secured access link, the email also contains a distinct hash,
 
 ### Activation
 
-In this part, the previous token (JWT) is verified. User data is stored from extracted claims.
+Following the initial registration, the user receives an activation email containing a secured link and a unique hash. 
 
-Finally, the user has to:
+This link is their gateway into the PoLN ecosystem. When the user clicks on this link, they're prompted to submit the hash, solidifying their commitment.
 
-* open its favorite mail app and read our email,
-* copy the unique hash,
-* click on the secured link,
-* paste the unique hash on activation form (_if it’s not already filled_) and last but not least, submit the form.
+Now, the PoLN system is thorough and vigilant. 
 
-After multiple controls, preregistration flow is completed and a confirmation email is sent to the user 👍
+It starts by ensuring that users aren't bombarding it with excessive requests. 
+
+With that assurance, it verifies the provided hash. Any discrepancy here, and the user is deemed unauthorized, halting the process.
+
+Should the hash prove authentic, the system then turns its scrutiny towards the token, specifically its claims. 
+
+An error at this stage again results in the user being marked as unauthorized, stopping the verification. 
+
+But if everything checks out, the system extracts the user's data, encrypts it for safety—paying special attention to the email—and stores it securely.
+
+To round off this intricate journey, a confirmation email is sent to the user, signaling the successful completion of the activation process. 
+
+{% hint style="success" %}
+Every step is designed to ensure user authenticity and the highest levels of data integrity.
+{% endhint %}
 
 ### Sequences diagram
 
