@@ -114,14 +114,30 @@ They have a genuine interest in the protocol's success and offer their expertise
 
 ### Registration
 
-In this very first part, the user submits a form, providing data which will be used to generate a unique token (JWT).
+The initial phase of the waitlist process starts when a user fills out the registration form. 
 
-**Token** will be **used to generate a secured link** which will be **sent by email**. It will be **used to authenticate the user** in activation part.
+This form requires the user to provide several vital details:
+- **Email Address**: A valid email for communications and further instructions.
+- **Public Address**: The user’s blockchain address, linking future interactions to their identity.
+- **Category Selection**: Based on the user's intended role in the ecosystem, be it as a contributor, investor, advisor, etc.
+- **Sponsor's Public Address**: If introduced by an existing participant, the user can list the public address of their sponsor.
 
-Email will also **include** **a unique hash** (based on token’s claims).
+After submitting this form, the system creates a unique secure token, representing the user's provided data. 
+
+This is known as a **JSON Web Token (JWT)**. Essentially, a JWT is a compact, URL-safe means of representation to claim between two parties.
 
 {% hint style="success" %}
-This approach **prevents our system from saving temporary state** or data.
+It offers a lightweight and stateless authentication mechanism that doesn't require storing session data on the server, making it inherently scalable.
+{% endhint %}
+
+This token serves a dual purpose. 
+
+Firstly, it safeguards the system by eliminating the need to store user data temporarily, mitigating risks from both brute force and denial-of-service attacks. 
+
+Secondly, the token ensures that the user provides a genuine email address. By sending an authentication link to the provided email address, the system ensures that only those with access to the email can proceed, verifying its authenticity. This strategy effectively prevents the use of fake or incorrect email addresses, as the registration process can't advance without accessing and authenticating through the sent link.
+
+{% hint style="success" %}
+In addition to the secured access link, the email also contains a distinct hash, generated from the token's attributes, enhancing security measures for the upcoming activation phase.
 {% endhint %}
 
 ### Activation
