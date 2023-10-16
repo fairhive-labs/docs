@@ -1,3 +1,3 @@
 # Table of contents
 
-* [⛏ (WIP) Waitlist](README.md)
+* [Waitlist](README.md)
