@@ -206,7 +206,8 @@ This approach doesn't just introduce users to the PoLN ecosystem; it embeds them
 
 ### Propositions
 
-#### NFT Badges
+<details>
+<summary>NFT Badges</summary>
 
 Integrating a gamified approach through NFT badges into the waitlist process can be an exciting way to incentivize and engage users.
 
@@ -237,3 +238,5 @@ While NFTs bring numerous benefits, they also come with environmental concerns d
 {% hint style="success" %}
 In conclusion, introducing NFT badges to the waitlist process adds a layer of fun, recognition, and value for the users. It becomes not just about being part of a list, but being recognized, rewarded, and having a tangible digital asset that can be showcased, shared, and even traded. This approach can significantly boost engagement, drive early registrations, and create a buzz around the PoLN ecosystem.
 {% endhint %}
+
+</details>
