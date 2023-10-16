@@ -76,11 +76,15 @@ They play a crucial role in nurturing talent within the community, sharing their
 
 ### Contractor
 
+<figure><img src=".gitbook/assets/PoLN - contractors.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 A person or entity hired to perform specific tasks or services for a limited period.
 
 They might be involved in project execution, development tasks, or any other contracted work specific to the platform's needs.
 
 ### Investor
+
+<figure><img src=".gitbook/assets/PoLN - investors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Individuals or entities that financially support the project by investing in $POLN.
 
@@ -90,11 +94,15 @@ Their investment often signifies a strong belief in the project's potential and 
 
 ### Contributor
 
+<figure><img src=".gitbook/assets/PoLN - contributors.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 Active members of the community who assist fairhive-labs in various capacities, from protocol development to marketing initiatives.
 
 They provide invaluable support, often volunteering their time and expertise to drive the project forward.
 
 ### Advisor
+
+<figure><img src=".gitbook/assets/PoLN - advisors.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Experienced professionals or enthusiasts who, while not directly involved in day-to-day operations, provide strategic insights, recommendations, and advice to fairhive-labs.
 
