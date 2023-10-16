@@ -112,6 +112,14 @@ They have a genuine interest in the protocol's success and offer their expertise
 
 ## Detailed workflow
 
+### Sequence diagram
+
+{% hint style="info" %}
+For a comprehensive understanding, it is recommended to view the following schema in a new tab.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/Pre-registration_Workflow_v2.0.png" alt=""><figcaption></figcaption></figure>
+
 ### Registration
 
 The initial phase of the waitlist process starts when a user fills out the registration form.
@@ -167,13 +175,9 @@ To round off this intricate journey, a confirmation email is sent to the user, s
 Every step is designed to ensure user authenticity and the highest levels of data integrity.
 {% endhint %}
 
-### Sequences diagram
-
 {% hint style="info" %}
 For a comprehensive understanding, it is recommended to view the following schema in a new tab.
 {% endhint %}
-
-<figure><img src=".gitbook/assets/Pre-registration_Workflow_v2.0.png" alt=""><figcaption><p>complete pre-registration workflow</p></figcaption></figure>
 
 ***
 
