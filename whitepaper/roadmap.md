@@ -46,7 +46,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [ ] Mint the $POLN token
 * [ ] Pre-Seed / Private Sale #1
 * [x] Waitlist (off-chained pre-registration)
-* [ ] Develop community & partnerships
+* [ ] Initiate community & partnerships development
 
 </details>
 
