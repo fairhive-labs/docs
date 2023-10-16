@@ -178,9 +178,9 @@ For a comprehensive understanding, it is recommended to view the following schem
 
 ## Future Improvements
 
-User data can be stored on blockchain, generating incentives for users and sponsors.
+After user verification, an on-chain transaction could be initiated, and based on this transaction, an airdrop of $POLN tokens can be triggered to the user's specified Ethereum address. 
 
-Regarding the next **AirDrop**, /_activate_ **Response** may trigger an on-chain transaction, **saving user data in the blockchain** and **distributing free $POLN** **tokens** 💰 to users and sponsors.
+This not only incentivizes users to complete the registration but also introduces them to the utility of $POLN, fostering engagement and investment in the platform.
 
 {% hint style="info" %}
 Keep posted :tada:
