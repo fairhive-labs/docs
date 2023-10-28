@@ -32,18 +32,8 @@ layout:
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Kevin</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Sallah</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><h1>CEO/CTO - whyvrafvr</h1></td>
+      <tr>
+            <td><h1>CEO/CTO - Julien</h1></td>
             <td>
                 <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.
                 </p><p>&nbsp;</p>
@@ -53,6 +43,16 @@ layout:
                 <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
             </td>
             <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
+        </tr>
+        <tr>
+            <td>Kevin</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sallah</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
