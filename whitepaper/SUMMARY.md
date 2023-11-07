@@ -21,4 +21,4 @@
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 * [Architecture Overview](architecture.md)
-* [⛏ (WIP) fairhive-labs team](fairhive-labs-team.md)
+<!-- * [⛏ (WIP) fairhive-labs team](fairhive-labs-team.md) -->
