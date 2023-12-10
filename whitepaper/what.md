@@ -262,7 +262,7 @@ PoLN's use cases serve as examples that aim to overcome traditional workforce ba
 
 1. **Global Microtask Platforms**: Creating opportunities for individuals worldwide to perform small tasks, paid in cryptocurrency, thus connecting a diverse and global digital workforce.
 
-2. **Decentralized Freelancing Networks**: Facilitating platforms where freelancers are paid in cryptocurrency, promoting independent and flexible work arrangements with minimal transaction fees.
+2. **Decentralized Self-Employment/Freelancing Networks**: Facilitating platforms where self-employed individuals and freelancers are paid in cryptocurrency, promoting independent and flexible work arrangements with minimal transaction fees and making self-employment more accessible and financially viable.
 
 3. **Funding Community-Driven Projects**: Utilizing cryptocurrency to fund local projects, fostering job creation and aligning work with community needs for grassroots economic development.
 
