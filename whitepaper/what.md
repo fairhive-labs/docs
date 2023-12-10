@@ -278,7 +278,7 @@ PoLN's carefully curated use cases are designed to dismantle traditional barrier
 
 9. **Enhanced Job Opportunities in the Tokenized Real Estate Sector**: Lowering entry barriers, the PoLN initiative’s approach to real estate tokenization fosters job opportunities in property management, development, and maintenance. Encouraging entrepreneurship, this model opens the real estate sector to a wider range of professionals. Simultaneously, it boosts demand for blockchain and smart contract experts, aligning with the technical needs of a digitized property market.
 
-10. **Rewards for Ethical Supply Chain Purchases**: Promoting jobs in sustainability management, ethical sourcing, and verification by encouraging ethical supply chains.
+10. **Rewards for Ethical Supply Chain Practices**: Driving job creation in sustainability management, ethical sourcing, and supply chain verification, PoLN's focus on ethical supply chain rewards incentivizes responsible production. This initiative stimulates demand for skilled professionals in these essential areas, bolstering a sustainable job market. By fostering a culture of ethical consumption, PoLN contributes to a work-based economy that values and creates sustainable employment opportunities.
 
 {% hint style="success" %}
 Each use case embodies PoLN's vision of a new economic era, marked by inclusivity, innovation, and equitable growth in the global job market.
