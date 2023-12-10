@@ -246,13 +246,9 @@ Initiators seek reliability in results, agents strive to build lasting connectio
 
 ## Example of Use Cases
 
-Absolutely! Here's the merged introduction with the detailed use cases, tailored for inclusion in your Gitbook:
-
----
-
-The PoLN initiative represents a groundbreaking step towards redefining the global work landscape through the integration of blockchain and cryptocurrency technologies.
-
-It focuses on establishing a decentralized work-based economy that is accessible, equitable, and innovative.
+{% hint style="success" %}
+The PoLN initiative represents a groundbreaking step towards redefining the global work landscape through the integration of blockchain and cryptocurrency technologies. It focuses on establishing a decentralized work-based economy that is accessible, equitable, and innovative.
+{% endhint %}
 
 PoLN's carefully curated use cases are designed to dismantle traditional barriers in the workforce, offering a new paradigm for employment and wealth distribution.
 
