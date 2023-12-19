@@ -45,12 +45,12 @@ layout:
             <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
         </tr>
         <tr>
-            <td>Kevin</td>
+            <td>COO</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Sallah</td>
+            <td>CMO</td>
             <td></td>
             <td></td>
         </tr>
