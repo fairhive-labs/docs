@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Operational Conditions
+# 🔁 Operational Conditions
 
 The PoLN protocol operates within a set of phases, each carefully designed to ensure transparency, efficiency, and commitment from all parties involved.
 

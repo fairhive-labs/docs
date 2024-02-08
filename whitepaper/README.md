@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Why PoLN ?
+# 🌟 Why PoLN ?
 
 {% hint style="info" %}
 In a more virtuous economy compared to the traditional model, if we hypothesize that work is the backbone of capitalism, then DeFi's foundational weakness is its exclusion of work.
