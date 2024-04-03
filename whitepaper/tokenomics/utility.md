@@ -65,7 +65,7 @@ $POLN empowers all stakeholders, including the builders' team and the community,
 
 This inclusive approach encourages a sense of ownership and collective responsibility, fostering a balanced and well-rounded development of the protocol.
 
-## Rewards & Incentive Alignment**
+## Rewards and Incentive Alignment
 
 $POLN is integral to the distribution of rewards and fees, aligning incentives among initiators and fellowships. This ensures mutual benefit from successful project completions and encourages continuous contributions from all actors.
 
