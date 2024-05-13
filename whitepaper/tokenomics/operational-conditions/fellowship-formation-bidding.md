@@ -23,7 +23,7 @@ layout:
 
 # Fellowship formation and Bidding
 
-In this critical juncture of the PoLN protocol, potential fellowships come together, drawing from varied expertise to answer project RFPs.
+At this critical juncture of the PoLN protocol, potential fellowships form to pool diverse expertise, assisting initiators in articulating their project requirements through brief descriptions as they respond to RFPs.
 
 By staking tokens as a sign of their commitment and crafting strategic bids, they compete for the initiator's approval.
 

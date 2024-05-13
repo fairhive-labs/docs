@@ -23,11 +23,15 @@ layout:
 
 # Initiator's project description and posting
 
-When an initiator decides to launch a project on the PoLN protocol, the first step involves comprehensively detailing the project.
+When an initiator decides to launch a project on the PoLN protocol, the process begins with a quick introduction of the project concept. This often includes initial input from potential fellowships to help shape the project's direction. 
 
-This detail encompasses the scope, a brief introduction, any technical specifications, the expected duration and its unit (e.g., days, weeks), the payment amount in a chosen stablecoin for the contractor, and the associated $POLN fee (which should not be less than 10% of the contractor's payment).
+The collaboration continues as the initiator thoroughly details the project through an iterative process, using PoLN's Discord or other social platforms for ongoing input and refinement from fellowships. 
 
-This entire description serves as a Request for Proposals (RFP) or a call for bids.
+Once the brief description is finalized, the next step is the formal submission of a Request for Proposal (RFP). This step invites further engagement and formalizes the search for collaborations and resources.
+
+The RFP details the scope, a brief introduction, any technical specifications, the expected project duration in units such as days or weeks, the payment amount in a chosen stablecoin for the contractor, and the associated $POLN fee, which should not be less than 2% of the contractor's payment.
+
+This comprehensive description not only serves as an RFP but also as a call for bids, setting the stage for competitive and collaborative project development.
 
 ## Education and Guidelines
 
