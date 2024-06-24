@@ -67,6 +67,7 @@ Moreover, they excel in building connections, ensuring that the right expertise 
 * [x] Connection facilitation
 * [x] Network expansion
 * [x] Increased opportunities
+* [x] Deals management
 * [x] Community engagement
 * [x] Reputation enhancement
 {% endhint %}
