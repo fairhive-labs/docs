@@ -45,8 +45,8 @@ layout:
         <td><h1>Co-CEO/COO</h1></td>
         <td>
             <p>Richard, an attentive listener, turns challenges into opportunities and business needs into solutions. An entrepreneur at heart with a digital mindset, he excels in demanding environments.</p>
-            <p>With 21 years in IT, 13 years in consulting, and 8 years in AI, FinTech, and e-commerce, he has a strong background in Consulting, Strategy, Fundraising, and Digital Transformation. He has advised 11 startups and connects Investors at WealthVP.</p>
-            <p>At PoLN, Richard drives operational excellence and strategic growth, ensuring the organization's success and scalability through his extensive experience and innovative approach.</p>
+            <p>With 21 years in IT, 13 years in consulting, and 8 years in AI, FinTech, and e-commerce, he has a strong background in Consulting, Strategy, Fundraising, and Digital Transformation. He has advised many startups and is a master at forging strategic partnerships and business.</p>
+            <p>At PoLN, Richard drives operational excellence and strategic growth, leveraging his extensive experience and sales expertise to ensure the organization's success and scalability.</p>
         </td>
         <td><a href=".gitbook/assets/richard.jpeg">Co-CEO_COO</a></td>
     </tr>
