@@ -36,10 +36,10 @@ layout:
           <td><h1>CEO/CTO</h1></td>
           <td>
               <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.
-              </p><p>&nbsp;</p>
+              </p><
               <p>As a CTO and Architect, he excels in crafting scalable solutions using the latest technologies. </p>
               <p>A seasoned freelance executive, he has a rich history of leading major projects and scaling them
-                  effectively. </p><p>&nbsp;</p>
+                  effectively.</p>
               <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
           </td>
           <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
@@ -47,16 +47,9 @@ layout:
       <tr>
           <td><h1>Co-CEO/COO</h1></td>
           <td>
-              <p>Richard, an attentive listener, turns challenges into opportunities and business needs into solutions.</p>
-              <p>&nbsp;</p>
-              <p>An entrepreneur at heart with a digital mindset, he excels in demanding environments.</p>
-              <p>Creative and results-driven, he has vast experience in Startups, Consulting, Strategy, Fundraising, and Partnerships.</p>
-              <p>&nbsp;</p>
-              <p>With a strong background in Commercials, Contract Management, Negotiations, P&L, and Digital Transformation, he drives goals and KPIs.</p>
-              <p>He has advised 11 startups and connects Investors, Family Offices, UHNWIs & Entrepreneurs at WealthVP.</p>
-              <p>&nbsp;</p>
-              <p>Richard has 21 years in IT, 13 years in consulting, and 8 years in AI, FinTech, and e-commerce.</p>
-              <p>At PoLN, he serves as co-CEO and COO, driving operational excellence and strategic growth.</p>
+              <p>Richard, an attentive listener, turns challenges into opportunities and business needs into solutions. An entrepreneur at heart with a digital mindset, he excels in demanding environments.</p>
+              <p>With a strong background in Consulting, Strategy, Fundraising, and Digital Transformation, he drives goals and KPIs. He has advised 11 startups and connects Investors at WealthVP.</p>
+              <p>Richard has 21 years in IT, 13 years in consulting, and 8 years in AI, FinTech, and e-commerce. At PoLN, he serves as co-CEO and COO, driving operational excellence and strategic growth.</p>
           </td>
           <td><a href=".gitbook/assets/richard.jpeg">Co-CEO_COO</a></td>
       </tr>
