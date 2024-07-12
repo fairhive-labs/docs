@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Architecture Overview
+# 🏗️ Architecture Overview
 
 With a design that's scalable, flexible, and robust, PoLN's architecture stands prepared to redefine the paradigms of decentralized systems.
 

@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Governance
+# ⚖️ Governance
 
 {% hint style="info" %}
 Should the decentralized governance of PoLN be fully realized, it would be pivotal to its vision, fostering a truly democratic and community-driven approach.

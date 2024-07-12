@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Roadmap
+# 🛣️ Roadmap
 
 The roadmap provides clarity on the evolution of PoLN, showcasing the integration of blockchain technology, development of community governance, and the implementation of features designed to empower labor and promote equitable wealth distribution.
 
