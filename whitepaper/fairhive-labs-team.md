@@ -1,6 +1,6 @@
 ---
 description: >-
-    Comprising a tech guru and a savvy investor, fairhive-labs is steering the crypto space with their vast knowledge and inclusive approach. Their combined expertise drives innovation and sets new standards.
+    A tech guru and savvy investor, fairhive-labs drives the crypto space with inclusive expertise. Their combined knowledge fuels innovation and sets new standards.
 cover: .gitbook/assets/team.png
 coverY: 0
 layout:
