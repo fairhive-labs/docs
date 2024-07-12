@@ -42,7 +42,7 @@ layout:
                   effectively. </p><p>&nbsp;</p>
               <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
           </td>
-          <td><a href=".gitbook/assets/richard.jpeg">CEO_CTO</a></td>
+          <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
       </tr>
       <tr>
           <td><h1>Co-CEO/COO</h1></td>
@@ -61,7 +61,7 @@ layout:
               <p>&nbsp;</p>
               <p>At PoLN, Richard serves as co-CEO and COO, driving operational excellence and strategic growth.</p>
           </td>
-          <td><a href=".gitbook/assets/whyvra.png">Co-CEO_COO</a></td>
+          <td><a href=".gitbook/assets/richard.jpeg">Co-CEO_COO</a></td>
       </tr>
       <!-- <tr>
           <td>CMO</td>
