@@ -33,7 +33,7 @@ layout:
     </thead>
     <tbody>
       <tr>
-            <td><h1>CEO/CTO - Julien</h1></td>
+            <td><h1>CEO/CTO ~ Julien</h1></td>
             <td>
                 <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.
                 </p><p>&nbsp;</p>
@@ -45,15 +45,14 @@ layout:
             <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
         </tr>
         <tr>
-            <td>COO</td>
+            <td>COO/co-CEO ~ Richard</td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>CMO</td>
             <td></td>
             <td></td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
-
