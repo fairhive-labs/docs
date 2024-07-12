@@ -36,8 +36,8 @@ layout:
           <td><h1>CEO/CTO</h1></td>
           <td>
               <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving. As a CTO and Architect, he excels in crafting scalable solutions using the latest technologies.</p>
-              <p>He has a rich history of leading major projects and scaling them effectively. A seasoned freelance executive, Julien supports enterprises and startups in scaling with high resilience and data consistency.</p>
-              <p>At PoLN, Julien drives the protocol's evolution and charts the strategic course for fairhive-labs, ensuring success through innovative DevOps strategies and extensive investor relations experience.</p>
+              <p>A seasoned freelance executive and the original founder of PoLN, Julien is a thought leader who has a rich history of leading major projects and scaling them effectively. He supports enterprises and startups in scaling with high resilience and data consistency.</p>
+              <p>At PoLN, he drives the protocol's evolution and charts the strategic course for fairhive-labs, leveraging his extensive investor relations experience to ensure organizational success and scalability through innovative strategies.</p>
           </td>
           <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
       </tr>
