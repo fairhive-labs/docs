@@ -1,8 +1,6 @@
 ---
 description: >-
-  Comprising a tech guru, keen trader, and savvy investor, fairhive-labs is a
-  seasoned trio steering the crypto space with their vast knowledge and
-  inclusive approach.
+  Comprising a tech guru and a savvy investor, fairhive-labs is a seasoned team steering the crypto space with their vast knowledge and inclusive approach. Their combined expertise drives innovation and strategic growth, setting new standards as game changers in the industry.
 cover: .gitbook/assets/team.png
 coverY: 0
 layout:
