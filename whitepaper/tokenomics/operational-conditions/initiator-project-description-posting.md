@@ -23,9 +23,9 @@ layout:
 
 # Initiator's project description and posting
 
-When an initiator decides to launch a project on the PoLN protocol, the process begins with a quick introduction of the project concept. This often includes initial input from potential fellowships to help shape the project's direction. 
+When an initiator decides to launch a project on the PoLN protocol, the process begins with a quick introduction of the project concept. This often includes initial input from potential fellowships to help shape the project's direction.
 
-The collaboration continues as the initiator thoroughly details the project through an iterative process, using PoLN's Discord or other social platforms for ongoing input and refinement from fellowships. 
+The collaboration continues as the initiator thoroughly details the project through an iterative process, using PoLN's Discord or other social platforms for ongoing input and refinement from fellowships.
 
 Once the brief description is finalized, the next step is the formal submission of a Request for Proposal (RFP). This step invites further engagement and formalizes the search for collaborations and resources.
 
