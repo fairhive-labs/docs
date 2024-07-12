@@ -35,11 +35,9 @@ layout:
       <tr>
           <td><h1>CEO/CTO</h1></td>
           <td>
-              <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving.</p>
-              <p>As a CTO and Architect, he excels in crafting scalable solutions using the latest technologies. </p>
-              <p>A seasoned freelance executive, he has a rich history of leading major projects and scaling them
-                  effectively.</p>
-              <p>Entrusted with the protocol's evolution, he also charts the strategic course for fairhive-labs.</p>
+              <p>Julien, with over 20 years of hands-on experience, stands as a beacon of innovative problem-solving. Founder of fairhive-labs & building PoLN, he excels as a Sr. FullStack Dev, Solution Architect, and CTO leading by example, specializing in Cloud native APIs & web3 d-apps.</p>
+              <p>Fueled by a passion for disruptive innovations, Julien loves sharing his experiences with other companies. As an entrepreneur, he's always on the hunt for inspiring souls, eager to connect with new business partners, take on fresh challenges, and dive into coding, especially in Go and Solidity.</p>
+              <p>At PoLN, Julien is entrusted with the protocol's evolution and charts the strategic course for fairhive-labs, driving the development of a new decentralized work-based economy, cultivating wealth creation and collective sharing.</p>
           </td>
           <td><a href=".gitbook/assets/whyvra.png">CEO_CTO</a></td>
       </tr>
