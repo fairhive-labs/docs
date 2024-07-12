@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 👥 fairhive-labs team
+# 👥 fairhive-labs
 
 ## CEO / CTO
 
