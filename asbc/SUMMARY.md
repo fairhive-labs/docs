@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Future network - ASBC](future-architecture-asbc/README.md)
+* [Future network - ASBC](README.md)
   * [FHVM and topology](future-architecture-asbc/fhvm-and-topology.md)
   * [Networks](future-architecture-asbc/networks.md)
   * [DevOps CI/CD](future-architecture-asbc/devops-ci-cd.md)
