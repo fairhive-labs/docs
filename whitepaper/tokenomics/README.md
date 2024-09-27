@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 💰 Tokenomics - Public Version
+# 💰 Tokenomics & Token Dynamics
 
 The finite supply of tokens is meticulously allocated among various stakeholders and reserved for the community and future DAO operations, ensuring alignment with the system’s growth and the realization of its ten core objectives.
 
