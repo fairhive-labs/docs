@@ -7,7 +7,7 @@
   * [Wealth inequality is growing globally](why/wealth-inequality-is-growing-globally.md)
   * [New generations have different expectations](why/new-generations-have-different-expectations.md)
   * [Future of work is a paradigm shift underpinned by self-employment](why/future-of-work-is-a-paradigm-shift-underpinned-by-self-employment.md)
-* [💰 Tokenomics - Public Version](tokenomics/README.md)
+* [💰 Tokenomics](tokenomics/README.md)
   * [Attributes and Issuance](tokenomics/token-details.md)
   * [Distribution](tokenomics/token-distribution.md)
   * [Utility](tokenomics/utility.md)
