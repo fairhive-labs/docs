@@ -3,8 +3,8 @@ description: >-
   When numerous individuals influence the governance and strategy, initiating a
   project can rapidly become challenging, if not altogether unfeasible.
 cover: >-
-  .gitbook/assets/_whyvrafvr_space_people_voting_in_a_digital_decentralized_auton_166acc06-5655-43ca-8109-33ce9d693f7c.png
-coverY: -245.90378947368418
+  .gitbook/assets/_whyvrafvr_showing_the_transformation_of_a_career_using_the_b_a2f72047-36d6-419f-a647-98f23bb08ce8_3.png
+coverY: 89.99441340782123
 layout:
   cover:
     visible: true
