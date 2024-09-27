@@ -8,7 +8,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -29,7 +29,7 @@ These operational phases lay the foundation for the protocol's functioning and s
 
 Here's a brief overview:
 
-1. **Initiator's project description and posting:** This phase is the starting point, focusing on how an initiator outlines a project. It emphasizes setting clear parameters and handling confidentiality concerns, ensuring the project's requirements are well-understood by potential bidders.
+1. **Project Initiation and RFP Posting:** This phase marks the starting point, focusing on how an initiator prepares and posts a _Request for Proposal_ (RFP) for their project. By outlining the project's scope, objectives, and requirements in the RFP, initiators set clear parameters and address confidentiality concerns. This detailed approach ensures that potential bidders have a comprehensive understanding of the project's needs, enabling them to submit informed and competitive proposals. Additionally, the platform's secure infrastructure protects sensitive information, fostering trust between initiators and contractors.
 2. **Fellowship formation and Bidding:** A core phase where fellowships are formed, harnessing diverse skillsets and expertise. The bidding process is also elucidated, detailing how fellowships showcase their capabilities and propose their strategies for project execution.
 3. **Staking and Payment Locks:** This segment underscores the commitment aspect of the protocol. Through staking mechanisms, both the fellowship and initiator guarantee their dedication to the project, ensuring that they have skin in the game.
 4. **Project execution and evaluation:** At the heart of the protocol lies the actual execution of the project. This phase delves into the nuts and bolts of project management, with an emphasis on continuous monitoring and evaluation from both the initiator's and the fellowship's vantage points.

@@ -7,7 +7,7 @@ coverY: 121.43466666666666
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -36,7 +36,7 @@ The following detailed breakdown elucidates the allocation priorities of the $PO
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|  `60,000,000` |      `30`      |
+|  `60,000,000`  |      `30`      |
 
 The design and distribution of the $POLN token underscores PoLN's commitment to ensuring broad and decentralized access.
 
@@ -54,7 +54,7 @@ This represents 20% of the public sales and listing pool, amounting to 12,000,00
 
 The primary intent behind an IDO is to engage with the core DeFi community and early adopters.
 
-Through an IDO, there's an opportunity for a fair and wide initial distribution, promoting community ownership. This method also provides a platform for organic price discovery, setting the stage for a sustainable market value of $POLN.
+Through an IDO, there's an opportunity for a fair and wide initial distribution, promoting community ownership. This method also fosters organic engagement and participation, helping to build strong demand and long-term utility for $POLN within the ecosystem.
 
 ### Initial Exchange Offering (IEO)
 
@@ -156,7 +156,7 @@ It sends a clear message that the builders are in this journey for the long haul
 
 | Tokens ($POLN) | Percentage (%) |
 | :------------: | :------------: |
-|  `50,000,000`  |       `25`      |
+|  `50,000,000`  |      `25`      |
 
 Private sales play a pivotal role in the initial stages of a project's life cycle.
 
@@ -172,12 +172,12 @@ Investors participating in this round will be able to purchase $POLN tokens at a
 
 This offers early backers a favorable entry point, underscoring their commitment and belief in PoLN's long-term potential.
 
-| Detail                               |       Value       |
-| ------------------------------------ | :---------------: |
-| **Funds to be Raised**               |    `$2,000,000`   |
-| **Token Price**                      |      `$0.1`      |
+| Detail                               |        Value       |
+| ------------------------------------ | :----------------: |
+| **Funds to be Raised**               |    `$2,000,000`    |
+| **Token Price**                      |       `$0.1`       |
 | **Total Tokens Allocated**           | `20,000,000 $POLN` |
-| **Percentage of Private Sales Pool** |      `40.00%`     |
+| **Percentage of Private Sales Pool** |      `40.00%`      |
 
 ### Second Round: Strategic Partners
 
@@ -187,12 +187,12 @@ Investors in this phase will obtain $POLN at $0.2 per token.
 
 This round targets strategic partners who can not only provide capital but also bring in synergies, resources, and networks that can propel PoLN's adoption and growth.
 
-| Detail                               |       Value       |
-| ------------------------------------ | :---------------: |
-| **Funds to be Raised**               |    `$3,000,000`   |
-| **Token Price**                      |        `$0.2`       |
+| Detail                               |        Value       |
+| ------------------------------------ | :----------------: |
+| **Funds to be Raised**               |    `$3,000,000`    |
+| **Token Price**                      |       `$0.2`       |
 | **Total Tokens Allocated**           | `15,000,000 $POLN` |
-| **Percentage of Private Sales Pool** |      `30.00%`     |
+| **Percentage of Private Sales Pool** |      `30.00%`      |
 
 ### Third Round: Expansion & Growth
 
@@ -202,15 +202,15 @@ Tokens in this phase will be priced at $1 each.
 
 This round is designed for participants who recognize PoLN's potential for broader market expansion and are prepared to support its scaling efforts at a higher valuation.
 
-| Detail                               |       Value       |
-| ------------------------------------ | :---------------: |
-| **Funds to be Raised**               |   `$15,000,000`   |
-| **Token Price**                      |        `$1`       |
+| Detail                               |        Value       |
+| ------------------------------------ | :----------------: |
+| **Funds to be Raised**               |    `$15,000,000`   |
+| **Token Price**                      |        `$1`        |
 | **Total Tokens Allocated**           | `15,000,000 $POLN` |
-| **Percentage of Private Sales Pool** |      `30.00%`     |
+| **Percentage of Private Sales Pool** |      `30.00%`      |
 
 {% hint style="info" %}
-Only verified users of the PoLN protocol will be granted access to this private sale, ensuring that the consumption, trading, and early engagement with the $POLN token remain exclusive to our authenticated community at this project stage.
+Access to the private sale of $POLN will be limited to verified users of the PoLN protocol, ensuring that early participation remains exclusive to authenticated community members. This helps foster active engagement and utility within the ecosystem during this initial phase.
 {% endhint %}
 
 ## Community/DAO (Treasury)
@@ -372,7 +372,7 @@ Several observations can be made from the outlined tokenomics:
 
 1. **Emphasis on Decentralization**: A significant 50% of the tokens is designated for public sales. This allocation reveals an intention for widespread distribution to avoid the pitfalls of token concentration. Such decentralization can prevent the monopolization of power and influence within the ecosystem.
 2. **Business Relationship Boost**: The allocation emphasizes facilitating and nurturing business interactions between initiators and fellowships. By ensuring a substantial amount of tokens circulate within the ecosystem, the protocol aims to stimulate more transactions, potentially leading to increased collaborations and partnerships. This strategy highlights the importance of making the ecosystem vibrant and active.
-3. **Mitigating Price Volatility**: The generous allocation for trading, combined with the public sales portion, has a dual purpose. Beyond fostering interactions, it's also geared towards stabilizing the token's price. Higher trading volumes are often associated with more price stability. Distributing a significant amount of tokens to the community can minimize the chances of drastic price fluctuations, fostering trust and predictability within the ecosystem.
+3. **Mitigating Volatility:** The allocation strategy, combined with community participation, serves a dual purpose. Beyond fostering active engagement, it aims to create a more stable environment for the token's circulation. By distributing a substantial amount of tokens within the ecosystem, we minimize the chances of drastic fluctuations, encouraging trust and predictability in the platform’s operations.
 4. **Long-Term Vision with Incentives**: Initiator rewards and the locking mechanisms for builders and private sales tokens underscore a commitment to long-term growth and sustainability. The distribution plan appears well-thought-out, safeguarding the protocol's future.
 5. **Community-Centric Approach**: With allocations for airdrops, giveaways, and the community/DAO, there's a clear intention to cultivate an engaged community. The vitality of decentralized projects often rests on such a community, and this distribution caters to that.
 6. **Commitment to Robust Development**: The earmark for testnet development and partner integrations indicates a significant focus on building a secure, functional, and integrated ecosystem, emphasizing not just the token but the entire infrastructure surrounding it.

@@ -4,11 +4,11 @@ description: >-
   ensuring decentralized operation, wide interoperability, and potent business
   dynamics.
 cover: .gitbook/assets/architecture.png
-coverY: 55
+coverY: 81.99122807017544
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

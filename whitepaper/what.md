@@ -1,14 +1,14 @@
 ---
 description: >-
   Designed by fairhive-labs, PoLN protocol serves as the foundation for a new
-  decentralized work-based economy, synergizing wealth creation and collective
-  sharing.
+  decentralized work-based economy, synergizing wealth creation and fair
+  distribution.
 cover: .gitbook/assets/_whyvrafvr_people_e5bc9363-120e-4214-b702-c116c835a818.png
 coverY: -127
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -34,7 +34,7 @@ It's not just a protocol; it's a movement towards a more equitable and efficient
 {% endhint %}
 
 {% hint style="info" %}
-The challenges posed by the traditional economy, mounting wealth inequality, overlooked expectations of newer generations, and conventional work structures demand a system overhaul.
+The challenges posed by the traditional economy, mounting wealth inequality, overlooked expectations of newer generations, and conventional work structures demand a revolutionary solution.
 {% endhint %}
 
 Drawing inspiration from a poker game where a reshuffle can change the dynamics of the table, PoLN reshuffles the deck of traditional roles.
@@ -50,6 +50,16 @@ Moving away from the straightforward employer-employee dynamic or the classic re
 <figure><img src=".gitbook/assets/PoLN - actors (1).jpg" alt=""><figcaption><p>Actors dispatched in a new quadrant-like model</p></figcaption></figure>
 
 This quadrant framework allows for an unparalleled degree of flexibility, collaboration, and adaptability. With these distinctions, the system becomes inherently more virtuous, ensuring every participant has a clear, meaningful role and is accorded the respect and value they deserve. It promotes inclusivity, ensuring no talent is overlooked, and efficiency, by aligning the right skills and expertise with the appropriate projects.
+
+### **Fellowship**
+
+<figure><img src=".gitbook/assets/_whyvrafvr_cubes_435c163c-876e-48c6-af3d-9d3e2d3549b4.png" alt="" width="563"><figcaption><p>The PoLN community is composed of a multitude of distinct fellowships.</p></figcaption></figure>
+
+Drawing inspiration from the concept of a close-knit group like in 'The Lord of the Rings', the fellowship in the PoLN context is a cohesive unit composed of agents, contractors, and mentors.
+
+This unit collaborates, each member playing a unique role, to ensure the successful execution of projects introduced by the initiators.
+
+Together, they embody the collective strength and synergy of the PoLN protocol: they bring diverse skills and experiences, fostering collaboration and amplifying results.
 
 ### **Agent**
 
@@ -135,16 +145,6 @@ They possess the technical know-how and skills to execute projects and are a cri
 * [x] Overcoming professional isolation
 {% endhint %}
 
-### **Fellowship**
-
-<figure><img src=".gitbook/assets/_whyvrafvr_cubes_435c163c-876e-48c6-af3d-9d3e2d3549b4.png" alt="" width="563"><figcaption><p>The PoLN community is composed of a multitude of distinct fellowships.</p></figcaption></figure>
-
-Drawing inspiration from the concept of a close-knit group like in 'The Lord of the Rings', the fellowship in the PoLN context is a cohesive unit composed of agents, contractors, and mentors.
-
-This unit collaborates, each member playing a unique role, to ensure the successful execution of projects introduced by the initiators.
-
-Together, they embody the collective strength and synergy of the PoLN protocol: they bring diverse skills and experiences, fostering collaboration and amplifying results.
-
 ### **Escrow services**
 
 <figure><img src=".gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption><p>A digital escrow based on smart contracts and blockchain is a secure, automated third-party service that holds and regulates the release of assets or funds until predefined contractual conditions are met.</p></figcaption></figure>
@@ -165,7 +165,7 @@ With this new framework, PoLN, through its dynamic fellowships and committed ini
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/PoLN - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PoLN - design - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
 
 </div>
 
@@ -173,11 +173,11 @@ With this new framework, PoLN, through its dynamic fellowships and committed ini
 
 The creation of a supportive community lies at the heart of PoLN.
 
-Within this community, distinct fellowships of agents, contractors, and mentors drives stability and unity. These fellowships cater to the needs and expectations of initiators, ensuring the realization of their visions and projects.
+Within this community, distinct fellowships of agents, contractors, and mentors drive stability and unity. These fellowships cater to the needs and expectations of initiators, ensuring the realization of their visions and projects.
 
 ### **Foster Inclusivity and Accessibility**
 
-Inclusivity within the fellowship is championed by agents who connect diverse contractors to various initiatives.
+Inclusivity within the fellowship is championed by agents who connect diverse contractors to various initiatives without any discrimination. The sole factor determining a contractor's ability to join a fellowship is their skill set and capacity to deliver high-quality work in a timely manner.
 
 Mentors ensure that contractors overcome biases and obstacles, and the entire fellowship endeavors to craft an accessible economy for initiators to bring forth their projects.
 
@@ -191,7 +191,7 @@ Initiators set the foundation with their projects, agents align the right fellow
 
 ### **Facilitate Equitable Wealth Distribution**
 
-Wealth distribution within the PoLN ecosystem is meticulously planned.
+Wealth distribution within the PoLN ecosystem is carefully designed. We have developed a system that ensures fair distribution among all community participants, encouraging members to work cohesively toward a common goal.
 
 Fees provided by initiators are judiciously dispatched to fellowship members.
 
@@ -261,8 +261,8 @@ It is a testament to the transformative potential of a decentralized economy, op
 
 PoLN's use cases serve as examples that aim to overcome traditional workforce barriers, introducing a new model for employment and wealth distribution:
 
-1. **Global Microtask Platforms**: Creating opportunities for individuals worldwide to perform small tasks, paid in cryptocurrency, thus connecting a diverse and global digital workforce.
-2. **Decentralized Self-Employment/Freelancing Networks**: Facilitating platforms where self-employed individuals and freelancers are paid in cryptocurrency, promoting independent and flexible work arrangements with minimal transaction fees and making self-employment more accessible and financially viable.
+1. **Global Microtask Platforms**: Creating opportunities for individuals worldwide to perform small tasks, paid in cryptocurrency via a stablecoin, thereby connecting a diverse and global digital workforce.
+2. **Decentralized Self-Employment/Freelancing Networks**: Facilitating platforms where self-employed individuals and freelancers are paid in cryptocurrency via a stablecoin, promoting independent, flexible work arrangements with minimal transaction fees, and making self-employment more accessible and financially viable.
 3. **Funding Community-Driven Projects**: Utilizing cryptocurrency to fund local projects, fostering job creation and aligning work with community needs for grassroots economic development.
 4. **Universal Basic Income (UBI) Implementations**: By distributing Universal Basic Income via a dedicated foundation in cryptocurrency, PoLN sets the stage for entrepreneurial ventures and community-focused work. This method offers a consistent financial safety net, facilitating innovation and involvement in local projects. It bolsters a work-based economy that values risk-taking, creativity, and a spectrum of professional pursuits.
 5. **Skill-Based Educational Incentives**: Rewarding individuals with cryptocurrency for acquiring new skills, thus fostering a more adaptable and skilled workforce.

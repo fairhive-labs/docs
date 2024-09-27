@@ -7,7 +7,7 @@ coverY: 19
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -40,15 +40,17 @@ This act of staking serves as a mechanism for capturing value within the fellows
 
 A portion of the value generated within the platform is directed towards a community treasury. This treasury is used to fund future developments, community initiatives, and ensure the ongoing operations and sustainability of the PoLN protocol.
 
-## **Token Appreciation**
+## **Community Empowerment and Participation**
 
-As the demand for $POLN tokens increases through various utility aspects, token holders, including investors and community members, can experience value capture through the appreciation of the token’s price.
+As the demand for $POLN tokens grows due to their diverse utility, community members can benefit from enhanced functionalities and opportunities within the PoLN ecosystem.&#x20;
+
+Holding $POLN tokens allows participants to access platform features, engage in collaborative projects, and contribute to the ecosystem's ongoing development.
 
 ## **Governance Participation**
 
-While the main function of $POLN tokens isn’t governance, there might be mechanisms allowing token holders to participate in decision-making processes, contributing to the value capture by shaping the protocol’s future.
+While the main function of $POLN tokens isn't governance, mechanisms may allow token holders to participate in decision-making processes, helping to shape the protocol's future.&#x20;
 
-The decentralized nature of PoLN can empower individuals, giving them more agency and control over their contributions, which can be emotionally gratifying.
+The decentralized nature of PoLN empowers individuals by giving them more agency and control over their contributions, fostering a sense of ownership and community involvement.
 
 ## **Strategic Partnerships and Collaborations**
 

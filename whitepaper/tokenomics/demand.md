@@ -8,7 +8,7 @@ coverY: 23
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -45,9 +45,9 @@ Holding $POLN allows initiators to actively participate in the governance of the
 
 ### Rewards
 
-Upon the success of a project, initiators can earn rewards in $POLN.
+Upon the successful completion of a project, initiators receive $POLN tokens as recognition for their contributions.
 
-This reward system creates an additional incentive for launching and supporting successful initiatives, fostering a cycle of engagement and value creation within the PoLN ecosystem.
+This recognition system incentivizes the launching and support of successful initiatives, fostering ongoing engagement and collaboration within the PoLN ecosystem.
 
 ## From Mentors and Agents
 
@@ -63,7 +63,11 @@ This reward system creates an additional incentive for launching and supporting 
 
 ### Compensation
 
-Agents and mentors receive $POLN tokens as compensation for their advisory roles and the expertise they provide to projects.
+Agents and Mentors receive their standard compensation in stablecoins for their services.&#x20;
+
+Additionally, they may be awarded $POLN tokens as a bonus to recognize their exceptional contributions or the successful outcomes of the projects they support.&#x20;
+
+This bonus in $POLN tokens serves as an acknowledgment of their valuable input and encourages ongoing engagement within the PoLN ecosystem.
 
 ### Staking
 
@@ -83,27 +87,25 @@ Contractors are paid in stablecoin for their work on projects, providing them wi
 
 ### Incentives and Staking
 
-Being an integral part of fellowships, contractors, like mentors and agents, are required to stake $POLN as a sign of commitment and alignment with project goals. This participation in staking fosters trust with initiators and contributes to a shared investment in the platform’s success.
+As integral members of fellowships, contractors—like mentors and agents—are required to stake $POLN tokens as a sign of commitment and alignment with project goals. This participation in staking fosters trust with initiators and contributes to a shared dedication to the platform’s success.
 
-### Earnings from Fees
+### Participation Benefits
 
-As stakeholders in fellowships, contractors earn a portion of the fees, enhancing their income and aligning their interests with the overall success of the projects.
+As active participants in fellowships, contractors receive a portion of the platform's service credits, recognizing their contributions and aligning their interests with the overall success of the projects. This system supports their professional growth and encourages ongoing collaboration within the PoLN ecosystem.
 
 ### Voting and Governance
 
 Holding $POLN gives contractors a voice in the platform’s governance, ensuring their perspectives are considered in the decision-making processes.
 
-## From Investors and Broader Community
+## Broader Community
 
 <figure><img src="../.gitbook/assets/investors.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Investment and Speculation
+### **Community Participation and Support**
 
-Investors can acquire $POLN tokens with the expectation of value appreciation as the protocol grows and succeeds.
+Community members can acquire $POLN tokens to actively participate in and support the PoLN ecosystem.
 
-### Participation in Governance
-
-The broader community, including token holders, can participate in governance, contributing to the protocol’s evolution and sustainability.
+Holding $POLN allows them to engage with the platform's features, contribute to governance decisions, and be part of a collaborative community driving the protocol's development and success.
 
 ## From Builders
 

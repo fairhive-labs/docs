@@ -4,11 +4,11 @@ description: >-
   inclusive expertise. Their combined knowledge fuels innovation and sets new
   standards.
 cover: .gitbook/assets/team.png
-coverY: 0
+coverY: 101.6140350877193
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

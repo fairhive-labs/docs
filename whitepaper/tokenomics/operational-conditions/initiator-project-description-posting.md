@@ -1,14 +1,13 @@
 ---
 description: >-
-  In this stage, initiators outline project specifics, define crucial
-  parameters, tackle potential confidentiality issues, and establish a
-  foundation for successful engagements within the PoLN ecosystem
+  In this stage, initiators define project details, key parameters, address
+  confidentiality, and set the stage for success within the PoLN ecosystem.
 cover: ../../.gitbook/assets/initiator_setting_project.png
 coverY: -308
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -21,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Initiator's project description and posting
+# Project Initiation and RFP Posting
 
 When an initiator decides to launch a project on the PoLN protocol, the process begins with a quick introduction of the project concept. This often includes initial input from potential fellowships to help shape the project's direction.
 

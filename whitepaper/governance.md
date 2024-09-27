@@ -4,11 +4,11 @@ description: >-
   project can rapidly become challenging, if not altogether unfeasible.
 cover: >-
   .gitbook/assets/_whyvrafvr_space_people_voting_in_a_digital_decentralized_auton_166acc06-5655-43ca-8109-33ce9d693f7c.png
-coverY: -101.42133333333331
+coverY: -245.90378947368418
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

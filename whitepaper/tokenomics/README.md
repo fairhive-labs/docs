@@ -7,7 +7,7 @@ coverY: 114
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 💰 Tokenomics
+# 💰 Tokenomics - Public Version
 
 The finite supply of tokens is meticulously allocated among various stakeholders and reserved for the community and future DAO operations, ensuring alignment with the system’s growth and the realization of its ten core objectives.
 
@@ -44,7 +44,9 @@ Rewards and incentives enrich contributions and facilitate fair compensation for
 
 ### **Facilitate Equitable Wealth Distribution**
 
-Strategic supply management, including potential token burning, aims to enhance token value and stability. This ensures a balanced scarcity and fosters equitable wealth distribution among stakeholders.
+Strategic supply management, including potential token burning, aims to enhance token stability.&#x20;
+
+This ensures a balanced scarcity and fosters equitable wealth distribution among stakeholders.
 
 ### **Promote Ethical Transactions**
 

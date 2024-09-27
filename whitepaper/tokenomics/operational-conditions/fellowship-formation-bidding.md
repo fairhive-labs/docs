@@ -1,14 +1,13 @@
 ---
 description: >-
-  During this stage, fellowships form, express interest in projects, and
-  competitively bid. The dynamic ensures the best teams are chosen, fostering
-  quality and competitive prices within the PoLN ecosys
+  During this stage, initiators invite bids, form fellowships, and select the
+  best team for the project within the PoLN ecosystem.
 cover: ../../.gitbook/assets/fellowship_bidding.png
 coverY: -18
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -55,7 +54,7 @@ This flexibility promotes a dynamic ecosystem where talent can contribute to mul
 
 Fellowships, to demonstrate commitment and differentiate themselves in the bidding process, indicate how much $POLN they're willing to stake on the project.
 
-The minimum staking amount for a fellowship is set at 10% of the total fees that the initiator will pay for the project.
+The minimum staking amount for a fellowship member is set at 10% of the total fees that the initiator will pay for the project.
 
 This staking acts as a strong signal to the initiator regarding the seriousness and confidence of the fellowship in the project's success.
 
@@ -75,7 +74,7 @@ To cater to the preferences and requirements of the initiator, fellowships submi
 
 Fellowships submit their proposals to the initiator after bid preparation.
 
-The initiator can then review all the bids, engage in discussions, seek clarifications, and negotiate terms with one or more fellowships, ensuring the best fit for their project.
+The initiator can then review all the bids, engage in discussions, seek clarifications, and negotiate terms with one or more fellowship members, ensuring the best fit for their project.
 
 ## Competitive Bidding & Choice
 
