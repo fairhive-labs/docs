@@ -23,7 +23,7 @@ layout:
 
 # Demand
 
-<figure><img src="../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PoLN - design - utility &#x26; demand v2.0.jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
 
 ## From Initiators
 

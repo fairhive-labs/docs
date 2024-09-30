@@ -147,7 +147,11 @@ They possess the technical know-how and skills to execute projects and are a cri
 
 ### **Escrow services**
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/_whyvrafvr_cubes_843b0dd3-bafb-4dff-8d3b-ae5788721c60.png" alt="" width="563"><figcaption><p>A digital escrow based on smart contracts and blockchain is a secure, automated third-party service that holds and regulates the release of assets or funds until predefined contractual conditions are met.</p></figcaption></figure>
+
+</div>
 
 Within the PoLN framework, escrow services act as trusted intermediaries that hold funds.
 

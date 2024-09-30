@@ -50,7 +50,7 @@ In the event a project is deemed unsuccessful:
 * **Initiator**: The initiator does not receive any reward.
 * **Community**: The protocol fees, which would have otherwise gone to the fellowship, are redirected to the broader community. These funds are used for operations like training, helpdesk and support, mediation, KYC, development, maintenance, and refilling the initiator rewards pool.
 
-<figure><img src="../../.gitbook/assets/project fails.jpg" alt="" width="563"><figcaption><p>Failed projects benefit the broader community</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PoLN - design - when project fails.jpg" alt=""><figcaption><p>Failed projects benefit the broader community</p></figcaption></figure>
 
 If a project is terminated before its set deadline:
 

@@ -29,7 +29,7 @@ Within this innovative environment, $POLN tokens represent more than just a unit
 The performance and engagement within the system essentially set the reference for the value and dynamics of $POLN, aligning it with the contributions made to the ecosystem.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/utility_and_demand (1).jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PoLN - design - utility &#x26; demand v2.0.jpg" alt=""><figcaption><p>How $POLN is utilized and its demand within the PoLN mechanism</p></figcaption></figure>
 
 By integrating the interests and activities of investors, the builders' team, initiators, fellowships (including agents, contractors, and mentors), and the community, $POLN’s utility forms a cohesive and synergistic foundation for the sustained growth and evolution of the PoLN protocol.
 

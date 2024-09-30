@@ -77,6 +77,8 @@ PoLN introduces new concepts to improve project execution efficiency:
 * **Staking Mechanism:** Both project initiators and participants must stake PoLN tokens to ensure commitment and reduce the likelihood of disputes.
 * **Decentralized Dispute Resolution:** Neutral community members judge disputes, ensuring fair and unbiased resolutions.
 
+<figure><img src=".gitbook/assets/PoLN - design - value prop.jpg" alt=""><figcaption><p>PoLN is a new paradigm</p></figcaption></figure>
+
 ## Benefits of PoLN
 
 ### Eliminating Barriers
