@@ -28,7 +28,7 @@ The collaboration continues as the initiator thoroughly details the project thro
 
 Once the brief description is finalized, the next step is the formal submission of a Request for Proposal (RFP). This step invites further engagement and formalizes the search for collaborations and resources.
 
-The RFP details the scope, a brief introduction, any technical specifications, the expected project duration in units such as days or weeks, the payment amount in a chosen stablecoin for the contractor, and the associated $POLN fee, which should not be less than 2% of the contractor's payment.
+The RFP details the scope, a brief introduction, any technical specifications, the expected project duration in units such as days or weeks, the payment amount in a chosen stablecoin for the fellowship members, and the associated $POLN fee, which should not be less than 2% of the fellowship members' payment.
 
 This comprehensive description not only serves as an RFP but also as a call for bids, setting the stage for competitive and collaborative project development.
 

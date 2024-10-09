@@ -91,7 +91,7 @@ This approach ensures that the community and other stakeholders have a clear, ye
 * [ ] Implement PoLN protocol V2 and deploy on **TESTNET**
   * [ ] Lending & Borrowing, Yield Farming
   * [ ] Support multiple agents/mentors inside a single Fellowship
-  * [ ] Additional cryptocurrencies for contractor payment
+  * [ ] Additional cryptocurrencies for fellowship member payments
 * [ ] Develop community & partnerships
 
 </details>

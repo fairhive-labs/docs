@@ -196,7 +196,7 @@ The PoLN protocol addresses these challenges efficiently by providing a structur
 
 ### Step 5: Payment and Delivery
 
-* **Invoicing:** Contractors can request payments according to the invoicing period established during mission creation. This ensures continuous compensation for completed and satisfactory work.
+* **Invoicing:** Fellowship members can request payments according to the invoicing period established during mission creation. This ensures continuous compensation for completed and satisfactory work.
 
 {% hint style="success" %}
 **Transparency in Delivery:** The progress of the project and invoicing can be monitored by the initiator and community, ensuring that all participants are held accountable for their contributions.

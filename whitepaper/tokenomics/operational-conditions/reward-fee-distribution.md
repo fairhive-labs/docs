@@ -67,7 +67,7 @@ In the event a project is deemed unsuccessful:
 If a project is terminated before its set deadline:
 
 * **Fellowship**: The fellowship's staked tokens are burnt.
-* **Initiator**: The initiator can claim back the remaining payment that was locked for the contractor since they will no longer be getting paid. However, the initiator does not receive any rewards, and any protocol fees already paid are not refunded.
+* **Initiator**: The initiator can claim back the remaining payment that was locked for the fellowship members since they will no longer be getting paid. However, the initiator does not receive any rewards, and any protocol fees already paid are not refunded.
 * **Community**: The community receives the protocol fees for their continued operational support.
 
 ### Cycling Failure into Community Prosperity

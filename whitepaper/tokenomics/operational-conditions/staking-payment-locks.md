@@ -72,7 +72,7 @@ In addition to covering the primary project funding, **initiators are required t
 
 ## Timely Provisions by Initiator
 
-Post bid acceptance, the initiator has a grace period (e.g., 7 days) to provision the contractor's payment and pay the required PoLN fees.
+Post bid acceptance, the initiator has a grace period (e.g., 7 days) to provision the fellowship members' payment and pay the required PoLN fees.
 
 Should the initiator fail to meet these obligations within the set timeframe:
 
@@ -87,13 +87,13 @@ In the PoLN ecosystem, the staking and payment mechanism is intelligently design
 
 ### Security via Smart Contracts
 
-Both the fellowship's staked tokens and the initiator's locked fees, inclusive of the provisioned contractor payment, reside securely in blockchain smart contracts.
+Both the fellowship's staked tokens and the initiator's locked fees, inclusive of the provisioned fellowship members' payment, reside securely in blockchain smart contracts.
 
 This setup safeguards funds, ensures transparent financial commitments, and upholds the integrity of all transactions.
 
 ### Assurances for All
 
-Contractors are assured of payment upon successful project completion, promoting trust and dedication to quality delivery.
+Fellowship members are assured of payment upon successful project completion, promoting trust and dedication to quality delivery.
 
 Fellowships are motivated by the possibility of retrieving their staked tokens upon project success, reinforcing commitment.
 
@@ -105,7 +105,7 @@ Protocol fees, once locked, are released and distributed amongst fellowship memb
 
 Fellowships see their staked $POLN tokens unlocked and returned, marking successful project execution.
 
-Contractors receive their due payment as per agreed-upon milestones or invoicing schedules, ensuring timely and fair compensation for services rendered.
+Fellowship members receive their due payment as per agreed-upon milestones or invoicing schedules, ensuring timely and fair compensation for services rendered.
 
 ## Handling Project Duration Exceedance
 
