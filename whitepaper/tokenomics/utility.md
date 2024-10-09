@@ -67,6 +67,20 @@ $POLN empowers all stakeholders, including the builders' team and the community,
 
 This inclusive approach encourages a sense of ownership and collective responsibility, fostering a balanced and well-rounded development of the protocol.
 
+## Protocol Fee
+
+The PoLN protocol includes a **2% protocol fee** on the total project cost, designed to foster a “skin in the game” dynamic.&#x20;
+
+For example, if a project costs $10,000, the initiator must provide an additional $200 in $POLN tokens as the protocol fee.&#x20;
+
+This fee ensures that the initiator is committed to the project's success and that funds are allocated towards platform sustainability.&#x20;
+
+Upon successful project completion, the fee is distributed to fellowship members as an additional reward. If the project fails, however, the fee is redirected to the DAO, supporting ongoing operations and platform improvements.&#x20;
+
+{% hint style="success" %}
+This dual-purpose fee aligns incentives across stakeholders and supports PoLN’s long-term stability.
+{% endhint %}
+
 ## Rewards and Incentive Alignment
 
 $POLN is integral to the distribution of rewards and fees, aligning incentives among initiators and fellowships. This ensures mutual benefit from successful project completions and encourages continuous contributions from all actors.

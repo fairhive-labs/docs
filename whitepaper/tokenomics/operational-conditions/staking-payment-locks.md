@@ -60,22 +60,15 @@ If a fellowship, after winning the bid, fails to stake the agreed-upon amount wi
 * The initial project bid by the fellowship is considered void or cancelled.
 * Here too, the conditions and repercussions of not meeting the staking commitments should be mentioned in the contract between the fellowship and the initiator.
 
-## Initiator's Fee Payment & Contractor Provisioning
+## Initiator's Fee Payment & Fellowship Member Provisioning
 
-Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator.
+Once a fellowship's bid is accepted and they've staked the requisite $POLN tokens, the onus shifts to the initiator. The initiator must promptly address two vital financial commitments: covering the protocol's fees and setting aside the payment for all fellowship members.
 
-The initiator must promptly address two vital financial commitments:
+To ensure transparency, trust, and security within PoLN's ecosystem, both these sums are locked into a smart contract-based escrow system. This escrow acts as a trust-establishing mechanism, confirming to fellowships and members that the initiator has genuinely committed the funds. Furthermore, the escrow operates based on set project milestones, allowing for incremental releases of funds as progress markers are achieved.
 
-* covering the protocol's fees,
-* setting aside the contractor's payment.
+In cases of disputes or disagreements, this neutral financial holding ground ensures neither party can unilaterally access the funds without due resolution. By locking in both the fees and the members' prospective payments, PoLN not only guarantees the availability of funds for fee distribution at the project's culmination but also solidifies the members' trust, knowing their due remuneration is secure.
 
-To ensure transparency, trust, and security within PoLN's ecosystem, both these sums are locked into a smart contract-based escrow system. This escrow acts as a trust-establishing mechanism, confirming to fellowships and contractors that the initiator has genuinely committed the funds.
-
-Furthermore, the escrow operates based on set project milestones, allowing for incremental releases of funds as progress markers are achieved.
-
-In cases of disputes or disagreements, this neutral financial holding ground ensures neither party can unilaterally access the funds without due resolution.
-
-By locking in both the fees and the contractor's prospective payment, PoLN not only guarantees the availability of funds for fee distribution at the project's culmination but also solidifies the contractor's trust, knowing their due remuneration is secure.
+In addition to covering the primary project funding, **initiators are required to contribute a 2% protocol fee in $POLN tokens, calculated on the total project cost**. For successful project completion, this fee is distributed as an extra reward to fellowship members, incentivizing their commitment. In the event of project failure, the fee is redirected to the DAO, supporting essential platform operations and development. This dual-purpose fee aligns incentives, ensuring that all parties have a vested interest in the project’s success.
 
 ## Timely Provisions by Initiator
 

@@ -33,6 +33,18 @@ The system is meticulously designed, integrating a robust reward matrix for init
 
 By doing so, PoLN creates a harmonious ecosystem where contributors are incentivized to align with the platform's objectives, leading to better outcomes for all.
 
+## Protocol Fee Role
+
+The protocol fee, calculated at **2% of the total project cost**, serves both as a participant incentive and a funding source for the DAO.&#x20;
+
+For successful projects, this fee is distributed among fellowship members, rewarding their efforts and commitment.&#x20;
+
+In cases where projects do not succeed, the fee instead supports the DAO, funding crucial platform operations and ongoing improvements.&#x20;
+
+{% hint style="success" %}
+This adaptable fee structure reinforces PoLN’s commitment to a sustainable, well-supported ecosystem, aligning the interests of all participants with the broader goals of operational stability and growth.
+{% endhint %}
+
 ## Success Scenario
 
 Upon the successful completion of a project, the distribution system activates:
