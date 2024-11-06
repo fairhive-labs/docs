@@ -44,7 +44,7 @@ Rewards and incentives enrich contributions and facilitate fair compensation for
 
 ### **Facilitate Equitable Wealth Distribution**
 
-Strategic supply management, including potential token burning, aims to enhance token stability.&#x20;
+Strategic supply management, including potential token burning, aims to enhance token stability.
 
 This ensures a balanced scarcity and fosters equitable wealth distribution among stakeholders.
 
@@ -75,3 +75,13 @@ Mandatory staking by fellowships and the alignment of interests through tokenomi
 {% hint style="success" %}
 This comprehensive tokenomics strategy, with a strong focus on driving demand and fostering community involvement, perfectly embodies PoLN's aspiration for a harmonious and value-centric ecosystem, achieving its foundational objectives.
 {% endhint %}
+
+## Simulation Tool Access
+
+> The tokenomics simulation tool was developed to provide stakeholders with a clear, interactive understanding of PoLN's economic model.&#x20;
+>
+> This tool enables users to simulate various tokenomics scenarios, allowing them to explore the dynamics of supply, demand, and token allocation under different conditions.&#x20;
+>
+> By analyzing these scenarios, users can make informed decisions and gain deeper insights into the mechanics driving the PoLN ecosystem.
+>
+> To request access to the tokenomics simulation tool, please contact us at [contact@poln.org](mailto:contact@poln.org).&#x20;
