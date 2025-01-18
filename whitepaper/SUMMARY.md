@@ -22,4 +22,4 @@
 * [⚖️ Governance](governance.md)
 * [🛣️ Roadmap](roadmap.md)
 * [🏗️ Architecture Overview](architecture.md)
-* [👥 fairhive-labs](fairhive-labs-team.md)
+<!-- * [👥 fairhive-labs](fairhive-labs-team.md) -->
